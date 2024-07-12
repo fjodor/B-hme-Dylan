@@ -1,0 +1,18 @@
+---
+title: "Jakob Böhme <br>und <br>Bob Dylan"
+author: "Wolf Riepl"
+title-slide-attributes: 
+  data-background-color: "#D7E6F4"
+subtitle: "Eine Geistesverwandtschaft"
+format:
+  revealjs:
+    theme: sky
+execute:
+  echo: false
+  eval: true
+  freeze: auto
+  warning: false
+  message: false
+callout-appearance: simple
+---
+
