@@ -26,6 +26,7 @@ callout-appearance: simple
 
 * lebte 1575 - 1624
 * Schuster
+* später Garnhändler
 * Buchautor
 
 :::
@@ -74,9 +75,9 @@ callout-appearance: simple
 
 ## Jakob Böhme: Anerkennung
 
-> Im Wasser lebt der Fisch, die Pflanze in der Erden,
-Der Vogel in der Luft, die Sonn im Firmament,
-Der Salamander muß im Feuer erhalten werden,
+> Im Wasser lebt der Fisch, die Pflanze in der Erden,  
+Der Vogel in der Luft, die Sonn im Firmament,  
+Der Salamander muß im Feuer erhalten werden,  
 Und Gottes Herz ist Jakob Böhmes Element.
 
 Angelus Silesius (1624 - 1677)
@@ -91,17 +92,55 @@ Georg Christoph Lichtenberg (1742-1799)
 
 ## Jakob Böhme: Anerkennung
 
-> Jakob Böhme ist der erste deutsche Philosoph, der Inhalt seines Philosophierens ist echt deutsch.
+> Jakob Böhme ist der erste deutsche Philosoph,  
+der Inhalt seines Philosophierens ist echt deutsch.
 
 Georg Wilhelm Friedrich Hegel (1770 - 1831)
 
 
 ## Jakob Böhme: Anerkennung
 
-> Der bedeutendste von diesen allen ist offenbar der spätere Jacob Böhme, dem man unter den Philosophen dieser Periode überhaupt wohl die erste Stelle einräumen könnte.
+> Der bedeutendste von diesen allen ist offenbar der spätere Jacob Böhme, dem man unter den Philosophen dieser Periode überhaupt wohl die erste Stelle einräumen könnte. [...]
+
+> Er ist ohne Zweifel der umfassendste, reichhaltigste und mannigfaltigste von allen Mystikern. Er verbreitet sich über alle Teile, die von andern nur einzeln bearbeitet oder ganz unberührt gelassen wurden.
 
 Friedrich Schlegel (1772 - 1829)
 
 
+## Jakob Böhme: Anerkennung
+
+> Der Schuster Jakob Böhme war ein großer Philosoph!  
+Manche Philosophen von Ruf sind nur große Schuster.
+
+Karl Marx (1818 - 1883)
+
+
+## Jakob Böhme: Anerkennung
+
+> Jakob Böhmes Schriftchen Von der Gnadenwahl möchte ich zu den tiefsten Erleuchtungen der ganzen Christenheit rechnen.
+
+Leopold Ziegler (1881 - 1958)
+
+
 ## Bob Dylan: Relikt der 1960er?
+
+* Wurde ab 1962 als Folk- und Protestsänger bekannt
+* Einige Songs aus dieser Zeit:  
+  + *Blowin' in the Wind*
+  + *The Times They Are A'Changin'*
+  + *With God On Our Side*
+
+  
+## Bob Dylan: Anerkennung
+
+::: incremental
+
+* **Nobelpreis für Literatur** 2016
+* **Oscar** und **Golden Globe** für *Things Have Changed* (Soundtrack zu *Wonderboys* mit Michael Douglas) 2000
+* Personen, die sowohl einen Nobelpreis als auch einen Oscar gewannen:
+  + **George Bernard Shaw** und **Bob Dylan**
+* Personen, die den Nobelpreis, den Oscar, mindestens einen **Grammy**, einen **Golden Globe** und den **Pulitzer-Preis** gewannen: nur Bob Dylan
+
+:::
+
 
