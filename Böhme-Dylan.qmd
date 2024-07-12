@@ -16,3 +16,60 @@ execute:
 callout-appearance: simple
 ---
 
+## Böhme und Dylan: Vergleichbar?
+
+::::: {.incremental style="font-size: 2rem"}
+:::: columns
+::: column
+
+### Jakob Böhme
+
+* lebte 1575 - 1624
+* Schuster
+* Buchautor
+
+:::
+
+::: column
+
+### Bob Dylan
+
+* geboren 1941
+* *"Song and Dance Man"*: Sänger und Songschreiber
+* Buchautor, Regisseur und Darsteller in einigen Filmen
+
+:::
+::::
+:::::
+
+
+## Warum?
+
+::: incremental
+
+### Ziele des Vortrags
+
+* Neues lernen?
+* Freue mich mehr, wenn etwas in Ihnen Resonanz hervorruft
+* "Mit dem Herzen hören"
+* Will Sie von nichts überzeugen
+
+:::
+
+
+## Böhme und Dylan: Parallelen?
+
+::: {.incremental style="font-size: 2rem"}
+
+* Inspiration, die über persönliche Vermögen hinausgeht
+* Erstaunliche Produktivität
+* Spiritueller Pfad
+  + Selbstübergabe an höhere Kraft
+  + Der Mensch als Werkzeug dieser Kraft
+  + Wiedergeburt des Göttlichen im Menschen
+  + Bedingungslose Akzeptanz der Lebensumstände
+:::
+
+
+## Böhme und Dylan: Lebensumstände
+
