@@ -16,7 +16,11 @@ execute:
 callout-appearance: simple
 ---
 
-## Böhme und Dylan: Vergleichbar?
+## [Böhme - Dylan: Vergleichbar?]{style="font-size: 2.6rem"}
+
+```{r}
+library(knitr)
+```
 
 ::::: {.incremental style="font-size: 2rem"}
 :::: columns
@@ -24,21 +28,39 @@ callout-appearance: simple
 
 ### Jakob Böhme
 
-* lebte 1575 - 1624
+```{r}
+#| out-width: "35%"
+#| out-height: "35%"
+#| fig-align: "center"
+
+include_graphics("libs/_Images/Jacob-Böhme.jpg")
+```
+
+* 1575 - 1624
 * Schuster
 * später Garnhändler
 * Buchautor
 
+[Gemälde von Christoph Gottlob Glymann, Wikimedia Commons]{style="font-size: 1.6rem"}
 :::
 
-::: column
+::: {.fragment .column}
 
 ### Bob Dylan
+
+```{r}
+#| out-width: "50%"
+#| out-height: "50%"
+#| fig-align: "center"
+
+include_graphics("libs/_Images/Dylan-gif1.webp")
+```
 
 * geboren 1941
 * *"Song and Dance Man"*: Sänger und Songschreiber
 * Buchautor, Regisseur und Darsteller in einigen Filmen
 
+[Bildquelle: giphy.com]{style="font-size: 1.6rem"}
 :::
 ::::
 :::::
