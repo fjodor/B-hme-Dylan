@@ -155,7 +155,7 @@ Leopold Ziegler (1881 - 1958)
 
 ## Jakob Böhme: Produktivität
 
-::: {style="font-size: 1.9rem"}
+::: {style="font-size: 1.8rem"}
 
 * 1619: Die drei Prinzipien göttlichen Wesens
 * 1620: Vom dreifachen Leben des Menschen
@@ -176,3 +176,17 @@ Leopold Ziegler (1881 - 1958)
 
 ## Bob Dylan: Produktivität
 
+::: {style="font-size: 1.8rem"}
+
+* Über 600 **Songs** geschrieben (genaue Zahl schwer zu bestimmen)
+* Über 4.000 **Konzerte** (The Rolling Stones: etwas über 2.000)
+* Mehrere **Bücher**, neben Songtexten und Zeichnungen auch:
+  + 1966: Tarantula (1971 veröffentlicht)
+  + 2004: Chronicles, Vol. 1: Autobiographie
+  + 2022: The Philosophy of Modern Song
+* **Filme**:
+  + 1973: Pat Garrett and Billy the Kid: Dylan mit Soundtrack und Nebenrolle
+  + 1978: Renaldo and Clara; Dylan Regisseur und Darsteller
+  + 2003: Masked and Anonymous, Dylan Drehbuch und Hauptrolle; <br>u. a. mit Jeff Bridges, Penélope Cruz, Ed Harris, Val Kilmer
+* **Radio**: Theme Time Radio Hour, 2006 - 2015, 1x 2020; 102 (!) Episoden  
+:::
