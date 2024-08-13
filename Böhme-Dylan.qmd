@@ -1,9 +1,9 @@
 ---
-title: "Jakob Böhme <br>und <br>Bob Dylan"
+title: "Jakob Böhme und Bob Dylan<br>Eine Spirituelle Geistesverwandtschaft"
 author: "Wolf Riepl"
 title-slide-attributes: 
   data-background-color: "#D7E6F4"
-subtitle: "Eine spirituelle Geistesverwandtschaft"
+subtitle: ""
 format:
   revealjs:
     theme: blood
@@ -57,8 +57,8 @@ include_graphics("libs/_Images/Dylan-gif1.webp")
 ```
 
 * geboren 1941
-* *"Song and Dance Man"*: Sänger und Songschreiber
-* Buchautor, Regisseur und Darsteller in einigen Filmen
+* *"Song and Dance Man"*: <br>Sänger und Songschreiber
+* Buchautor, Regisseur, Darsteller in einigen Filmen; Maler, Bildhauer
 
 [Bildquelle: giphy.com]{style="font-size: 1.6rem"}
 :::
@@ -238,3 +238,216 @@ Quelle: https://www.coveredbybrucespringsteen.com/viewcover.aspx?recordID=103
 
 * Seit 1988 *Never Ending Tour*, rund 100 Konzerte pro Jahr
 :::
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
+Vor den Zeiten der Welt ist das Modell des Menschen  
+als eine Form in Göttlicher Weisheit erkannt worden,  
+aber in keinem Geschöpf oder Bilde gestanden,  
+sondern auf magische Art,  
+wie einem im Traum ein Bilde erscheint,  
+welches ohne Wesen ist.
+
+::: notes
+Vom Irrtum der Sekten Es. Stiefels und Ez. Meths, 57
+:::
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
+Aber die Tiefe ohne Grund wollte sich in Gleichnissen offenbaren -  
+wie in einer Jungfräulichen Figur,  
+als ein Spiegel der Gottheit und Ewigkeit in Grund und Ungrund,  
+als ein Auge der Herrlichkeit Gottes.  
+Und nach diesem Auge, und in diesem Auge  
+wurden die Throne der Fürsten geschaffen als Engel;  
+und endlich der Mensch.
+Adam war ein Mensch und ein Bild Gottes,  
+ein Gleichnis von Gott.
+
+::: notes
+Von der Menschwerdung Jesu Christi, I, 5, 2
+:::
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
+Das Licht schien in ihm.  
+Er stand in großer Schönheit, Freude und Lust,  
+mit einem kindlichen Gemüte.
+
+::: notes
+Von dem Dreyfachen Leben des Menschen, 7, 25
+Mysterium Magnum, 18, 12
+:::
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
+Sein Kleid war die Klarheit in der Kraft Gottes,  
+sein Sehen war Tag und Nacht mit geöffneten Augen ohne Wimpern, 
+in ihm war kein Schlaf, und  
+in seinem Gemüte keine Nacht:  
+denn in seinen Augen war die Göttliche Kraft,  
+und er war ganz und vollkommen. 
+
+::: notes
+Beschreibung der Drey Principien Göttliches Wesens, 10, 18
+:::
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
+Er war ein Mensch, und nicht zwei,  
+er war der Mann und auch die Frau,  
+und sollte ein engelhaftes Reich aus sich gebären.  
+Er hatte Fleisch und Blut, aber himmlisch, sein Wesen war heilig. 
+
+::: notes
+Von dem Dreyfachen Leben des Menschen, 7, 25
+:::
+
+
+## Göttlicher Ursprung des Menschen: Dylan
+
+You were born with a snake in both of your fists
+While a hurricane was blowing
+Freedom just around the corner for you
+But with the truth so far off, what good will it do?
+
+
+
+## Vom Beten
+
+* Beten ist gar nicht so einfach
+* Jedes Gebet wird erhört!
+* Oft allerdings nicht so, wie es der Betende wünscht
+* Warum zeigt das Beten oft so geringen Erfolg?
+* Ausschnitt aus Gustav Meyrink, *Der Engel vom westlichen Fenster*,  
+  Gespräch zwischen John Dee und dem Rabbi in Prag
+
+::: notes
+
+Wir [John Dee und der Rabbi] sprechen von den Mühsalen der unwissenden Menschen um die Geheimnisse Gottes und der irdischen Bestimmung.
+„Man muss dem Himmel Gewalt antun“, sage ich und verweise den Rabbi auf den Kampf Jakobs mit dem Engel.
+Der Rabbi erwidert: „Recht haben Euer Ehren. Gott wird bezwungen durch Gebet.“
+„Ich bin ein Christ; ich bete mit dem Herzen und aus allen Kräften meiner Seele.“
+„Und worum, Euer Ehren?“
+„Um den Stein!“
+Der Rabbi wiegt das Haupt langsam, melancholisch, wie ein ägyptischer Sumpfreiher.
+„Gebet will gelernt sein!“
+„Was wollt Ihr damit sagen, Rabbi?“
+„Ihr betet um den Stein. Recht haben Euer Ehren. Der Stein ist ein gut Ding. – Hauptsache nur, dass Euer Gebet in Gottes Ohr trifft!“
+„Wie sollte es nicht?“ rufe ich aus. – „Bete ich ohne Glauben?“
+„Glauben?“ wackelt der Rabbi heraus. – „Was nutzt mir der Glauben ohne Wissen?“
+„Ihr seid ein Jud, Rabbi“, fährt es mir heraus.
+Der Rabbi funkelt mich an:
+„Ä Jüd. Wahr gesprochen, Euer Ehren. – Warum fragt Ihr dann einen Juden um die … Geheimnisse?! – Beten, Euer Ehren, ist überall in der Welt nur eine Kunst.“
+„Da habt Ihr gewiss die Wahrheit gesprochen, Rabbi“, – sage ich und verbeuge mich, denn mein verfluchter Christenhochmut reut mich.
+Der Rabbi lacht nur mit den Augen.
+„Schießen könnt ihr Gojim mit der Armbrust und mit dem Gewehr. Ä Wunder, wie ihr zielt und trefft! Ä Kunst, wie ihr schießt! Aber könnt ihr auch beten? Ä Wunder, wie ihr da falsch zielt und wie selten ihr … trefft!“
+„Rabbi! Ein Gebet ist doch keine Kugel aus dem Rohr!“
+„Wieso nicht, Euer Ehren? Ein Gebet ist ein Pfeil in Gottes Ohr! Wenn der Pfeil trifft, so ist das Gebet erhört. Jedes Gebet wird erhört, – muss werden erhört, denn das Gebet ist unwiderstehlich, … wenn es trifft.“
+„Und wenn es nicht trifft?“
+„Dann fällt das Gebet wie ä verlorener Pfeil wieder herunter, trifft manchmal noch was Falsches, fällt auf die Erde wie Onans Kraft – oder … es wird abgefangen vom `Andern` und seinen Dienern. Die erhören dann das Gebet auf … ihre Weise!“
+„Von welchem `Andern` ?“ frage ich mit Angst im Herzen.
+„Von welchem `Andern` ?“ äfft der Rabbi. „Von dem, der immer zwischen Oben und Unten wacht. Vom Engel Metatron, dem Herrn der tausend Gesichter …“
+Ich verstehe und schaudere: Wenn ich nun – falsch bete – ?
+:::
+
+
+## Vom Beten: Innere Haltung
+
+> Der HERR ist nahe denen,  
+> die zerbrochenen Herzens sind,  
+> und er hilft denen,  
+> die zerschlagenen Geistes sind.
+
+[Psalm 34,19]{style="align: right"}
+
+
+## Vom Beten: Jacob Böhme
+
+#### Der Weg zu Christo, "Vom Heiligen Gebet"
+
+#### Vorrede an den Gottliebenden Leser
+
+17 […] „Bittet, so werdet ihr empfangen. Suchet, so werdet ihr finden. Klopfet an, so wird euch aufgetan.“  
+(Luk. 11.9)
+
+::: fragment
+18 Ein jedes Gebet, das da nicht findet und empfängt, das ist kalt und lau und steckt in einer Behinderung zeitlicher und irdischer Dinge. Das heißt, die Seele naht sich nicht auf wahrhafte Weise Gott. Sie will sich Gott nicht ganz und gar ergeben, sondern hängt noch an irdischer Liebe, die sie gefangenhält, sodass sie die Stätte Gottes nicht erreichen kann.
+:::
+
+
+## Vom Beten: Jacob Böhme
+
+#### Der Weg zu Christo, "Vom Heiligen Gebet"
+
+#### Eine Beichte und wahrhafte Buß-Wirkung vor Gottes Angesicht
+
+39 […] Oh großer Gott, stärke doch meinen schwachen Glauben in mir,  
+zerschelle doch mein (eigenwilliges) Herz,  
+sodass es die vielfältigen Sünden erkenne und bereue,  
+und erwecke doch mit deiner Kraft meine arme Seele,  
+sodass sie sich erkenne, wie sie von dir abgewandt steht.
+
+::: notes
+[…] Oh Herr, was soll ich in meiner Eitelkeit von dir erbitten? Ich erbitte von dir nichts als nur das Sterben meines Heilands Jesus Christus, dass du mich in seinem Tod tötest und in seiner Auferstehung in Ihm lebendig machst, damit ich nicht mehr nach meines Geistes Willen in ihm wandle, sondern in Ihm, sodass ich sein Tempel und Wohnhaus sein kann, damit Er mich leite und führe, und dass ich ohne Ihn nichts wollen oder tun könne. Verbinde mich mit Ihm, auf dass ich eine gute Rebe an seinem Weinstock sei und in seiner Kraft gute Früchte trage. In deine Zusage versinke ich ganz und gar, und mir geschehe nach deinem Wort und Willen. Amen.
+:::
+
+
+## Vom Beten: Bob Dylan
+
+#### Covenant Woman
+
+Ich bin zerbrochen, zerschmettert wie eine leere Tasse  
+Ich warte nur auf den Herrn,  
+der mich wieder aufbaut und mich füllt  
+Und ich weiß, er wird es tun, denn Er ist so treu und wahr
+
+<br>
+
+::: fragment
+*I’ve been broken, shattered like an empty cup*  
+*I’m just waiting on the Lord *
+*to rebuild and fill me up*  
+*And I know He will do it ’cause He’s faithful and He’s true*
+:::
+
+
+::: notes
+Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor Shot of Love
+
+Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
+
+Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar ein sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
+
+Merkwürdig aber ist, daß eine andere Musik, die eine vergleichbare Wirkung auf mich hatte, ebenfalls von Christlich-Religiösem getragen wird: die Johann Sebastian Bachs. (Den quasi areligiösen Richard Wagner habe ich erst vor zwei Jahren entdeckt.) Es ist eine unglaubliche Musik; man fragt sich, wie ein Mensch so etwas erschaffen kann. Auch hier ist es die pure Faszination – nur aus dem Gefühl heraus.
+
+...
+
+Für mich stehen bei Dylan – was man denken könnte – die Texte nicht im Mittelpunkt; und schon gar nicht gehöre ich zu den Dylanologen. Für mich steht auch nicht die Musik im Mittelpunkt. Worum geht es bei Dylan überhaupt?
+
+Es hängt mit der erwähnten Faszination zusammen, die natürlich auch andere Schaffensphasen als die „christliche“ betrifft. Es hängt mit einer gewissen Haltung zusammen. Auch andere seiner Werke zeugen natürlich von besagter Ernsthaftigkeit und großer persönlicher Betroffenheit. Es gibt schlichtweg keinen anderen Künstler in der populären Kunst – mit Ausnahme von Leonard Cohen –, der so aus seinen ureigensten seelischen Inhalten schöpft, wie es Dylan tut.
+
+Die Atmosphäre in Dylans Kunst ist von einem hohen Maß an Echtheit gekennzeichnet. Darin liegt das Faszinierende. Das liegt seinem Schaffen zugrunde und drückt sich – mit welchen Symbolismen er mitunter auch arbeiten mag – in diesem aus. Ich kann nichts Verschlossenes oder Mystifizierendes sehen – sein Werk ist eine Offenbarung. In dem, was er macht, ist er präsent. Diese Präsenz, dieses Persönliche, gibt es bei keinem anderen Künstler.
+
+Wenn weder im Text noch in der Musik das Wesentliche und Besondere in Dylans Kunst zu suchen ist, sondern im seelischen Antrieb, der diesen zugrunde liegt, wie würde ich dann an deutsche Fassungen herangehen? – Es hat sich von Anfang an von selbst ergeben, daß ich einfach nahe am Original bleibe. Ich liebe diese Lieder, so wie sie sind, und will sie so lassen; es gab keine „wandering desires“.
+
+Es ist legitim und oft sehr sinnvoll, wenn Rockmusik Unterhaltungskunst ist. Wenn besagte Präsenz aber darüber hinausführt, so kann das seine Ursache auch darin haben, daß der Künstler nicht einfach viel intelligenter und sensibler als andere ist, sondern daß die Kunst für ihn ein Mittel ist, ein Mehr an Präsenz zu erreichen, daß er sich durch die Kunst eine größere Selbstwahrnehmung und -bestätigung verschafft. Was aber wäre, wenn dieser Mensch erst präsent wird, indem er sich als Künstler betätigt, was, wenn er Lieder schriebe, um dadurch überhaupt Präsenz zu gewinnen?
+
+Vielleicht liegt dem riesigen Dylan’schen Œuvre ein entsprechender Zwang zugrunde (dem dann auch der Fan unterläge). Dylan ist ohne Ende auf Tournee, und er hat Hunderte von Liedern geschrieben, von denen viele gar nicht veröffentlicht worden sind.
+
+1966 war Bob Dylan bei einem Motorradunfall fast ums Leben gekommen: ein traumatisches Erlebnis, das ihn sicherlich auf den Kern seiner Person zurückgeworfen hat. In der Genesungsphase lud Dylan die Musiker von The Band zu sich ein, und es entstanden im Keller seines Hauses Lieder, die manchen Fans als einige seiner bedeutendsten gelten: Diese wurden auf Basement Tapes aufgenommen (die Originale landeten übrigens eigenartigerweise im Archiv von Neil Young) und später (1975) als solche veröffentlicht. Ein Lied wurde dabei ausgelassen, blieb viele Jahrzehnte unveröffentlicht und wurde zum Geheimtip; und das war das Lied mit dem Titel I’m Not There.
+
+Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist ein Schlüssellied. Vier Akkorde sind die Grundlage für eine Art Improvisation, die in das einzig Notierte, nämlich diesen Kehrreim endet: „Ich bin nicht da.“ Der Text scheint nicht nur improvisiert zu sein, sondern ist an vielen Stellen schlicht unverständlich. Dylan benutzt eine Privatsprache und scheint auf Worte und hergebrachte Wortbedeutungen keine große Rücksicht zu nehmen – alles fließt direkt aus seinen Gefühlen und aus seinem Unterbewußten. Kognitives ist bei der Eroberung von Präsenz kaum von Bedeutung; das wird er später im Song Standing In The Doorway sagen: „I see nothing to be gained by any explanation.“ I’m Not There ist direkter Ausdruck seines Innersten.
+
+...
+
+Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von Saved und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient seelisch nicht ähnlich verfaßt wäre wie der Künstler. Auf den Punkt gebracht lautet diese Verfassung: Ich bin nicht da; beziehungsweise – in den Gefühlen der Liebe dann –: Endlich bin ich da.
+
+
+:::
+
