@@ -375,10 +375,10 @@ Von dem Dreyfachen Leben des Menschen, 7, 25
 :::
 
 
-## Göttlicher Ursprung des Menschen: Dylan {.smaller}
+## Göttlicher Ursprung des Menschen: Dylan
 
 :::: columns
-::: {.column width="65%"}
+::: {.column width="65%" style="font-size: 2rem"}
 Du wurdest mit Schlangen in beiden Händen geboren  
 Als ein Hurricane brauste  
 Deine Freiheit liegt gleich hier um die Ecke  
@@ -391,6 +391,8 @@ Bob Dylan, Jokerman (1983)
 ::: {.column width="35%"}
 ```{r}
 #| fig.align: "center"
+#| out.width: "75%"
+#| out.height: "75%"
 
 include_graphics("libs/_Images/Johfra-Sohn-der-Schlangen.jpg")
 ```
@@ -405,6 +407,11 @@ You were born with a snake in both of your fists
 While a hurricane was blowing  
 Freedom just around the corner for you  
 But with the truth so far off, what good will it do?
+
+ÄU 1, Klappentext
+"Er hat es sich selbst, lebend, zu einem Grabe gemacht." Aus diesem Grab der Natur steigt der Sohn empor, bekleidet mit dem goldenen Hochzeitskleid der neuen Seele. Er ist der neue merkur, der dreimal große hermes. Sein Haupt schmückt die goldene Wunderblume des neuen Denkvermögens, seine Hände halten die beiden feurigen Schlangen des erneuerten spinalen Fluidums, die positive und die negative Ansicht. Die fünf Kontaktpunkte zwischen der neuen Seele und der transfigurierten Persönlichkeit strahlen als Rosen. Er hat seinen Pymander gefunden.
+
+So steigt er empor von Herrlichkeit zu Herrlichkeit, vereint mit dem Geist, und lässt das Totengebein, die vielen missglückten Versuche, in der Wüste der dialektischen Vergangenheit zurück.
 :::
 
 
@@ -450,11 +457,42 @@ Bob Dylan: I think every composer does that. No one in his right mind would thin
 :::
 
 
-## Quellen der Inspiration: Dylan
+## Quellen der Inspiration: Böhme
 
-Du musst diese Gedanken ausfiltern, denn sie bedeuten nichts, sie treiben dich nur vor sich her. Es ist wichtig, alle diese Gedanken loszuwerden.  Dann kannst du etwas tun aus der reinen Beobachtung der Situation. Du hast einen Ort, an dem du wahrnehmen kannst, ohne dass es dich beeinflusst. Wo du etwas bringen kannst, ohne nur ans Nehmen zu denken. Viele Lebenssituationen sind heutzutage so: nehmen, nehmen, nehmen, das ist alles. Was ist für mich drin? Dieses Syndrom begann mit dem "Ich-Jahrzehnt", wann auch immer das war. Wir sind immer noch mittendrin. Es geschieht weiterhin.
+Der Jünger sprach zum Meister: Wie kann ich zu dem übersinnlichen Leben kommen, so daß ich Gott sehe und sprechen höre?  
+
+Der Meister sprach: Wenn du dich nur einen Augenblick dahin schwingen kannst, wo keine Kreatur wohnt, dann hörst du, was Gott spricht.
 
 ::: notes
+Jakob Böhme, Vom Übersinnlichen Leben  
+aus: Der Weg zu Christo, 1622
+:::
+
+
+## Quellen der Inspiration: Böhme
+
+Der Jünger sprach: Ist das nah oder fern?
+
+Der Meister sprach: Es ist in dir, und wenn du nur eine Stunde schweigen kannst von all deinem Wollen und Sinnen, dann wirst du unaussprechliche Worte Gottes hören.
+
+
+## Quellen der Inspiration: Böhme
+
+Der Jünger sprach: Wie kann ich hören, wenn ich von Sinnen und Wollen stillstehe?
+
+Der Meister sprach: Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. Dein eigenes Hören, Wollen und Sehen verhindert, daß du Gott siehst oder hörst.
+
+
+## Quellen der Inspiration: Dylan
+
+Du musst diese Gedanken ausfiltern, denn sie bedeuten nichts, sie treiben dich nur vor sich her. Es ist wichtig, alle diese Gedanken loszuwerden.  Dann kannst du etwas tun aus der **reinen Beobachtung** der Situation. Du hast einen Ort, an dem du wahrnehmen kannst, ohne dass es dich beeinflusst. Wo du etwas bringen kannst, ohne nur ans Nehmen zu denken.
+
+Bob Dylan 1991, Interview mit Paul Zollo
+
+::: notes
+*Fortsetzung:*  
+Viele Lebenssituationen sind heutzutage so: nehmen, nehmen, nehmen, das ist alles. Was ist für mich drin? Dieses Syndrom begann mit dem "Ich-Jahrzehnt", wann auch immer das war. Wir sind immer noch mittendrin. Es geschieht weiterhin.
+
 Song Talk Interview, Paul Zollo, 1991,   https://americansongwriter.com/bob-dylan-the-interview-part-1/  abgerufen am 21.07.2024
 
 You ought to be able to sort out those thoughts, because they don’t mean anything, they’re just pulling you around, too. It’s important to get rid of all them thoughts. Then you can do something from some kind of surveillance of the situation. You have some kind of place where you can see but it can’t affect you. Where you can bring something to the matter, besides just take, take, take, take, take. As so many situations in life are today. Take, take, take, that’s all that it is. What’s in it for me? That syndrome which started in the “Me Decade,” whenever that was. We’re still in that. It’s still happening. 
