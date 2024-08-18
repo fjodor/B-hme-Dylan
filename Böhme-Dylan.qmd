@@ -98,7 +98,7 @@ include_graphics("libs/_Images/Dylan-gif1.webp")
 ## Thesen
 
 * Bob Dylan ist ein Relikt der 1960er Jahre: früh berühmt geworden als Protestsänger, und dann eben nicht so früh gestorben wie etwa der "Klub 27"
-* Bob Dylan hatte eine "christliche Phase" mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich von der christlichen Fixierung 
+* Bob Dylan konvertierte zum Christentum mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich vom Christentum abgewendet
 
 ::: notes
 
@@ -213,6 +213,30 @@ abgerufen am 21.07.2024
 
 :::
 
+::: notes
+In welchem Jahr hat Bob Dylan erstmals eine Single auf Platz 1 der US-Charts platziert?
+2020: Murder Most Foul, 16:55 Minuten lang
+:::
+
+
+## Bob Dylan: Anerkennung
+
+> Bob Dylan den Nobelpreis zu geben ist so, wie eine Medaille an Mount Everest zu heften, um ihn als höchsten Berg zu kennzeichnen.
+
+Leonard Cohen, 13.10.2016, dem Tag der Bekanntgabe des Literaturnobelpreises 2016 an Dylan
+
+
+::: notes
+Leonard Cohen: To me [the award] is like pinning a medal on Mount Everest for being the highest mountain.
+Q & A about his latest album, "You Want it Darker"
+:::
+
+```{r}
+include_graphics("libs/_Images/Leonard Cohen 2016.png")
+```
+
+[Urheber: Divulgação/Frank Micelotta]{style="font-size: 1.5rem"}
+
 
 ## Jakob Böhme: Produktivität
 
@@ -305,6 +329,16 @@ Von der Menschwerdung Jesu Christi, I, 5, 2
 
 ## Göttlicher Ursprung des Menschen: Böhme
 
+Und nach diesem Auge, und in diesem Auge  
+wurden die Throne der Fürsten geschaffen als Engel;  
+und endlich der Mensch.
+
+**Adam war ein Mensch und ein Bild Gottes,  
+ein Gleichnis von Gott.**
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
 Das Licht schien in ihm.  
 Er stand in großer Schönheit, Freude und Lust,  
 mit einem kindlichen Gemüte.
@@ -331,7 +365,7 @@ Beschreibung der Drey Principien Göttliches Wesens, 10, 18
 
 ## Göttlicher Ursprung des Menschen: Böhme
 
-Er war ein Mensch, und nicht zwei,  
+Er war <u>ein</u> Mensch, und nicht zwei,  
 er war der Mann und auch die Frau,  
 und sollte ein engelhaftes Reich aus sich gebären.  
 Er hatte Fleisch und Blut, aber himmlisch, sein Wesen war heilig. 
