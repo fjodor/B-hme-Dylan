@@ -95,6 +95,18 @@ include_graphics("libs/_Images/Dylan-gif1.webp")
 :::
 
 
+## Thesen
+
+* Bob Dylan ist ein Relikt der 1960er Jahre: früh berühmt geworden als Protestsänger, und dann eben nicht so früh gestorben wie etwa der "Klub 27"
+* Bob Dylan hatte eine "christliche Phase" mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich von der christlichen Fixierung 
+
+::: notes
+
+* Jakob Böhme genießt in spirituellen Kreisen einen weitaus besseren Ruf als Dylan. In Böhmes Fall zurecht - über Dylan reden wir ...
+* Klub 27:  Jim Morrison, Brian Jones, Janis Joplin, Jimi Hendrix (alle 1969 - 1971); Kurt Cobain (1994); Amy Winehouse (2011)
+:::
+
+
 ## Jakob Böhme: Anerkennung
 
 > Im Wasser lebt der Fisch, die Pflanze in der Erden,  
