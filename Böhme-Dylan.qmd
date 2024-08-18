@@ -375,14 +375,37 @@ Von dem Dreyfachen Leben des Menschen, 7, 25
 :::
 
 
-## Göttlicher Ursprung des Menschen: Dylan
+## Göttlicher Ursprung des Menschen: Dylan {.smaller}
 
-You were born with a snake in both of your fists
-While a hurricane was blowing
-Freedom just around the corner for you
+:::: columns
+::: {.column width="65%"}
+Du wurdest mit Schlangen in beiden Händen geboren  
+Als ein Hurricane brauste  
+Deine Freiheit liegt gleich hier um die Ecke  
+Doch wenn Du so weit von der Wahrheit entfernt bist  
+Was nützt es Dir?
+
+Bob Dylan, Jokerman (1983)
+:::
+
+::: {.column width="35%"}
+```{r}
+#| fig.align: "center"
+
+include_graphics("libs/_Images/Johfra-Sohn-der-Schlangen.jpg")
+```
+
+[Urheber: Johfra Bosschart <br> "Sohn der Schlangen", 1959]{style="font-size: 1.4rem"}
+:::
+::::
+
+
+::: notes
+You were born with a snake in both of your fists  
+While a hurricane was blowing  
+Freedom just around the corner for you  
 But with the truth so far off, what good will it do?
-
-(Bild einfügen)
+:::
 
 
 ## Quellen der Inspiration: Böhme
