@@ -1,12 +1,13 @@
 ---
-title: "Jakob Böhme und Bob Dylan<br>Eine Spirituelle Geistesverwandtschaft"
+title: "Jakob Böhme <br>und Bob Dylan:<br>Spirituelle Geistesverwandtschaft"
 author: "Wolf Riepl"
 title-slide-attributes: 
   data-background-color: "#D7E6F4"
 subtitle: ""
 format:
   revealjs:
-    theme: blood
+    # theme: blood
+    theme: league
 execute:
   echo: false
   eval: true
@@ -65,18 +66,12 @@ include_graphics("libs/_Images/Dylan-gif1.webp")
 ::::
 :::::
 
-
-## Warum?
-
-::: incremental
-
-### Ziele des Vortrags
-
+::: notes
+Warum?
 * Neues lernen?
 * Freue mich mehr, wenn etwas in Ihnen Resonanz hervorruft
 * "Mit dem Herzen hören"
 * Will Sie von nichts überzeugen
-
 :::
 
 
@@ -189,7 +184,8 @@ Quelle: https://www.coveredbybrucespringsteen.com/viewcover.aspx?recordID=103
 > Und ich glaube nicht, dass irgend jemand stromabwärts von Bob Dylan  
 > jemals etwas gefangen hat.
 
-Arlo Guthrie
+Arlo Guthrie  
+[zitiert von Paul Zollo im Interview mit Dylan, 1991]{style="font-size: 1.rem"}
 
 > *Songwriting is like fishing in a stream;*  
 > *you put in your line and hope you catch something.*  
@@ -243,7 +239,7 @@ include_graphics("libs/_Images/Leonard Cohen 2016.png")
 * Geistige Schau 1600, mit 25 Jahren
 * Erst 1612 *Aurora oder Morgenröte im Aufgang*
 * Handschriftlich, für sich selbst geschrieben, Freunde fertigten ohne sein Wissen Abschriften
-* Görlitzer Pfarrer Gregor Richter verhängte Schreibverbot
+* Görlitzer Pfarrer Gregor Richter erwirkte 1613 beim Stadtrat Schreibverbot
 * Erst 1619 schrieb Böhme wieder, ihm blieben nur noch fünf Jahre
 
 
@@ -305,9 +301,8 @@ sondern auf magische Art,
 wie einem im Traum ein Bilde erscheint,  
 welches ohne Wesen ist.
 
-::: notes
-Vom Irrtum der Sekten Es. Stiefels und Ez. Meths, 57
-:::
+
+[Vom Irrtum der Sekten Es. Stiefels und Ez. Meths, 57]{style="font-size: 1.5rem"}
 
 
 ## Göttlicher Ursprung des Menschen: Böhme
@@ -322,9 +317,7 @@ und endlich der Mensch.
 Adam war ein Mensch und ein Bild Gottes,  
 ein Gleichnis von Gott.
 
-::: notes
-Von der Menschwerdung Jesu Christi, I, 5, 2
-:::
+[Von der Menschwerdung Jesu Christi, I, 5, 2]{style="font-size: 1.5rem"}
 
 
 ## Göttlicher Ursprung des Menschen: Böhme
@@ -337,16 +330,17 @@ und endlich der Mensch.
 ein Gleichnis von Gott.**
 
 
+[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
+
+
 ## Göttlicher Ursprung des Menschen: Böhme
 
 Das Licht schien in ihm.  
 Er stand in großer Schönheit, Freude und Lust,  
 mit einem kindlichen Gemüte.
 
-::: notes
-Von dem Dreyfachen Leben des Menschen, 7, 25
-Mysterium Magnum, 18, 12
-:::
+
+[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
 
 
 ## Göttlicher Ursprung des Menschen: Böhme
@@ -358,9 +352,8 @@ in seinem Gemüte keine Nacht:
 denn in seinen Augen war die Göttliche Kraft,  
 und er war ganz und vollkommen. 
 
-::: notes
-Beschreibung der Drey Principien Göttliches Wesens, 10, 18
-:::
+
+[Beschreibung der Drey Principien Göttliches Wesens, 10, 18]{style="font-size: 1.5rem"}
 
 
 ## Göttlicher Ursprung des Menschen: Böhme
@@ -370,9 +363,7 @@ er war der Mann und auch die Frau,
 und sollte ein engelhaftes Reich aus sich gebären.  
 Er hatte Fleisch und Blut, aber himmlisch, sein Wesen war heilig. 
 
-::: notes
-Von dem Dreyfachen Leben des Menschen, 7, 25
-:::
+[Von dem Dreyfachen Leben des Menschen, 7, 25]{style="font-size: 1.5rem"}
 
 
 ## Göttlicher Ursprung des Menschen: Dylan
@@ -385,7 +376,7 @@ Deine Freiheit liegt gleich hier um die Ecke
 Doch wenn Du so weit von der Wahrheit entfernt bist  
 Was nützt es Dir?
 
-Bob Dylan, Jokerman (1983)
+[Jokerman, Album Infidels, 1983]{style="font-size: 1.5rem"}
 :::
 
 ::: {.column width="35%"}
@@ -424,9 +415,8 @@ Ich kann der Welt Grund und alle Heimlichkeit darin finden.
 
 Ich benötige kein anderes Buch.  
 
-::: notes
-Theosophische Sendbriefe 12, 15 und 14
-:::
+
+[Theosophische Sendbriefe 12, 15 und 14]{style="font-size: 1.5rem"}
 
 
 ## Quellen der Inspiration: Böhme
@@ -437,9 +427,8 @@ weil er selbst das Gleichnis der Gottheit ist;
 das große Geheimnis liegt in ihm,  
 aber das Offenbaren gehört dem Geiste Gottes.  
 
-::: notes
-Theosophische Sendbriefe, 20, 3
-:::
+
+[Theosophische Sendbriefe, 20, 3]{style="font-size: 1.5rem"}
 
 
 ## Quellen der Inspiration: Dylan
@@ -448,6 +437,8 @@ Karen Hughes: Wenn Sie Songs schreiben, empfinden Sie sich mehr als Medium, stim
 
 Bob Dylan: Ich denke, jeder Künstler [*Composer*] tut das. Niemand, der bei klarem Verstand ist, würde behaupten, es käme von ihm selbst, dass er es erfunden hat. Es strömt nur durch ihn hindurch.
 
+
+Interview, 1980
 
 ::: notes
 Interview von 1980
@@ -464,7 +455,7 @@ Der Jünger sprach zum Meister: Wie kann ich zu dem übersinnlichen Leben kommen
 Der Meister sprach: Wenn du dich nur einen Augenblick dahin schwingen kannst, wo keine Kreatur wohnt, dann hörst du, was Gott spricht.
 
 
-[Jakob Böhme, Vom Übersinnlichen Leben  
+[Vom Übersinnlichen Leben  
 aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 
@@ -475,7 +466,7 @@ Der Jünger sprach: Ist das nah oder fern?
 Der Meister sprach: Es ist in dir, und wenn du nur eine Stunde schweigen kannst von all deinem Wollen und Sinnen, dann wirst du unaussprechliche Worte Gottes hören.
 
 
-[Jakob Böhme, Vom Übersinnlichen Leben  
+[Vom Übersinnlichen Leben  
 aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 
@@ -486,7 +477,7 @@ Der Jünger sprach: Wie kann ich hören, wenn ich von Sinnen und Wollen stillste
 Der Meister sprach: Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. Dein eigenes Hören, Wollen und Sehen verhindert, daß du Gott siehst oder hörst.
 
 
-[Jakob Böhme, Vom Übersinnlichen Leben  
+[Vom Übersinnlichen Leben  
 aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 
@@ -575,10 +566,6 @@ Ich verstehe und schaudere: Wenn ich nun – falsch bete – ?
 
 ## Vom Beten: Jacob Böhme
 
-#### Der Weg zu Christo, "Vom Heiligen Gebet"
-
-#### Vorrede an den Gottliebenden Leser
-
 17 […] „Bittet, so werdet ihr empfangen. Suchet, so werdet ihr finden. Klopfet an, so wird euch aufgetan.“  
 (Luk. 11.9)
 
@@ -586,12 +573,11 @@ Ich verstehe und schaudere: Wenn ich nun – falsch bete – ?
 18 Ein jedes Gebet, das da nicht findet und empfängt, das ist kalt und lau und steckt in einer Behinderung zeitlicher und irdischer Dinge. Das heißt, die Seele naht sich nicht auf wahrhafte Weise Gott. Sie will sich Gott nicht ganz und gar ergeben, sondern hängt noch an irdischer Liebe, die sie gefangenhält, sodass sie die Stätte Gottes nicht erreichen kann.
 :::
 
+[Der Weg zu Christo, "Vom Heiligen Gebet"
+Vorrede an den Gottliebenden Leser]{style="font-size: 1.5rem"}
+
 
 ## Vom Beten: Jacob Böhme
-
-#### Der Weg zu Christo, "Vom Heiligen Gebet"
-
-#### Eine Beichte und wahrhafte Buß-Wirkung vor Gottes Angesicht
 
 39 […] Oh großer Gott, stärke doch meinen schwachen Glauben in mir,  
 zerschelle doch mein (eigenwilliges) Herz,  
@@ -599,14 +585,16 @@ sodass es die vielfältigen Sünden erkenne und bereue,
 und erwecke doch mit deiner Kraft meine arme Seele,  
 sodass sie sich erkenne, wie sie von dir abgewandt steht.
 
+[Der Weg zu Christo, "Vom Heiligen Gebet"
+Eine Beichte und wahrhafte Buß-Wirkung vor Gottes Angesicht]{style="font-size: 1.5rem"}
+
+
 ::: notes
 […] Oh Herr, was soll ich in meiner Eitelkeit von dir erbitten? Ich erbitte von dir nichts als nur das Sterben meines Heilands Jesus Christus, dass du mich in seinem Tod tötest und in seiner Auferstehung in Ihm lebendig machst, damit ich nicht mehr nach meines Geistes Willen in ihm wandle, sondern in Ihm, sodass ich sein Tempel und Wohnhaus sein kann, damit Er mich leite und führe, und dass ich ohne Ihn nichts wollen oder tun könne. Verbinde mich mit Ihm, auf dass ich eine gute Rebe an seinem Weinstock sei und in seiner Kraft gute Früchte trage. In deine Zusage versinke ich ganz und gar, und mir geschehe nach deinem Wort und Willen. Amen.
 :::
 
 
 ## Vom Beten: Bob Dylan
-
-#### Covenant Woman
 
 Ich bin zerbrochen, zerschmettert wie eine leere Tasse  
 Ich warte nur auf den Herrn,  
@@ -622,6 +610,7 @@ Und ich weiß, er wird es tun, denn Er ist so treu und wahr
 *And I know He will do it ’cause He’s faithful and He’s true*
 :::
 
+[Covenant Woman, Album Saved, 1980]{style="font-size: 1.5rem"}
 
 ::: notes
 Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor Shot of Love
@@ -654,6 +643,9 @@ Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist e
 
 Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von Saved und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient seelisch nicht ähnlich verfaßt wäre wie der Künstler. Auf den Punkt gebracht lautet diese Verfassung: Ich bin nicht da; beziehungsweise – in den Gefühlen der Liebe dann –: Endlich bin ich da.
 :::
+
+## Vom Beten: Bob Dylan
+
 
 
 ## Wem willst Du dienen? Böhme
@@ -691,7 +683,7 @@ Es mag der Teufel sein oder der Herr
 Aber Du wirst jemandem dienen müssen
 
 
-[Gotta Serve Somebody, Album Slow Train Coming, 1979}{style="font-size: 1.5rem"}
+[Gotta Serve Somebody, Album Slow Train Coming, 1979]{style="font-size: 1.5rem"}
 
 ::: notes
 Vielfach gespielt in den 1990ern, 2000ern, 2010ern, 2021-2024
@@ -721,7 +713,7 @@ Es mag der Teufel sein oder der Herr
 Aber Du wirst jemandem dienen müssen
 
 
-[Gotta Serve Somebody, Album Slow Train Coming, 1979}{style="font-size: 1.5rem"}
+[Gotta Serve Somebody, Album Slow Train Coming, 1979]{style="font-size: 1.5rem"}
 
 ::: notes
 You may be a preacher with your spiritual pride
@@ -749,7 +741,7 @@ Es mag der Teufel sein oder der Herr
 Aber Du wirst jemandem dienen müssen
 
 
-[Gotta Serve Somebody, Album Slow Train Coming, 1979}{style="font-size: 1.5rem"}
+[Gotta Serve Somebody, Album Slow Train Coming, 1979]{style="font-size: 1.5rem"}
 
 ::: notes
 You may call me Terry, you may call me Timmy
@@ -762,3 +754,5 @@ You’re gonna have to serve somebody
 Well, it may be the devil or it may be the Lord
 But you’re gonna have to serve somebody
 :::
+
+
