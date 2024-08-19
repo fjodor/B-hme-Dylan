@@ -1,5 +1,5 @@
 ---
-title: "Jakob Böhme <br>und Bob Dylan:<br>Spirituelle Geistesverwandtschaft"
+title: "Jakob Böhme <br>und Bob Dylan:<br>Spirituelle Geistes-verwandtschaft"
 author: "Wolf Riepl"
 title-slide-attributes: 
   data-background-color: "#D7E6F4"
@@ -93,7 +93,7 @@ Warum?
 ## Thesen
 
 * Bob Dylan ist ein Relikt der 1960er Jahre: früh berühmt geworden als Protestsänger, und dann eben nicht so früh gestorben wie etwa der "Klub 27"
-* Bob Dylan konvertierte zum Christentum mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich vom Christentum abgewendet
+* Bob Dylan konvertierte zum Christentum mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich vom Christentum abgewandt
 
 ::: notes
 
@@ -146,7 +146,7 @@ Karl Marx (1818 - 1883)
 
 ## Jakob Böhme: Anerkennung
 
-> Jakob Böhmes Schriftchen Von der Gnadenwahl möchte ich zu den tiefsten Erleuchtungen der ganzen Christenheit rechnen.
+> Jakob Böhmes Schriftchen *Von der Gnadenwahl* möchte ich zu den tiefsten Erleuchtungen der ganzen Christenheit rechnen.
 
 Leopold Ziegler (1881 - 1958)
 
@@ -158,6 +158,13 @@ Leopold Ziegler (1881 - 1958)
   + *Blowin' in the Wind*
   + *The Times They Are A'Changin'*
   + *With God On Our Side*
+  + *Desolation Row*
+  + *Like a Rolling Stone*
+
+
+::: notes
+*Like a Rolling Stone* hat viele Musiker, Bruce Springsteen ("The Boss") und Wolfgang Niedecken (BAP) stark beeinflusst. Das *Rolling Stone*-Musikmagazin platzierte den Song 2004 auf Platz 1 der 500 Besten Songs aller Zeiten, 2010 erneut. 2021 in der überarbeiteten Rangliste landete er noch auf Rang 4.
+:::
 
 
 ## Bob Dylan: Anerkennung
@@ -187,13 +194,12 @@ Quelle: https://www.coveredbybrucespringsteen.com/viewcover.aspx?recordID=103
 Arlo Guthrie  
 [zitiert von Paul Zollo im Interview mit Dylan, 1991]{style="font-size: 1.rem"}
 
-> *Songwriting is like fishing in a stream;*  
-> *you put in your line and hope you catch something.*  
-> *And I don’t think anyone downstream from Bob Dylan ever caught anything.*  
-
 ::: notes
 SongTalk Interview 1991 mit Bob Dylan; Paul Zollo;   https://americansongwriter.com/bob-dylan-the-interview-part-1/  
 abgerufen am 21.07.2024
+> *Songwriting is like fishing in a stream;*  
+> *you put in your line and hope you catch something.*  
+> *And I don’t think anyone downstream from Bob Dylan ever caught anything.*  
 :::
 
 
@@ -302,6 +308,7 @@ wie einem im Traum ein Bilde erscheint,
 welches ohne Wesen ist.
 
 
+[Dieser und die folgenden Auszüge wurden von **Ronald Steckel** zusammengestellt und sind dem Transkript des Films ***Morgenröte im Aufgang*** entnommen. Großer Dank an **Steckel, Klaus Weingarten, Jan Korthäuer, Max Hopp** und das **nootheater** und die **Organisation zur Umwandlung des Kinos** für die Veröffentlichung.<br>]{style="font-size: 1.5rem; line-height: 80%"}
 [Vom Irrtum der Sekten Es. Stiefels und Ez. Meths, 57]{style="font-size: 1.5rem"}
 
 
@@ -309,11 +316,12 @@ welches ohne Wesen ist.
 
 Aber die Tiefe ohne Grund wollte sich in Gleichnissen offenbaren -  
 wie in einer Jungfräulichen Figur,  
-als ein Spiegel der Gottheit und Ewigkeit in Grund und Ungrund,  
+als ein Spiegel der Gottheit und Ewigkeit  
+in Grund und Ungrund,  
 als ein Auge der Herrlichkeit Gottes.  
 Und nach diesem Auge, und in diesem Auge  
 wurden die Throne der Fürsten geschaffen als Engel;  
-und endlich der Mensch.
+und endlich der Mensch.  
 Adam war ein Mensch und ein Bild Gottes,  
 ein Gleichnis von Gott.
 
@@ -361,7 +369,8 @@ und er war ganz und vollkommen.
 Er war <u>ein</u> Mensch, und nicht zwei,  
 er war der Mann und auch die Frau,  
 und sollte ein engelhaftes Reich aus sich gebären.  
-Er hatte Fleisch und Blut, aber himmlisch, sein Wesen war heilig. 
+Er hatte Fleisch und Blut, aber himmlisch,  
+sein Wesen ("Essentien") war heilig. 
 
 [Von dem Dreyfachen Leben des Menschen, 7, 25]{style="font-size: 1.5rem"}
 
@@ -573,8 +582,7 @@ Ich verstehe und schaudere: Wenn ich nun – falsch bete – ?
 18 Ein jedes Gebet, das da nicht findet und empfängt, das ist kalt und lau und steckt in einer Behinderung zeitlicher und irdischer Dinge. Das heißt, die Seele naht sich nicht auf wahrhafte Weise Gott. Sie will sich Gott nicht ganz und gar ergeben, sondern hängt noch an irdischer Liebe, die sie gefangenhält, sodass sie die Stätte Gottes nicht erreichen kann.
 :::
 
-[Der Weg zu Christo, "Vom Heiligen Gebet"
-Vorrede an den Gottliebenden Leser]{style="font-size: 1.5rem"}
+[Der Weg zu Christo, "Vom Heiligen Gebet"; Vorrede an den Gottliebenden Leser]{style="font-size: 1.5rem"}
 
 
 ## Vom Beten: Jacob Böhme
@@ -585,8 +593,7 @@ sodass es die vielfältigen Sünden erkenne und bereue,
 und erwecke doch mit deiner Kraft meine arme Seele,  
 sodass sie sich erkenne, wie sie von dir abgewandt steht.
 
-[Der Weg zu Christo, "Vom Heiligen Gebet"
-Eine Beichte und wahrhafte Buß-Wirkung vor Gottes Angesicht]{style="font-size: 1.5rem"}
+[Der Weg zu Christo, "Vom Heiligen Gebet"<br>Eine Beichte und wahrhafte Buß-Wirkung vor Gottes Angesicht]{style="font-size: 1.5rem"}
 
 
 ::: notes
@@ -603,17 +610,15 @@ Und ich weiß, er wird es tun, denn Er ist so treu und wahr
 
 <br>
 
-::: fragment
+[Covenant Woman, Album *Saved*, 1980]{style="font-size: 1.5rem"}
+
+::: notes
+Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor Shot of Love
+
 *I’ve been broken, shattered like an empty cup*  
 *I’m just waiting on the Lord *
 *to rebuild and fill me up*  
 *And I know He will do it ’cause He’s faithful and He’s true*
-:::
-
-[Covenant Woman, Album Saved, 1980]{style="font-size: 1.5rem"}
-
-::: notes
-Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor Shot of Love
 
 Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
 
@@ -657,7 +662,7 @@ Die mich weiter treibt
 Und die mir wieder Kraft gibt  
 In der Zeit der Dunkelheit
 
-[Every Grain of Sand, Album Shot of Love, 1981<br>Übersetzung: M. Kunze; gesungen von Nana Mouskouri]{style="font-size: 1.5rem"}
+[Every Grain of Sand, Album *Shot of Love*, 1981<br>Übersetzung: M. Kunze; gesungen von Nana Mouskouri]{style="font-size: 1.5rem"}
 
 ::: notes
 In the time of my confession, in the hour of my deepest need  
@@ -669,8 +674,9 @@ Toiling in the danger and in the morals of despair
 
 ## Vom Beten: Bob Dylan
 
+::: {style="font-size: 2.2rem"}
 In Lumpen und in Seide / Tief im Traum und für dich wach  
-In der Hitze eines Julitags / Und im Schnee einer Januarnacht
+In der Hitze eines Julitags / Und im Schnee einer Januarnacht  
 In dem stummen Tanz der Einsamkeit / Von dem mir schwindlig wird  
 Im zerbrochenen Spiegel einer Welt / in der die Unschuld stirbt
 
@@ -678,8 +684,9 @@ Erkenne ich wie schwach ich bin / Und wie wenig ich versteh
 Und das ich von der Wirklichkeit / Nichts als ein paar Schatten seh  
 Ich häng an dünnen Fäden / Von der Unsichtbaren Hand  
 So wie im Wind die Schwalbe / Und wie jedes Körnchen Sand
+:::
 
-[Every Grain of Sand, Album Shot of Love, 1981<br>Übersetzung: M. Kunze; gesungen von Nana Mouskouri]{style="font-size: 1.5rem"}
+[Every Grain of Sand, Album *Shot of Love*, 1981<br>Übersetzung: M. Kunze; gesungen von Nana Mouskouri]{style="font-size: 1.5rem"}
 
 ::: notes
 (2. Strophe, hier nicht übersetzt)
@@ -748,7 +755,7 @@ Es mag der Teufel sein oder der Herr
 Aber Du wirst jemandem dienen müssen
 
 
-[Gotta Serve Somebody, Album Slow Train Coming, 1979]{style="font-size: 1.5rem"}
+[Gotta Serve Somebody, Album *Slow Train Coming*, 1979]{style="font-size: 1.5rem"}
 
 ::: notes
 Vielfach gespielt in den 1990ern, 2000ern, 2010ern, 2021-2024
@@ -778,7 +785,7 @@ Es mag der Teufel sein oder der Herr
 Aber Du wirst jemandem dienen müssen
 
 
-[Gotta Serve Somebody, Album Slow Train Coming, 1979]{style="font-size: 1.5rem"}
+[Gotta Serve Somebody, Album *Slow Train Coming*, 1979]{style="font-size: 1.5rem"}
 
 ::: notes
 You may be a preacher with your spiritual pride
@@ -797,7 +804,7 @@ But you’re gonna have to serve somebody
 
 Du magst mich Terry oder Timmy nennen  
 Du magst mich Bobby oder Zimmy nennen  
-Du magst mit R.J. oder Ray nennen  
+Du magst mich R.J. oder Ray nennen  
 Du kannst mich irgendwie nennen - egal, was Du sagst
 
 Aber Du wirst jemandem dienen müssen, ja,  
@@ -806,7 +813,7 @@ Es mag der Teufel sein oder der Herr
 Aber Du wirst jemandem dienen müssen
 
 
-[Gotta Serve Somebody, Album Slow Train Coming, 1979]{style="font-size: 1.5rem"}
+[Gotta Serve Somebody, Album *Slow Train Coming*, 1979]{style="font-size: 1.5rem"}
 
 ::: notes
 You may call me Terry, you may call me Timmy
@@ -844,7 +851,7 @@ bleibt es eins mit sich.
 
 ## Übergabe an Gottes Willen: Dylan
 
-Christentum ist nicht Christus und Christus ist nicht christentum. Christentum bedeutet, Christus zum Herrn Deines Lebens zu machen. Es geht um Dein Leben, jetzt, es geht nicht nur um einen Teil Deines Lebens, um eine bestimmte Stunde jeden Tag. Es geht darum, Christus zum Herrn und Meister Deines Lebens zu machen, zum König Deines Lebens. IHN durch DICH.
+Christentum ist nicht Christus und Christus ist nicht Christentum. Christentum bedeutet, Christus zum Herrn Deines Lebens zu machen. Es geht um Dein Leben, jetzt, es geht nicht nur um einen Teil Deines Lebens, um eine bestimmte Stunde jeden Tag. Es geht darum, Christus zum Herrn und Meister Deines Lebens zu machen, zum König Deines Lebens. IHN durch DICH.
 
 [Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
 
