@@ -171,7 +171,8 @@ Leopold Ziegler (1881 - 1958)
 
 > Er hatte den Weitblick und das Talent, einen Popsong so lange auszudehnen, bis er die ganze Welt enthielt.
 
-Bruce Springsteen, Rede zur Aufnahme von Dylan in die Rock 'n Roll Hall of Fame, 1988
+Bruce Springsteen  
+[Rede zur Aufnahme von Dylan in die Rock 'n Roll Hall of Fame, 1988]{style="font-size: 1.5rem"}
 
 
 ::: notes
@@ -192,7 +193,7 @@ Quelle: https://www.coveredbybrucespringsteen.com/viewcover.aspx?recordID=103
 > jemals etwas gefangen hat.
 
 Arlo Guthrie  
-[zitiert von Paul Zollo im Interview mit Dylan, 1991]{style="font-size: 1.rem"}
+[zitiert von Paul Zollo im Interview mit Dylan, 1991]{style="font-size: 1.5rem"}
 
 ::: notes
 SongTalk Interview 1991 mit Bob Dylan; Paul Zollo;   https://americansongwriter.com/bob-dylan-the-interview-part-1/  
@@ -200,6 +201,55 @@ abgerufen am 21.07.2024
 > *Songwriting is like fishing in a stream;*  
 > *you put in your line and hope you catch something.*  
 > *And I don’t think anyone downstream from Bob Dylan ever caught anything.*  
+:::
+
+
+## Bob Dylan: Anerkennung
+
+> Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar ein sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
+
+Peter Post
+
+
+## Bob Dylan: Anerkennung
+
+::: {style="font-size: 2.2rem"}
+> Es gibt schlichtweg keinen anderen Künstler in der populären Kunst – mit Ausnahme von Leonard Cohen –, der so aus seinen ureigensten **seelischen Inhalten** schöpft, wie es Dylan tut.
+
+> Die Atmosphäre in Dylans Kunst ist von einem hohen Maß an Echtheit gekennzeichnet. Darin liegt das Faszinierende. [...] Ich kann nichts Verschlossenes oder Mystifizierendes sehen – sein Werk ist eine Offenbarung. In dem, was er macht, ist er präsent. Diese Präsenz, dieses Persönliche, gibt es bei keinem anderen Künstler.
+:::
+
+Peter Post
+
+
+::: notes
+Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
+
+Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar ein sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
+
+Merkwürdig aber ist, daß eine andere Musik, die eine vergleichbare Wirkung auf mich hatte, ebenfalls von Christlich-Religiösem getragen wird: die Johann Sebastian Bachs. (Den quasi areligiösen Richard Wagner habe ich erst vor zwei Jahren entdeckt.) Es ist eine unglaubliche Musik; man fragt sich, wie ein Mensch so etwas erschaffen kann. Auch hier ist es die pure Faszination – nur aus dem Gefühl heraus.
+
+...
+
+Für mich stehen bei Dylan – was man denken könnte – die Texte nicht im Mittelpunkt; und schon gar nicht gehöre ich zu den Dylanologen. Für mich steht auch nicht die Musik im Mittelpunkt. Worum geht es bei Dylan überhaupt?
+
+Es hängt mit der erwähnten Faszination zusammen, die natürlich auch andere Schaffensphasen als die „christliche“ betrifft. Es hängt mit einer gewissen Haltung zusammen. Auch andere seiner Werke zeugen natürlich von besagter Ernsthaftigkeit und großer persönlicher Betroffenheit. Es gibt schlichtweg keinen anderen Künstler in der populären Kunst – mit Ausnahme von Leonard Cohen –, der so aus seinen ureigensten seelischen Inhalten schöpft, wie es Dylan tut.
+
+Die Atmosphäre in Dylans Kunst ist von einem hohen Maß an Echtheit gekennzeichnet. Darin liegt das Faszinierende. Das liegt seinem Schaffen zugrunde und drückt sich – mit welchen Symbolismen er mitunter auch arbeiten mag – in diesem aus. Ich kann nichts Verschlossenes oder Mystifizierendes sehen – sein Werk ist eine Offenbarung. In dem, was er macht, ist er präsent. Diese Präsenz, dieses Persönliche, gibt es bei keinem anderen Künstler.
+
+Wenn weder im Text noch in der Musik das Wesentliche und Besondere in Dylans Kunst zu suchen ist, sondern im seelischen Antrieb, der diesen zugrunde liegt, wie würde ich dann an deutsche Fassungen herangehen? – Es hat sich von Anfang an von selbst ergeben, daß ich einfach nahe am Original bleibe. Ich liebe diese Lieder, so wie sie sind, und will sie so lassen; es gab keine „wandering desires“.
+
+Es ist legitim und oft sehr sinnvoll, wenn Rockmusik Unterhaltungskunst ist. Wenn besagte Präsenz aber darüber hinausführt, so kann das seine Ursache auch darin haben, daß der Künstler nicht einfach viel intelligenter und sensibler als andere ist, sondern daß die Kunst für ihn ein Mittel ist, ein Mehr an Präsenz zu erreichen, daß er sich durch die Kunst eine größere Selbstwahrnehmung und -bestätigung verschafft. Was aber wäre, wenn dieser Mensch erst präsent wird, indem er sich als Künstler betätigt, was, wenn er Lieder schriebe, um dadurch überhaupt Präsenz zu gewinnen?
+
+Vielleicht liegt dem riesigen Dylan’schen Œuvre ein entsprechender Zwang zugrunde (dem dann auch der Fan unterläge). Dylan ist ohne Ende auf Tournee, und er hat Hunderte von Liedern geschrieben, von denen viele gar nicht veröffentlicht worden sind.
+
+1966 war Bob Dylan bei einem Motorradunfall fast ums Leben gekommen: ein traumatisches Erlebnis, das ihn sicherlich auf den Kern seiner Person zurückgeworfen hat. In der Genesungsphase lud Dylan die Musiker von **The Band** zu sich ein, und es entstanden im Keller seines Hauses Lieder, die manchen Fans als einige seiner bedeutendsten gelten: Diese wurden auf Basement Tapes aufgenommen (die Originale landeten übrigens eigenartigerweise im Archiv von Neil Young) und später (1975) als solche veröffentlicht. Ein Lied wurde dabei ausgelassen, blieb viele Jahrzehnte unveröffentlicht und wurde zum Geheimtip; und das war das Lied mit dem Titel I’m Not There.
+
+Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist ein Schlüssellied. Vier Akkorde sind die Grundlage für eine Art Improvisation, die in das einzig Notierte, nämlich diesen Kehrreim endet: „Ich bin nicht da.“ Der Text scheint nicht nur improvisiert zu sein, sondern ist an vielen Stellen schlicht unverständlich. Dylan benutzt eine Privatsprache und scheint auf Worte und hergebrachte Wortbedeutungen keine große Rücksicht zu nehmen – alles fließt direkt aus seinen Gefühlen und aus seinem Unterbewußten. Kognitives ist bei der Eroberung von Präsenz kaum von Bedeutung; das wird er später im Song *Standing In The Doorway* sagen: „I see nothing to be gained by any explanation.“ *I’m Not There* ist direkter Ausdruck seines Innersten.
+
+...
+
+Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von Saved und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient seelisch nicht ähnlich verfaßt wäre wie der Künstler. Auf den Punkt gebracht lautet diese Verfassung: Ich bin nicht da; beziehungsweise – in den Gefühlen der Liebe dann –: Endlich bin ich da.
 :::
 
 
@@ -619,34 +669,6 @@ Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor S
 *I’m just waiting on the Lord *
 *to rebuild and fill me up*  
 *And I know He will do it ’cause He’s faithful and He’s true*
-
-Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
-
-Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar ein sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
-
-Merkwürdig aber ist, daß eine andere Musik, die eine vergleichbare Wirkung auf mich hatte, ebenfalls von Christlich-Religiösem getragen wird: die Johann Sebastian Bachs. (Den quasi areligiösen Richard Wagner habe ich erst vor zwei Jahren entdeckt.) Es ist eine unglaubliche Musik; man fragt sich, wie ein Mensch so etwas erschaffen kann. Auch hier ist es die pure Faszination – nur aus dem Gefühl heraus.
-
-...
-
-Für mich stehen bei Dylan – was man denken könnte – die Texte nicht im Mittelpunkt; und schon gar nicht gehöre ich zu den Dylanologen. Für mich steht auch nicht die Musik im Mittelpunkt. Worum geht es bei Dylan überhaupt?
-
-Es hängt mit der erwähnten Faszination zusammen, die natürlich auch andere Schaffensphasen als die „christliche“ betrifft. Es hängt mit einer gewissen Haltung zusammen. Auch andere seiner Werke zeugen natürlich von besagter Ernsthaftigkeit und großer persönlicher Betroffenheit. Es gibt schlichtweg keinen anderen Künstler in der populären Kunst – mit Ausnahme von Leonard Cohen –, der so aus seinen ureigensten seelischen Inhalten schöpft, wie es Dylan tut.
-
-Die Atmosphäre in Dylans Kunst ist von einem hohen Maß an Echtheit gekennzeichnet. Darin liegt das Faszinierende. Das liegt seinem Schaffen zugrunde und drückt sich – mit welchen Symbolismen er mitunter auch arbeiten mag – in diesem aus. Ich kann nichts Verschlossenes oder Mystifizierendes sehen – sein Werk ist eine Offenbarung. In dem, was er macht, ist er präsent. Diese Präsenz, dieses Persönliche, gibt es bei keinem anderen Künstler.
-
-Wenn weder im Text noch in der Musik das Wesentliche und Besondere in Dylans Kunst zu suchen ist, sondern im seelischen Antrieb, der diesen zugrunde liegt, wie würde ich dann an deutsche Fassungen herangehen? – Es hat sich von Anfang an von selbst ergeben, daß ich einfach nahe am Original bleibe. Ich liebe diese Lieder, so wie sie sind, und will sie so lassen; es gab keine „wandering desires“.
-
-Es ist legitim und oft sehr sinnvoll, wenn Rockmusik Unterhaltungskunst ist. Wenn besagte Präsenz aber darüber hinausführt, so kann das seine Ursache auch darin haben, daß der Künstler nicht einfach viel intelligenter und sensibler als andere ist, sondern daß die Kunst für ihn ein Mittel ist, ein Mehr an Präsenz zu erreichen, daß er sich durch die Kunst eine größere Selbstwahrnehmung und -bestätigung verschafft. Was aber wäre, wenn dieser Mensch erst präsent wird, indem er sich als Künstler betätigt, was, wenn er Lieder schriebe, um dadurch überhaupt Präsenz zu gewinnen?
-
-Vielleicht liegt dem riesigen Dylan’schen Œuvre ein entsprechender Zwang zugrunde (dem dann auch der Fan unterläge). Dylan ist ohne Ende auf Tournee, und er hat Hunderte von Liedern geschrieben, von denen viele gar nicht veröffentlicht worden sind.
-
-1966 war Bob Dylan bei einem Motorradunfall fast ums Leben gekommen: ein traumatisches Erlebnis, das ihn sicherlich auf den Kern seiner Person zurückgeworfen hat. In der Genesungsphase lud Dylan die Musiker von The Band zu sich ein, und es entstanden im Keller seines Hauses Lieder, die manchen Fans als einige seiner bedeutendsten gelten: Diese wurden auf Basement Tapes aufgenommen (die Originale landeten übrigens eigenartigerweise im Archiv von Neil Young) und später (1975) als solche veröffentlicht. Ein Lied wurde dabei ausgelassen, blieb viele Jahrzehnte unveröffentlicht und wurde zum Geheimtip; und das war das Lied mit dem Titel I’m Not There.
-
-Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist ein Schlüssellied. Vier Akkorde sind die Grundlage für eine Art Improvisation, die in das einzig Notierte, nämlich diesen Kehrreim endet: „Ich bin nicht da.“ Der Text scheint nicht nur improvisiert zu sein, sondern ist an vielen Stellen schlicht unverständlich. Dylan benutzt eine Privatsprache und scheint auf Worte und hergebrachte Wortbedeutungen keine große Rücksicht zu nehmen – alles fließt direkt aus seinen Gefühlen und aus seinem Unterbewußten. Kognitives ist bei der Eroberung von Präsenz kaum von Bedeutung; das wird er später im Song Standing In The Doorway sagen: „I see nothing to be gained by any explanation.“ I’m Not There ist direkter Ausdruck seines Innersten.
-
-...
-
-Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von Saved und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient seelisch nicht ähnlich verfaßt wäre wie der Künstler. Auf den Punkt gebracht lautet diese Verfassung: Ich bin nicht da; beziehungsweise – in den Gefühlen der Liebe dann –: Endlich bin ich da.
 :::
 
 
@@ -657,7 +679,7 @@ Wenn in mir die Hoffnung sinkt
 Wenn das ausgesäte Samenkorn  
 Im Strom des Leids ertrinkt  
 
-Hör ich in mir eine (sterbende) Stimme  
+Hör ich in mir eine [sterbende] Stimme  
 Die mich weiter treibt  
 Und die mir wieder Kraft gibt  
 In der Zeit der Dunkelheit
@@ -681,7 +703,7 @@ In dem stummen Tanz der Einsamkeit / Von dem mir schwindlig wird
 Im zerbrochenen Spiegel einer Welt / in der die Unschuld stirbt
 
 Erkenne ich wie schwach ich bin / Und wie wenig ich versteh  
-Und das ich von der Wirklichkeit / Nichts als ein paar Schatten seh  
+Und dass ich von der Wirklichkeit / Nichts als ein paar Schatten seh  
 Ich häng an dünnen Fäden / Von der Unsichtbaren Hand  
 So wie im Wind die Schwalbe / Und wie jedes Körnchen Sand
 :::
@@ -830,8 +852,155 @@ But you’re gonna have to serve somebody
 
 ## Die Hohe Liebe: Böhme
 
-Blog: Edles Perlein  
-Dylan: Liebeslieder; Love in Vain?  
+Nun sei dir, o großer Gott, in deiner Kraft und Süßigkeit, Lob, Dank, Stärke, Preis und Ehre, dass du mich von dem Treiber der Angst erlöset hast. O du schönes Lieb, mein Herze fasset dich, wo bist du so lange gewesen? Mich deucht, ich wäre in der Hölle und in Gottes Grimm.
+
+O holdseliges Lieb, bleib doch bei mir, sei doch meine Freude und Erquickung. Führe mich doch auf rechter Straße. In deine Liebe ergebe ich mich. 
+
+
+[Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia]{style="font-size: 1.5rem"}
+
+
+## Die Hohe Liebe: Böhme
+
+::: {style="font-size: 2rem"}
+Deine Ohren waren aus meinem Lande gegangen. Mein Licht konntest du nicht sehen, denn du wandeltest im finstern Tal. Ich bin nahe bei dir gewesen und habe dir stets geflehet, aber deine Sünde hielt dich im Tode gefangen, dass du mich nicht kanntest. Ich kam in großer Demut zu dir und rief dir, aber du warest in der Macht des Zornes Gottes reich und achtetest meiner Demut nicht. Du hattest dir den Teufel zum Buhlen [Geliebten] genommen. Der hat dich also besudelt und sein Raubschloss der Eitelkeit in dir aufgebauet und dich ganz von meiner Liebe und Treue abgewendet in sein gleißnerisches falsches Reich, darinnen hast du viel Sünde und Bosheit gewirket und deinen Willen von meiner Liebe abgebrochen, und hast mir die Ehe gebrochen und eine fremde Buhlschaft gepflogen und mich, deine dir von Gott gegebene Braut, lassen im verblichenen Wesen ohne Stärke deiner Feuersmacht stehen.
+:::
+
+[Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia]{style="font-size: 1.5rem"}
+
+
+## Die Hohe Liebe: Böhme
+
+Oh mein Bräutigam, wie ist mir so wohl in deiner Ehe. Küsse mich doch mit deiner Begierde, in deiner Stärke und Macht, so will ich dir alle meine Schöne zeigen und dich mit meiner süßen Liebe und hellem Licht in deinem Feuerleben erfreuen. Alle heiligen Engel erfreuen sich jetzt mit uns, dass sie uns wieder in der Ehe sehen.
+
+[Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia]{style="font-size: 1.5rem"}
+
+
+## Die Hohe Liebe: Dylan
+
+::: {style="font-size: 2.1rem"}
+Meine Liebe spricht wie die Stille  
+Ohne Ideale oder Gewalt  
+Sie muss nicht sagen, dass sie treu ist,  
+Doch ist sie wahr, wie Eis, wie Feuer  
+Menschen versuchen es mit Rosen  
+Und indem Sie Versprechen geben  
+Meine Liebe lacht wie die Blumen  
+Kaufen lässt sie sich nicht
+
+...
+
+Meine Liebe weiß zu viel,  
+sie argumentiert nicht, sie urteilt nicht
+:::
+
+[Love Minus Zero, Album *Bringing It all Back Home*, 1965]{style="font-size: 1.5rem"}
+
+
+::: notes
+My love she speaks like silence
+Without ideals or violence
+She doesn’t have to say she’s faithful
+Yet she’s true, like ice, like fire
+People carry roses
+Make promises by the hours
+My love she laughs like the flowers
+Valentines can’t buy her
+
+In the dime stores and bus stations
+People talk of situations
+Read books, repeat quotations
+Draw conclusions on the wall
+Some speak of the future
+My love she speaks softly
+She knows there’s no success like failure
+And that failure’s no success at all
+
+The cloak and dagger dangles
+Madams light the candles
+In ceremonies of the horsemen
+Even the pawn must hold a grudge
+Statues made of matchsticks
+Crumble into one another
+My love winks, she does not bother
+She knows too much to argue or to judge
+
+The bridge at midnight trembles
+The country doctor rambles
+Bankers’ nieces seek perfection
+Expecting all the gifts that wise men bring
+The wind howls like a hammer
+The night blows cold and rainy
+My love she’s like some raven
+At my window with a broken wing
+:::
+
+
+## Die Hohe Liebe: Dylan
+
+Liebst Du mich wirklich, oder zeigst Du nur guten Willen?  
+Sehnst Du Dich auch nur halb so sehr nach mir, wie Du sagst,  
+Oder fühlst Du Dich nur schuldig?  
+Ich bin ein gebranntes Kind, ich weiß, wie es laufen kann  
+Du wirst keine Klagen von mir hören  
+Kann ich auf Dich zählen  
+Oder ist Deine Liebe vergebens?
+
+
+[Is Your Love in Vain? Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+::: notes
+
+Do you love me, or are you just extending goodwill?
+Do you need me half as bad as you say, or are you just feeling guilt?
+I’ve been burned before and I know the score
+So you won’t hear me complain
+Will I be able to count on you
+Or is your love in vain?
+
+Are you so fast that you cannot see that I must have solitude?
+When I am in the darkness, why do you intrude?
+Do you know my world, do you know my kind
+Or must I explain?
+Will you let me be myself
+Or is your love in vain?
+
+Well I’ve been to the mountain and I’ve been in the wind
+I’ve been in and out of happiness
+I have dined with kings, I’ve been offered wings
+And I’ve never been too impressed
+
+All right, I’ll take a chance, I will fall in love with you
+If I’m a fool you can have the night, you can have the morning too
+Can you cook and sew, make flowers grow
+Do you understand my pain?
+Are you willing to risk it all
+Or is your love in vain?
+:::
+
+
+## Die Hohe Liebe: Dylan
+
+Ich war in den Bergen und im Wind  
+Ich war glücklich und unglücklich  
+Ich habe mit Königen gespeist, mir wurden Flügel angeboten  
+Aber nichts hat mich groß beeindruckt
+
+...
+
+Bist Du bereit, alles zu riskieren  
+Oder ist Deine Liebe vergebens?
+
+
+[Is Your Love in Vain? Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+
+## Nüchternheit: Böhme
+
+
+
+## Nüchternheit: Dylan
+
 
 
 ## Übergabe an Gottes Willen: Böhme
