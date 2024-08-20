@@ -90,10 +90,12 @@ Warum?
 :::
 
 
-## Thesen
+## Thesen zu Dylan
 
+::: incremental
 * Bob Dylan ist ein Relikt der 1960er Jahre: früh berühmt geworden als Protestsänger, und dann eben nicht so früh gestorben wie etwa der "Klub 27"
 * Bob Dylan konvertierte zum Christentum mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich vom Christentum abgewandt
+:::
 
 ::: notes
 
@@ -255,19 +257,26 @@ Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und
 
 ## Bob Dylan: Anerkennung
 
-::: incremental
+::: {.incremental style="font-size: 2.3rem"}
 
 * **Nobelpreis für Literatur** 2016
 * **Oscar** und **Golden Globe** für *Things Have Changed* (Soundtrack zu *Wonderboys* mit Michael Douglas) 2000
 * Personen, die sowohl einen Nobelpreis als auch einen Oscar gewannen:
   + **George Bernard Shaw** und **Bob Dylan**
 * Personen, die den Nobelpreis, den Oscar, mindestens einen **Grammy**, einen **Golden Globe** und den **Pulitzer-Preis** gewannen: nur Bob Dylan
-
+* Rolling Stone Magazine, 100 Größte Songwriter aller Zeiten: Platz 1
 :::
 
 ::: notes
-In welchem Jahr hat Bob Dylan erstmals eine Single auf Platz 1 der US-Charts platziert?
+* In welchem Jahr hat Bob Dylan erstmals eine Single auf Platz 1 der US-Charts platziert?
 2020: Murder Most Foul, 16:55 Minuten lang
+* 100 Größte Songwriter: 2. Paul McCartney, 3. John Lennon, 4. Chuck Berry, 5. Smokey Robinson, 6. Jagger / Richards, 7. Carole King und Gerry Goffin, 8. Paul Simon, 9. Joni Mitchell, 10. Stevie Wonder, 11. Bob Marley, 12. Brian Wilson, 13. Hank Williams, 14. Bruce Springsteen, 15. Eddie Holland, Lamont Dozier und Brian Holland, 16. Leonard Cohen, 17. Neil Young, 18. Prince, 19. Ellie Greenwich und Jeff Barry, 20. Jerry Leiber und Mike Stoller
+* 24. Elvis Costello, 28. Woody Guthrie, 29. Buddy Holly, 30. Pete Townshend
+
+Paul Simon, Platz 8, über Dylan:  
+"One of my deficiencies is my voice sounds sincere," Simon told Rolling Stone in 2012. "I've tried to sound ironic. I don't. I can't. Dylan, everything he sings has two meanings. He's telling you the truth and making fun of you at the same time. I sound sincere every time."
+https://www.rollingstone.com/interactive/lists-100-greatest-songwriters/#paul-simon
+
 :::
 
 
@@ -1230,7 +1239,7 @@ Der Weg zu Christo enthält:
 
 ::: {style="font-size: 2.2rem"}
 * Spirituelle Liebeslieder u. a.:  
-  Love Minus Zero / No Limit; Is Your Love in Vain; Abandoned Love; Isis
+  Love Minus Zero / No Limit; Is Your Love in Vain; <br>Abandoned Love; Isis
 * Einweihung (nicht ganz einfach zugänglich):  
   Changing of the Guards; Senor (Tales of Yankee Power)
 * Einige Anregungen zum spirituellen Zugang:
