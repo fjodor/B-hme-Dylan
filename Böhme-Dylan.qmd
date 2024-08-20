@@ -350,6 +350,12 @@ include_graphics("libs/_Images/Leonard Cohen 2016.png")
 
 ## Von der Kunst, Böhme zu lesen
 
+::: {style="font-size: 1.9rem"}
+> Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt. Am schwersten kommt der gebildete Vielleser in ihn hinein. Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie das mystische Erleben selber – sie fordert ein vorübergehendes „Leerwerden“, eine völlig freie Aufmerksamkeit und Seelenstille. In den Stunden, wo diese uns fehlt, spricht Böhme nicht zu uns, ist er uns tot und öde, denn der Neugierde und dem bloßen intellektuellen Spieltrieb gibt er nichts. Aber in Stunden, wo wir reif für ihn sind, sehen wir in seinem mystischen Abbild der Welt die Sterne kreisen und ordnen uns in seinen Kosmos lebendig mit ein. 
+:::
+
+[Hermann Hesse, Gesammelte Werke, Band 12, S95]{style="font-size: 1.5rem"}
+
 
 ## Von der Kunst, Dylan zu hören
 
@@ -445,7 +451,7 @@ Deine Freiheit liegt gleich hier um die Ecke
 Doch wenn Du so weit von der Wahrheit entfernt bist  
 Was nützt es Dir?
 
-[Jokerman, Album Infidels, 1983]{style="font-size: 1.5rem"}
+[Jokerman, Album *Infidels*, 1983]{style="font-size: 1.5rem"}
 :::
 
 ::: {.column width="35%"}
@@ -469,7 +475,7 @@ Freedom just around the corner for you
 But with the truth so far off, what good will it do?
 
 ÄU 1, Klappentext
-"Er hat es sich selbst, lebend, zu einem Grabe gemacht." Aus diesem Grab der Natur steigt der Sohn empor, bekleidet mit dem goldenen Hochzeitskleid der neuen Seele. Er ist der neue merkur, der dreimal große hermes. Sein Haupt schmückt die goldene Wunderblume des neuen Denkvermögens, seine Hände halten die beiden feurigen Schlangen des erneuerten spinalen Fluidums, die positive und die negative Ansicht. Die fünf Kontaktpunkte zwischen der neuen Seele und der transfigurierten Persönlichkeit strahlen als Rosen. Er hat seinen Pymander gefunden.
+"Er hat es sich selbst, lebend, zu einem Grabe gemacht." Aus diesem Grab der Natur steigt der Sohn empor, bekleidet mit dem goldenen Hochzeitskleid der neuen Seele. Er ist der neue Merkur, der dreimal große Hermes. Sein Haupt schmückt die goldene Wunderblume des neuen Denkvermögens, seine Hände halten die beiden feurigen Schlangen des erneuerten spinalen Fluidums, die positive und die negative Ansicht. Die fünf Kontaktpunkte zwischen der neuen Seele und der transfigurierten Persönlichkeit strahlen als Rosen. Er hat seinen Pymander gefunden.
 
 So steigt er empor von Herrlichkeit zu Herrlichkeit, vereint mit dem Geist, und lässt das Totengebein, die vielen missglückten Versuche, in der Wüste der dialektischen Vergangenheit zurück.
 :::
@@ -1150,11 +1156,13 @@ Der verdirbt, wenn er stirbt.“
 :::
 
 ::: notes
-Silesius hieß bürgerlich: Johannes Scheffler
+Silesius hieß bürgerlich: Johannes Scheffler  
+Sogar Steiner hat Böhme so zitiert  
+https://odysseetheater.org/GA/Buecher/GA_057.pdf#page=78&view=Fit
 
-Goethe, West-Östlicher Divan:
-Und so lang du das nicht hast,
-Dieses: Stirb und Werde!
-Bist du nur ein trüber Gast
-Auf der dunklen Erde
+Goethe, West-Östlicher Divan:  
+Und so lang du das nicht hast,  
+Dieses: Stirb und Werde!  
+Bist du nur ein trüber Gast  
+Auf der dunklen Erde  
 :::
