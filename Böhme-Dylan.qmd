@@ -206,7 +206,7 @@ abgerufen am 21.07.2024
 
 ## Bob Dylan: Anerkennung
 
-> Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar ein sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
+> Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar eine sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
 
 Peter Post
 
@@ -225,7 +225,7 @@ Peter Post
 ::: notes
 Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
 
-Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar ein sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
+Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar eine sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
 
 Merkwürdig aber ist, daß eine andere Musik, die eine vergleichbare Wirkung auf mich hatte, ebenfalls von Christlich-Religiösem getragen wird: die Johann Sebastian Bachs. (Den quasi areligiösen Richard Wagner habe ich erst vor zwei Jahren entdeckt.) Es ist eine unglaubliche Musik; man fragt sich, wie ein Mensch so etwas erschaffen kann. Auch hier ist es die pure Faszination – nur aus dem Gefühl heraus.
 
@@ -346,6 +346,16 @@ include_graphics("libs/_Images/Leonard Cohen 2016.png")
 
 * Seit 1988 *Never Ending Tour*, rund 100 Konzerte pro Jahr
 :::
+
+
+## Von der Kunst, Böhme zu lesen
+
+
+## Von der Kunst, Dylan zu hören
+
+Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von *Saved* und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient **seelisch** nicht **ähnlich verfasst** wäre **wie der Künstler**. Auf den Punkt gebracht lautet diese Verfassung: **Ich bin nicht da**; beziehungsweise – in den Gefühlen der Liebe dann –: **Endlich bin ich da.**
+
+Peter Post
 
 
 ## Göttlicher Ursprung des Menschen: Böhme
@@ -1118,3 +1128,33 @@ Jeder Prediger, der ein echter Prediger ist, wird Dir das sagen: "Folge nicht mi
 Sie haben mir persönliche Fragen gestellt, aber ich bin immer weniger klar definiert, während Christus sich immer deutlicher in mir ausprägt.
 
 [Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
+
+
+## Sterben, um zu leben
+
+#### Böhme
+
+> Wer nicht stirbt, bevor er stirbt,  
+Der verdirbt, wenn er stirbt.“
+
+[Der Satz wurde unter anderen auch Angelus Silesius (1624 - 1677) zugeschrieben]{style="font-size: 1.5rem"}
+
+::: fragment
+#### Dylan
+
+> Wer nicht damit beschäftigt ist, geboren zu werden,  
+> ist damit beschäftigt, zu sterben  
+> [*He not busy being born is busy dying*]{style="font-size: 1.8rem"}
+
+[It’s Alright, Ma (I’m Only Bleeding), Album *Bringing It All Back Home*, 1965]{style="font-size: 1.5rem"}
+:::
+
+::: notes
+Silesius hieß bürgerlich: Johannes Scheffler
+
+Goethe, West-Östlicher Divan:
+Und so lang du das nicht hast,
+Dieses: Stirb und Werde!
+Bist du nur ein trüber Gast
+Auf der dunklen Erde
+:::
