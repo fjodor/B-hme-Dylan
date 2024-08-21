@@ -104,7 +104,7 @@ Warum?
 
 #### Die Hohe Liebe
 
-#### Nüchternheit
+#### Nüchternheit, Lebenshaltung
 
 #### Übergabe an Gottes Willen; Sterben, um zu leben
 
@@ -165,6 +165,23 @@ Friedrich Schlegel (1772 - 1829)
 Manche Philosophen von Ruf sind nur große Schuster.
 
 Karl Marx (1818 - 1883)
+
+:::: columns
+::: column
+
+```{r}
+#| fig-align: "center"
+#| out-width: "55%"
+#| out-height: "55%"
+
+include_graphics("libs/_Images/Böhme-Denkmal.jpg")
+```
+:::
+
+::: column
+[Brunnendenkmal<br>im Park des Friedens, Görlitz<br>gegossen 1898<br>Urheber: Johannes Pfuhl<br>Quelle: stadtwiki-goerlitz.de]{style="font-size: 1.7rem"}
+:::
+::::
 
 
 ## Jakob Böhme: Anerkennung
@@ -285,7 +302,7 @@ Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und
 * Personen, die sowohl einen Nobelpreis als auch einen Oscar gewannen:
   + **George Bernard Shaw** und **Bob Dylan**
 * Personen, die den Nobelpreis, den Oscar, mindestens einen **Grammy**, einen **Golden Globe** und den **Pulitzer-Preis** gewannen: nur Bob Dylan
-* Rolling Stone Magazine, 100 Größte Songwriter aller Zeiten: Platz 1
+* Rolling Stone Magazine, 100 Größte Songwriter aller Zeiten: **Platz 1**
 :::
 
 ::: notes
@@ -314,6 +331,8 @@ Q & A about his latest album, "You Want it Darker"
 :::
 
 ```{r}
+#| fig.align: "center"
+
 include_graphics("libs/_Images/Leonard Cohen 2016.png")
 ```
 
@@ -590,7 +609,7 @@ aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 Du musst diese Gedanken ausfiltern, denn sie bedeuten nichts, sie treiben dich nur vor sich her. Es ist wichtig, alle diese Gedanken loszuwerden.  Dann kannst du etwas tun aus der **reinen Beobachtung** der Situation. Du hast einen Ort, an dem du wahrnehmen kannst, ohne dass es dich beeinflusst. Wo du etwas bringen kannst, ohne nur ans Nehmen zu denken.
 
-Bob Dylan 1991, Interview mit Paul Zollo
+[Bob Dylan 1991, Interview mit Paul Zollo]{style="font-size: 1.5rem"}
 
 ::: notes
 *Fortsetzung:*  
@@ -608,7 +627,7 @@ Es gibt genug Songs. Es sei denn, jemand kommt mit reinem Herzen und hat etwas z
 
 Kreativität ist etwas Mysteriöses. Sie besucht, wen immer sie besuchen will, wann sie will, und ich glaube so, und nur so, gelangt man bis zum Herzen der Angelegenheit.
 
-Bob Dylan 1991, Interview mit Paul Zollo
+[Bob Dylan 1991, Interview mit Paul Zollo]{style="font-size: 1.5rem"}
 
 
 ::: notes
@@ -622,11 +641,12 @@ Creativity is a mysterious thing. It visits who it wants to visit, when it wants
 
 ## Quellen der Inspiration: Dylan
 
-#### Arthur Rimbaud: "Ich ist ein anderer"
-
 > Das erste Studium des Menschen, der ein Dichter sein will, geht auf seine vollständige Erkenntnis des Eigenen aus. Er sucht seine Seele, mustert sie, stellt sie auf die Probe, lernt sie. Sobald er sie kennt, muß er sie ausbauen [...]
 
 > Aber es handelt sich darum, die Seele ungeheuerlich zu machen [...]
+
+[Arthur Rimbaud: "Ich ist ein anderer"]{style="font-size: 1.8rem"}
+
 
 ::: notes
 * Autobiografie "Chronicles (Vol. 1), 2004: Dylan nennt Einflüsse
@@ -647,11 +667,12 @@ Die ewige Kunst hätte ihre Funktionen; da die Dichter Staatsbürger sind. Die D
 
 ## Quellen der Inspiration: Dylan
 
-#### Arthur Rimbaud: "Ich ist ein anderer"
-
 ::: {style="font-size: 2.2rem"}
 > Der Dichter **macht sich zum Seher** durch eine lange, unermeßliche und durchdachte Entgrenzung sämtlicher Sinne. Alle Formen der Liebe, des Leidens, des Wahnsinns; er sucht selbst und erschöpft in sich alle Gifte, um nur ihre Quintessenzen zu behalten. Unaussprechliche Marter, in der er jeden Glauben und übermenschliche Stärke nötig hat, wo er unter allen der große Kranke, der große Verbrecher, der große Verdammte werden wird – und **der höchste Weise!** Denn er gelangt bis an das Unbekannte! **Da er seine schon reiche Seele mehr als irgendeiner ausgebaut hat!**
 :::
+
+
+[Arthur Rimbaud: "Ich ist ein anderer"]{style="font-size: 1.8rem"}
 
 
 ## Vom Beten
@@ -1160,6 +1181,31 @@ So vollzieht sich die glorienvolle Wieder-Verbindung:
 * Mensch: Ja, vielleicht …
 :::
 
+[Isis, Album *Desire*, 1976]{style="font-size: 1.5rem"}
+
+
+## Nüchternheit: Dylan
+
+* Gott: Einziges Wesen, das nur geben, nichts empfangen kann
+* Haltung der göttlichen Seele, von allen Bindungen befreit
+
+::: fragment
+Kugeln können dich verletzen, der Tod dich entwaffnen  
+Aber nein, du lässt dich nicht täuschen  
+Aller Tugend beraubt, kriechst du durch den Dreck  
+:::
+
+Du kannst geben, aber du kannst nichts empfangen
+
+[No Time to Think, Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+::: notes
+Bullets can harm you and death can disarm you
+But no, you will not be deceived
+Stripped of all virtue as you crawl through the dirt
+You can give but you cannot receive
+:::
+
 
 ## Übergabe an Gottes Willen: Böhme
 
@@ -1238,9 +1284,12 @@ Auf der dunklen Erde
 * Pushpak: <http://www.boehme.pushpak.de/>  
   + Alle Werke in moderner Bearbeitung, gut verständlich
   + kostenlos als PDF oder ePUB für E-Book-Reader
-* Film *Morgenröte im Aufgang*
-* Deutschlandfunk: *Liebe und Zorn - Lange Nacht über den Mystiker Jacob Böhme*
-* Bücher von Gerhard Wehr
+* Film *Morgenröte im Aufgang*  
+  von R. Steckel, K. Weingärtner, M. Hopp, J. Korthäuer
+* Deutschlandfunk: *Liebe und Zorn - Lange Nacht über den Mystiker Jacob Böhme* von Ronald Steckel
+* Hörstück *Höre Du blinder Mensch* von Ronald Steckel  
+  nach Texten von Böhme
+
 
 ::: notes
 Der Weg zu Christo enthält:
@@ -1254,6 +1303,34 @@ Der Weg zu Christo enthält:
 • Eine Trostschrift für die vier Komplexionen
 • Vom Heiligen Gebet
 :::
+
+
+## Empfehlungen: Böhme
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+
+* Romane:
+  + *Das Ewige Bildnis* <br>von Edith Mikeleitis (1955)
+  + *Das mystische Leben des Jakob Böhme* von Franz Spunda (1961);  
+    zeigt vielfach Bezüge zwischen **Rosenkreuz** und **Böhme**
+  + Unterhaltsamer, weniger tief:  
+    *Jacob Böhme: Auf der Suche nach seiner Weltformel* von Wolfgang Bauernfeind (2019)
+* Bücher von Gerhard Wehr
+:::
+
+::: {.column style="font-size: 1.5rem"}
+
+```{r}
+#| out-width: 60%
+#| out-height: 60%
+#| fig-align: "center"
+#| fig-cap: "Quelle: Gesamtausgabe 1682 / Wikimedia Commons"
+
+include_graphics("libs/_Images/Böhme-Grabkreuz-1682-Wikimedia.jpg")
+```
+:::
+::::
 
 
 ## Empfehlungen: Dylan
