@@ -111,6 +111,11 @@ Warum?
 #### Empfehlungen, Ausblick
 
 
+::: notes
+
+:::
+
+
 ## Thesen zu Dylan
 
 ::: incremental
@@ -1205,6 +1210,71 @@ But no, you will not be deceived
 Stripped of all virtue as you crawl through the dirt
 You can give but you cannot receive
 :::
+
+
+## Lebenshaltung: Böhme
+
+* Hatte die Angriffe vorausgesehen, nahm sie an
+* Schrieb den größten Teil seiner Werke während des 30jährigen Krieges (ab 1618)
+* Zeitweise wohnten Soldaten im Haus
+* Die Nahrung wurde knapp
+* 4 Kinder lärmten ...
+
+
+::: notes
+Quelle? Originaltext? Spunda?
+Aus dem JW-Abschiedsdienst-Entwurf:
+Von Böhme wird berichtet, dass er, schwerkrank am Ende seines Lebens, von einer befreundeten Fürstin getröstet wurde. Sie wünschte ihm Genesung, und dass er es künftig leichter haben möge als in seinem bisherigen Leben. Worauf Böhme geantwortet haben soll: Die äußerlichen Heimsuchungen habe er innerlich als Hilfen erfahren – er würde nichts an seinem Leben ändern. Es gab eine Zeit im 30jährigen Krieg, da quartierten sich Soldaten bei der Bevölkerung ein, auch in Böhmes Haus. Die Nahrung wurde knapp, Frau und Kinder und Böhme selbst hungerten, die Soldaten saßen mit am Tisch, die Kinder lärmten in der Stube und in Böhmes Werkstatt. Wie würde es Euch in dieser Situation gehen? Gerade in dieser Lage soll Böhme die tiefste Gottesverbindung erlebt haben, wovon er in erstaunlich umfangreichen Werken zeugte.
+:::
+
+
+## Lebenshaltung: Böhme
+
+::: {style="font-size: 2.1rem"}
+Ich weiß auch gar wohl,  
+dass die Kinder des Fleisches werden meiner spotten und sagen,  
+ich sollte meines Berufs warten und um diese Dinge mich unbekümmert lassen und mich lieber um das fleißiger annehmen, das da mir und den meinigen den Bauch füllt, und
+die lassen philosophieren, die es studiert haben, und dazu berufen sind.  
+Dass ich mich oft entschieden habe, dieses zu unterlassen,  
+**aber mein Schweigen ist mir zu schwer geworden.**  
+Denn **wenn ich** dem Bauch gefolgt und **mich entschlossen habe, mein Vorhaben zu unterlassen, so sind mir die Pforten des Himmels in meiner Erkenntnis verschlossen worden.**  
+Alsdann hat sich meine Seele geängstigt, als sollte der Leib zu Grunde gehen.
+:::
+
+
+[Aurora 25, 5-7]{style="font-size: 1.5rem"}
+
+
+## Lebenshaltung: Dylan
+
+Litt sehr unter öffentlichem Druck nach frühem Ruhm
+
+> Legende, Ikone, Rätsel (Buddha in europäischen Kleidern war mein Favorit) - so in der Art, das war ok. Diese Bezeichnungen waren friedlich und harmlos, verschlissen, damit konnte ich leicht umgehen.
+
+> Prophet, Messias, Erlöser - das waren die schwierigen.
+
+
+[Chronicles, 2004, Kapitel 3, über die Zeit um Woodstock 1969]{style="font-size: 1.5rem"}
+
+
+## Lebenshaltung: Dylan
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+* Massive Anfeindungen nach Veröffentlichung seiner "christlichen Alben"  
+  *Slow Train Coming*, 1979; *Saved*, 1980; *Shot of Love*, 1981
+* Spielte 1979 zwei Wochen lang am gleichen Ort (Warfield Theatre, San Francisco) nur seine neuen christlichen Songs
+* Hielt massivem Druck von Fans und Veranstaltern stand, erhielt Morddrohungen
+:::
+
+::: {.column style="font-size: 1.5rem"}
+```{r}
+#| fig-cap: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quelle: Pinterest, Alan Karlosky"
+
+include_graphics("libs/_Images/Dylan-Warfield-1979.jpeg")
+```
+:::
+::::
 
 
 ## Übergabe an Gottes Willen: Böhme
