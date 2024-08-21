@@ -96,11 +96,9 @@ Warum?
 
 #### Von der Kunst, Böhme zu lesen und Dylan zu hören
 
-#### Quellen der Inspiration
+#### Welterkenntnis und Quellen der Inspiration
 
-#### Vom Beten
-
-#### Wem willst Du dienen?
+#### Vom Beten; Wem willst Du dienen?
 
 #### Die Hohe Liebe
 
@@ -112,8 +110,6 @@ Warum?
 
 
 ::: notes
-**Welterkenntnis**: z. B. Böhme, Aurora, Traurigkeit, in allen Dingen Gut und Böse
-Dylan, Rough and Rowdy Ways, Black Rider
 **Verführung**: Mysterium Magnum / Clean Cut Kid
 :::
 
@@ -537,6 +533,40 @@ So steigt er empor von Herrlichkeit zu Herrlichkeit, vereint mit dem Geist, und 
 :::
 
 
+## Welterkenntnis: Böhme
+
+... bin ich schließlich in eine hartnäckige Melancholie und Traurigkeit gefallen, als ich die große Tiefe dieser Welt anschaute, dazu die Sonne und die Sterne, sowie die Wolken, den Regen und den Schnee, und betrachtete in meinem Geist die ganze Schöpfung dieser Welt.
+
+Darin fand ich dann **in allen Dingen Böses und Gutes, Liebe und Zorn**, sowohl in den unvernünftigen Kreaturen, in Holz, Steinen, Erden und Elementen, wie auch in den Menschen und Tieren.
+
+
+[Aurora, Die Bedeutung von Himmel und Erde, 19.5 - 19.6]{style="font-size: 1.5rem"}
+
+
+## Welterkenntnis: Dylan
+
+Ich habe die ganze Welt durchsucht nach dem Heiligen Gral  
+Ich singe Songs von Liebe - ich singe Songs von Betrug
+
+
+[False Prophet, Album *Rough and Rowdy Ways*, 2020]{style="font-size: 1.5rem"}
+
+
+::: notes
+False Prophet:
+I’ve searched the world over for the Holy Grail  
+I sing songs of love - I sing songs of betrayal
+
+Jokerman:
+Well, the rifleman’s stalking the sick and the lame  
+Preacherman seeks the same, who’ll get there first is uncertain  
+Nightsticks and water cannons, tear gas, padlocks  
+Molotov cocktails and rocks behind every curtain  
+False-hearted judges dying in the webs that they spin  
+Only a matter of time ’til night comes steppin’ in  
+:::
+
+
 ## Quellen der Inspiration: Böhme
 
 Mein Buch hat nur drei Blätter,  
@@ -569,7 +599,8 @@ Karen Hughes: Wenn Sie Songs schreiben, empfinden Sie sich mehr als Medium, stim
 Bob Dylan: Ich denke, jeder Künstler [*Composer*] tut das. Niemand, der bei klarem Verstand ist, würde behaupten, es käme von ihm selbst, dass er es erfunden hat. Es strömt nur durch ihn hindurch.
 
 
-Interview, 1980
+[Interview, 1980]{style="font-size: 1.5rem"}
+
 
 ::: notes
 Interview von 1980
@@ -766,9 +797,14 @@ Ich warte nur auf den Herrn,
 der mich wieder aufbaut und mich füllt  
 Und ich weiß, er wird es tun, denn Er ist so treu und wahr
 
-<br>
-
 [Covenant Woman, Album *Saved*, 1980]{style="font-size: 1.5rem"}
+
+::: fragment
+<br><br>
+Lass all Deine irdischen Gedanken Gebete sein
+
+[Black Rider, Album *Rough and Rowdy Ways*, 2020]{style="font-size: 1.5rem"}
+:::
 
 ::: notes
 Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor Shot of Love
@@ -777,6 +813,15 @@ Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor S
 *I’m just waiting on the Lord *
 *to rebuild and fill me up*  
 *And I know He will do it ’cause He’s faithful and He’s true*
+
+...
+
+*Black Rider Black Rider you’ve seen it all*
+*You’ve seen the great world and you’ve seen the small*
+*You fell into the fire and you’re eating the flame*
+*Better seal up your lips if you want to stay in the game*
+*Be reasonable Mister - be honest be fair*
+*Let all of your earthly thoughts be a prayer*
 :::
 
 
