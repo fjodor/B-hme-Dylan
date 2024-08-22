@@ -1462,8 +1462,8 @@ Litt sehr unter öffentlichem Druck nach frühem Ruhm
 
 [Chronicles, 2004, Kapitel 3, über die Zeit um Woodstock 1969]{style="font-size: 1.5rem"}
 
-
 Viele erstklassige Songs gar nicht oder erst spät veröffentlicht
+
 
 ::: notes
 * *Blind Willie McTell*, 1983 aufgenommen, nicht auf *Infidels* veröffentlicht, erst 1991 auf *Bootleg Series Volume 1-3 (Rare & Unreleased) 1961-1991* erschienen
@@ -1666,6 +1666,7 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 * Heath Ledger: Oscar Bester Nebendarsteller 2009 (posthum), *The Dark Knight*
 * Richard Gere: Golden Globe 2003, *Chicago*
 * Ben Wishaw: Golden Globe 2019, Bester Nebendarsteller *A Very English Scandal*; Emmy 2009 als Bester Fernsehdarsteller für *Criminal Justice*
+* 2024: Timothée Chalamet spielt Bob Dylan
 :::
 
 
