@@ -98,7 +98,7 @@ Warum?
 
 #### Welterkenntnis und Quellen der Inspiration
 
-#### Vom Beten; Wem willst Du dienen?
+#### Vom Beten; Wem willst Du dienen?; Verführung
 
 #### Die Hohe Liebe
 
@@ -110,7 +110,6 @@ Warum?
 
 
 ::: notes
-**Verführung**: Mysterium Magnum / Clean Cut Kid
 :::
 
 
@@ -1028,6 +1027,87 @@ But you’re gonna have to serve somebody
 :::
 
 
+## Verführung: Böhme
+
+Auch ist dies die gewaltige Darstellung der hurenden und unzüchtigen Welt, wie die schönen Töchter Evas im Trieb des Teufels der zarten Jugend nachrennen und sie mit heuchlerischen Gebärden und falscher Brunst an sich ziehen. Und wie sie sich schmücken und zieren, als säße ein Engel unter ihrem Schmuck, und damit manch frommes Kind, das niemals danach begehrt hat, an sich ziehen und gleich mit des Teufels Ketten binden und um Ehre und Zucht bringen.
+
+
+[Mysterium Magnum 66.42, Kapitel über Josef und Potiphar]{style="font-size: 1.5rem"}
+
+
+## Verführung: Böhme
+
+::: {style="font-size: 2.1rem"}
+Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und Lockhäuser des Teufels nicht eingehen wollte, den verrufen sie und bezichtigen ihn der Unzucht, als hätte er sie betrügen wollen, und rauben ihm seine Ehre, und sind doch eben selber diese Brunsthengste, welche Zucker aufstreuen und Galle zu essen geben, welche fremden Männern so lange Zucker aufstreuen, wie sie Geld im Beutel haben, bis sie diese um Habe, Ehre und Gut bringen, so daß sie ihnen nichts mehr zu geben haben. Dann schänden sie diese und lassen sie ohne Rock nach Hause gehen, wie Potiphars Frau den Josef. So hat der Teufel die Seele, und die Hure hat den Rock zum Pfand, ...
+:::
+
+[Mysterium Magnum 66.43, Kapitel über Josef und Potiphar]{style="font-size: 1.5rem"}
+
+::: notes
+Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und Lockhäuser des Teufels nicht eingehen wollte, den verrufen sie und bezichtigen ihn der Unzucht, als hätte er sie betrügen wollen, und rauben ihm seine Ehre, und sind doch eben selber diese Brunsthengste, welche Zucker aufstreuen und Galle zu essen geben, welche fremden Männern so lange Zucker aufstreuen, wie sie Geld im Beutel haben, bis sie diese um Habe, Ehre und Gut bringen, so daß sie ihnen nichts mehr zu geben haben. Dann schänden sie diese und lassen sie ohne Rock nach Hause gehen, wie Potiphars Frau den Josef. So hat der Teufel die Seele, und die Hure hat den Rock zum Pfand, in welcher Hure nichts anderes regiert, als die Schlange mit ihren Jungen. Und wer sich zu ihnen tut, der wird von der Schlange vergiftet, denn die Schlange schmeißt ihm ihre Brut in Leib und Seele und vergiftet ihn so sehr, daß er sein Herz an die Hure hängt und ihr nachläuft, als wäre er fest an sie gebunden.
+:::
+
+
+## Verführung: Dylan
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+Er war ein adretter Junge  
+Aber sie haben einen Killer aus ihm gemacht  
+Das haben sie getan  
+
+Sie verdrehten ihm den Kopf  
+Er wusste nie, worum es ging  
+
+
+[Clean Cut Kid, Album *Empire Burlesque*, 1985]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/EmpireBurlesque.jpg")
+```
+:::
+::::
+
+
+::: notes
+Dylan: Clean Cut Kid (Empire Burlesque)
+
+He was a clean-cut kid  
+But they made a killer out of him  
+That’s what they did
+
+They said, “Listen boy, you’re just a pup”  
+They sent him to a napalm health spa to shape up  
+
+They gave him dope to smoke, drinks and pills  
+A jeep to drive, blood to spill  
+
+They said “Congratulations, you got what it takes”  
+They sent him back into the rat race without any brakes  
+
+He was a clean-cut kid  
+But they made a killer out of him  
+That’s what they did  
+Well, everybody’s asking why he couldn’t adjust  
+All he ever wanted was somebody to trust  
+
+They took his head and turned it inside out  
+He never did know what it was all about  
+
+He had a steady job, he joined the choir  
+He never did plan to walk the high wire
+
+They took a clean-cut kid  
+And they made a killer out of him  
+That’s what they did
+:::
+
+
 ## Die Hohe Liebe: Böhme
 
 Nun sei dir, o großer Gott, in deiner Kraft und Süßigkeit, Lob, Dank, Stärke, Preis und Ehre, dass du mich von dem Treiber der Angst erlöset hast. O du schönes Lieb, mein Herze fasset dich, wo bist du so lange gewesen? Mich deucht, ich wäre in der Hölle und in Gottes Grimm.
@@ -1336,6 +1416,7 @@ You can give but you cannot receive
 * Zeitweise wohnten Soldaten im Haus
 * Die Nahrung wurde knapp
 * 4 Kinder lärmten ...
+* Keine Ambitionen, Schriften zu veröffentlichen
 :::
 
 ::: column
@@ -1379,8 +1460,15 @@ Litt sehr unter öffentlichem Druck nach frühem Ruhm
 
 > Prophet, Messias, Erlöser - das waren die schwierigen.
 
-
 [Chronicles, 2004, Kapitel 3, über die Zeit um Woodstock 1969]{style="font-size: 1.5rem"}
+
+
+Viele erstklassige Songs gar nicht oder erst spät veröffentlicht
+
+::: notes
+* *Blind Willie McTell*, 1983 aufgenommen, nicht auf *Infidels* veröffentlicht, erst 1991 auf *Bootleg Series Volume 1-3 (Rare & Unreleased) 1961-1991* erschienen
+* *Abandoned Love*, 1975 aufgenommen, für *Desire* 1976 nicht berücksichtigt, erst 1985 auf Kompilation *Biograph* veröffentlicht
+:::
 
 
 ## Lebenshaltung: Dylan
@@ -1571,6 +1659,14 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 ```
 :::
 ::::
+
+::: notes
+* Cate Blanchett: 2x Oscar: Beste Hauptdarstellerin 2014 *Blue Jasmine*, Beste Nebendarstellerin 2005 *Aviator*
+* Christian Bale: Oscar Bester Nebendarsteller 2011, *The Fighter*
+* Heath Ledger: Oscar Bester Nebendarsteller 2009 (posthum), *The Dark Knight*
+* Richard Gere: Golden Globe 2003, *Chicago*
+* Ben Wishaw: Golden Globe 2019, Bester Nebendarsteller *A Very English Scandal*; Emmy 2009 als Bester Fernsehdarsteller für *Criminal Justice*
+:::
 
 
 ## Empfehlung: Dylan
