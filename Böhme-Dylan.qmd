@@ -167,11 +167,16 @@ Friedrich Schlegel (1772 - 1829)
 > Der Schuster Jakob Böhme war ein großer Philosoph!  
 Manche Philosophen von Ruf sind nur große Schuster.
 
-Karl Marx (1818 - 1883)
-
 :::: columns
 ::: column
 
+Karl Marx (1818 - 1883)
+
+[Brunnendenkmal Jakob Böhme<br>im Park des Friedens, Görlitz<br>gegossen 1898<br>Urheber: Johannes Pfuhl<br>Quelle: stadtwiki-goerlitz.de]{style="font-size: 1.5rem"}
+
+:::
+
+::: column
 ```{r}
 #| fig-align: "center"
 #| out-width: "55%"
@@ -179,10 +184,6 @@ Karl Marx (1818 - 1883)
 
 include_graphics("libs/_Images/Böhme-Denkmal.jpg")
 ```
-:::
-
-::: column
-[Brunnendenkmal<br>im Park des Friedens, Görlitz<br>gegossen 1898<br>Urheber: Johannes Pfuhl<br>Quelle: stadtwiki-goerlitz.de]{style="font-size: 1.7rem"}
 :::
 ::::
 
@@ -285,10 +286,6 @@ Wenn weder im Text noch in der Musik das Wesentliche und Besondere in Dylans Kun
 Es ist legitim und oft sehr sinnvoll, wenn Rockmusik Unterhaltungskunst ist. Wenn besagte Präsenz aber darüber hinausführt, so kann das seine Ursache auch darin haben, daß der Künstler nicht einfach viel intelligenter und sensibler als andere ist, sondern daß die Kunst für ihn ein Mittel ist, ein Mehr an Präsenz zu erreichen, daß er sich durch die Kunst eine größere Selbstwahrnehmung und -bestätigung verschafft. Was aber wäre, wenn dieser Mensch erst präsent wird, indem er sich als Künstler betätigt, was, wenn er Lieder schriebe, um dadurch überhaupt Präsenz zu gewinnen?
 
 Vielleicht liegt dem riesigen Dylan’schen Œuvre ein entsprechender Zwang zugrunde (dem dann auch der Fan unterläge). Dylan ist ohne Ende auf Tournee, und er hat Hunderte von Liedern geschrieben, von denen viele gar nicht veröffentlicht worden sind.
-
-1966 war Bob Dylan bei einem Motorradunfall fast ums Leben gekommen: ein traumatisches Erlebnis, das ihn sicherlich auf den Kern seiner Person zurückgeworfen hat. In der Genesungsphase lud Dylan die Musiker von **The Band** zu sich ein, und es entstanden im Keller seines Hauses Lieder, die manchen Fans als einige seiner bedeutendsten gelten: Diese wurden auf Basement Tapes aufgenommen (die Originale landeten übrigens eigenartigerweise im Archiv von Neil Young) und später (1975) als solche veröffentlicht. Ein Lied wurde dabei ausgelassen, blieb viele Jahrzehnte unveröffentlicht und wurde zum Geheimtip; und das war das Lied mit dem Titel I’m Not There.
-
-Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist ein Schlüssellied. Vier Akkorde sind die Grundlage für eine Art Improvisation, die in das einzig Notierte, nämlich diesen Kehrreim endet: „Ich bin nicht da.“ Der Text scheint nicht nur improvisiert zu sein, sondern ist an vielen Stellen schlicht unverständlich. Dylan benutzt eine Privatsprache und scheint auf Worte und hergebrachte Wortbedeutungen keine große Rücksicht zu nehmen – alles fließt direkt aus seinen Gefühlen und aus seinem Unterbewußten. Kognitives ist bei der Eroberung von Präsenz kaum von Bedeutung; das wird er später im Song *Standing In The Doorway* sagen: „I see nothing to be gained by any explanation.“ *I’m Not There* ist direkter Ausdruck seines Innersten.
 
 ...
 
@@ -414,6 +411,15 @@ include_graphics("libs/_Images/Leonard Cohen 2016.png")
 Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von *Saved* und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient **seelisch** nicht **ähnlich verfasst** wäre **wie der Künstler**. Auf den Punkt gebracht lautet diese Verfassung: **Ich bin nicht da**; beziehungsweise – in den Gefühlen der Liebe dann –: **Endlich bin ich da.**
 
 Peter Post
+
+
+::: notes
+Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
+
+1966 war Bob Dylan bei einem Motorradunfall fast ums Leben gekommen: ein traumatisches Erlebnis, das ihn sicherlich auf den Kern seiner Person zurückgeworfen hat. In der Genesungsphase lud Dylan die Musiker von **The Band** zu sich ein, und es entstanden im Keller seines Hauses Lieder, die manchen Fans als einige seiner bedeutendsten gelten: Diese wurden auf Basement Tapes aufgenommen (die Originale landeten übrigens eigenartigerweise im Archiv von Neil Young) und später (1975) als solche veröffentlicht. Ein Lied wurde dabei ausgelassen, blieb viele Jahrzehnte unveröffentlicht und wurde zum Geheimtip; und das war das Lied mit dem Titel *I’m Not There*.
+
+Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist ein Schlüssellied. Vier Akkorde sind die Grundlage für eine Art Improvisation, die in das einzig Notierte, nämlich diesen Kehrreim endet: „Ich bin nicht da.“ Der Text scheint nicht nur improvisiert zu sein, sondern ist an vielen Stellen schlicht unverständlich. Dylan benutzt eine Privatsprache und scheint auf Worte und hergebrachte Wortbedeutungen keine große Rücksicht zu nehmen – alles fließt direkt aus seinen Gefühlen und aus seinem Unterbewußten. Kognitives ist bei der Eroberung von Präsenz kaum von Bedeutung; das wird er später im Song *Standing In The Doorway* sagen: „I see nothing to be gained by any explanation.“ *I’m Not There* ist direkter Ausdruck seines Innersten.
+:::
 
 
 ## Göttlicher Ursprung des Menschen: Böhme
@@ -550,6 +556,11 @@ Ich singe Songs von Liebe - ich singe Songs von Betrug
 
 
 [False Prophet, Album *Rough and Rowdy Ways*, 2020]{style="font-size: 1.5rem"}
+
+```{r}
+#| fig.align: "center"
+include_graphics("libs/_Images/RoughAndRowdyWays.jpg")
+```
 
 
 ::: notes
@@ -827,6 +838,9 @@ Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor S
 
 ## Vom Beten: Bob Dylan
 
+:::: columns
+::: {.column width="60%" style="font-size: 1.9rem"}
+
 In den Stunden der Verzweiflung  
 Wenn in mir die Hoffnung sinkt  
 Wenn das ausgesäte Samenkorn  
@@ -836,6 +850,17 @@ Hör ich in mir eine [sterbende] Stimme
 Die mich weiter treibt  
 Und die mir wieder Kraft gibt  
 In der Zeit der Dunkelheit
+:::
+
+::: column
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/ShotOfLove.jpg")
+```
+:::
+::::
 
 [Every Grain of Sand, Album *Shot of Love*, 1981<br>Übersetzung: M. Kunze; gesungen von Nana Mouskouri]{style="font-size: 1.5rem"}
 
@@ -1031,7 +1056,9 @@ Oh mein Bräutigam, wie ist mir so wohl in deiner Ehe. Küsse mich doch mit dein
 
 ## Die Hohe Liebe: Dylan
 
-::: {style="font-size: 2.1rem"}
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+
 Meine Liebe spricht wie die Stille  
 Ohne Ideale oder Gewalt  
 Sie muss nicht sagen, dass sie treu ist,  
@@ -1041,13 +1068,26 @@ Und indem Sie Versprechen geben
 Meine Liebe lacht wie die Blumen  
 Kaufen lässt sie sich nicht
 
-...
+[...]
 
 Meine Liebe weiß zu viel,  
 sie argumentiert nicht, sie urteilt nicht
-:::
 
 [Love Minus Zero, Album *Bringing It all Back Home*, 1965]{style="font-size: 1.5rem"}
+
+:::
+
+::: column
+
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/BringingItAllBackHome.jpg")
+```
+
+:::
+::::
 
 
 ::: notes
@@ -1134,18 +1174,34 @@ Or is your love in vain?
 
 ## Die Hohe Liebe: Dylan
 
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+
 Ich war in den Bergen und im Wind  
 Ich war glücklich und unglücklich  
 Ich habe mit Königen gespeist, mir wurden Flügel angeboten  
-Aber nichts hat mich groß beeindruckt
+Aber nichts hat mich beeindruckt
 
-...
+[...]
 
 Bist Du bereit, alles zu riskieren  
 Oder ist Deine Liebe vergebens?
 
-
 [Is Your Love in Vain? Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+:::
+
+::: column
+
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/StreetLegal.jpg")
+```
+
+:::
+::::
 
 
 ## Nüchternheit: Böhme
@@ -1222,7 +1278,8 @@ include_graphics("libs/_Images/pexels-pixabay-262786.jpg")
 
 So vollzieht sich die glorienvolle Wieder-Verbindung:
 
-::: {.incremental style="font-size: 2.1rem"}
+:::: columns
+::: {.column .incremental width="60%" style="font-size: 1.9rem"}
 * [Seele: Wo warst Du?]{style="color: yellow"}
 * Mensch: An keinem besonderen Ort
 * [Seele: Du sieht anders aus]{style="color: yellow"}
@@ -1231,7 +1288,18 @@ So vollzieht sich die glorienvolle Wieder-Verbindung:
 * Mensch: Ist doch normal
 * [Seele: Wirst Du diesmal bleiben?]{style="color: yellow"}
 * Mensch: Ja, vielleicht …
+
 :::
+
+::: column
+```{r}
+#| out-width: "90%"
+#| out-height: "90%"
+
+include_graphics("libs/_Images/Desire.jpg")
+```
+:::
+::::
 
 [Isis, Album *Desire*, 1976]{style="font-size: 1.5rem"}
 
@@ -1261,12 +1329,23 @@ You can give but you cannot receive
 
 ## Lebenshaltung: Böhme
 
+:::: columns
+::: {.column style="font-size: 2rem"}
 * Hatte die Angriffe vorausgesehen, nahm sie an
 * Schrieb den größten Teil seiner Werke während des 30jährigen Krieges (ab 1618)
 * Zeitweise wohnten Soldaten im Haus
 * Die Nahrung wurde knapp
 * 4 Kinder lärmten ...
+:::
 
+::: column
+```{r}
+include_graphics("libs/_Images/Böhme-Pushpak.png")
+```
+
+[Quelle: Joseph Mulder nach Jan Luyken, <br>Jacob Böhme in seiner Schusterwerkstatt, 1686]{style="font-size: 1.5rem"}
+:::
+::::
 
 ::: notes
 Quelle? Originaltext? Spunda?
@@ -1466,3 +1545,39 @@ include_graphics("libs/_Images/Böhme-Grabkreuz-1682-Wikimedia.jpg")
     <https://www.youtube.com/@spirit-rockmusic6651>
 
 :::
+
+
+## Empfehlungen: Dylan
+
+:::: columns
+::: {.column width="60%" style="font-size: 1.6rem"}
+* Filme über Bob Dylan
+  + Don't Look Back (1965) von D. A. Pennebaker
+  + No Direction Home (2005) von **Martin Scorsese**
+  + I'm Not There (2007) von Todd Haynes
+  + Rolling Thunder Review (2019) von **Martin Scorsese**, spielt 1975
+  + A Complete Unknown (2024) von James Mangold
+* Filme mit Bob Dylan
+  + Pat Garret jagd Billy The Kid (1973)
+  + Masked and Anonymous (2003)
+:::
+
+::: column
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/ImNotThere-Film.jpg")
+```
+:::
+::::
+
+
+## Empfehlung: Dylan
+
+{{< video https://youtu.be/iEnishf8eJY?si=1k2nn-7Jswnknmbg width="900" height="506" >}}
+
+
+## Empfehlung: Dylan
+
+{{< video https://youtu.be/jV3eyaZajLg?si=2kjiG7BivI-4HpqX width="900" height="506">}}
