@@ -6,4 +6,5 @@
 .quarto
 *.Rproj
 *.html
+*.pdf
 *files/

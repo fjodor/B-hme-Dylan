@@ -300,10 +300,10 @@ Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und
 ::: {.incremental style="font-size: 2.3rem"}
 
 * **Nobelpreis für Literatur** 2016
-* **Oscar** und **Golden Globe** für *Things Have Changed* (Soundtrack zu *Wonderboys* mit Michael Douglas) 2000
-* Personen, die sowohl einen Nobelpreis als auch einen Oscar gewannen:
-  + **George Bernard Shaw** und **Bob Dylan**
-* Personen, die den Nobelpreis, den Oscar, mindestens einen **Grammy**, einen **Golden Globe** und den **Pulitzer-Preis** gewannen: nur Bob Dylan
+* **Oscar** und **Golden Globe** für *Things Have Changed* <br>(Soundtrack zu *Wonderboys* mit Michael Douglas) 2000
+* Personen, die sowohl einen Nobelpreis als auch einen Oscar gewannen:  
+  **George Bernard Shaw** und **Bob Dylan**
+* Personen, die Nobelpreis, Oscar, **Grammy**, **Golden Globe** und **Pulitzer-Preis** gewannen: nur Bob Dylan
 * Rolling Stone Magazine, 100 Größte Songwriter aller Zeiten: **Platz 1**
 :::
 
@@ -316,6 +316,12 @@ Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und
 Paul Simon, Platz 8, über Dylan:  
 "One of my deficiencies is my voice sounds sincere," Simon told Rolling Stone in 2012. "I've tried to sound ironic. I don't. I can't. Dylan, everything he sings has two meanings. He's telling you the truth and making fun of you at the same time. I sound sincere every time."
 https://www.rollingstone.com/interactive/lists-100-greatest-songwriters/#paul-simon
+
+Aus https://www.nationalgallery.ie/art-and-artists/exhibitions/shaw-and-gallery-priceless-education/five-things-about-GBS
+
+Shaw is one of only two people to have won both an Academy Award and a Nobel Prize for Literature. He was awarded the Nobel Prize in 1925; the committee said that his work was “marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty”. With typical Shavian wit, he initially declined to accept, saying “I can forgive Nobel for inventing dynamite, but only a fiend in human form could have invented the Nobel Prize”. He later relented and agreed to accept the award itself, but not the prize money, suggesting that it be used instead to fund the translation of works by the Swedish playwright August Strindberg into English. 
+
+Shaw won his Oscar in 1939 for Best Writing, Screenplay for his role in adapting his own play Pygmalion for the screen. Pygmalion would go on to be remade as the wildly successful musical and film My Fair Lady. 
 
 :::
 
@@ -423,7 +429,7 @@ Empfehlungen, Ausblick
 ## Von der Kunst, Böhme zu lesen
 
 ::: {style="font-size: 2.1rem"}
-> Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt.  
+Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt.  
 Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie das mystische Erleben selber – sie fordert ein vorübergehendes „Leerwerden“, eine völlig freie Aufmerksamkeit und Seelenstille.  
 In Stunden, wo wir reif für ihn sind, sehen wir in seinem mystischen Abbild der Welt die Sterne kreisen und ordnen uns in seinen Kosmos lebendig mit ein. 
 :::
@@ -1986,15 +1992,62 @@ Quelle auch hier: Aurora, Kapitel 19 https://www.deutschlandfunk.de/der-himmel-i
 
 ## Verwandlung: Böhme
 
+Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung. Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches.
+
+[De Signatura Rerum, 11.37]{style="font-size: 1.5rem"}
+
 
 ::: notes
 
-11.37. Hier gibt die Jungfrau dem Jüngling ihr Perlein zum Eigentum, und so werden Gott und Mensch Eins. Denn das Blut der Jungfrau aus göttlicher Wesenheit ertränkt hier mit dem Wesen ihrer Liebe das Blut des Jünglings, als die Ichheit, und die drei Mörder geben ihr Leben im Blut der Jungfrau auf. So gehen das Glühen (bzw. rote Le-ben) vom Feuer und das weiße vom Leben des Ritters miteinander auf, nämlich aus dem Grimm geht das Leben auf, und aus der Liebe die Sanftmut. Und beide, das Leben des Zorns und das Leben der Liebe, steigen miteinander als ein einiges Leben auf, denn im Tod werden sie Eins. Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung (Auflösung oder Rück-verwandlung). Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches. Des Jünglings Leben stirbt, und das Leben der Gottheit bleibt be-ständig, denn es steht in seiner Eigenschaft im Nichts.
+11.37. Hier gibt die Jungfrau dem Jüngling ihr Perlein zum Eigentum, und so werden Gott und Mensch Eins. Denn das Blut der Jungfrau aus göttlicher Wesenheit ertränkt hier mit dem Wesen ihrer Liebe das Blut des Jünglings, als die Ichheit, und die drei Mörder geben ihr Leben im Blut der Jungfrau auf. So gehen das Glühen (bzw. rote Leben) vom Feuer und das weiße vom Leben des Ritters miteinander auf, nämlich aus dem Grimm geht das Leben auf, und aus der Liebe die Sanftmut. Und beide, das Leben des Zorns und das Leben der Liebe, steigen miteinander als ein einiges Leben auf, denn im Tod werden sie Eins. Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung (Auflösung oder Rück-verwandlung). Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches. Des Jünglings Leben stirbt, und das Leben der Gottheit bleibt be-ständig, denn es steht in seiner Eigenschaft im Nichts.
 
 [De Signatura Rerum, 11.37]{style="font-size: 1.5rem"}
 
 :::
 
+
+## Verwandlung: Dylan
+
+Wiedergeboren zu werden, ist schwer.  
+Hast Du gesehen, wie eine Mutter ein Kind gebiert?  
+Das ist schmerzhaft.
+
+::: fragment
+Wir mögen es nicht, alte Einstellungen und Komplexe zu verlieren.
+:::
+
+[Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
+
+::: notes
+
+Being born again is a hard thing. You ever seen a mother give birth to a child? Well it’s painful. We don’t like to lose those old attitudes and hang-ups.
+
+:::
+
+
+## Verwandlung: Dylan
+
+[...]
+Doch Eden brennt  
+Seid bereit für das Ende  
+oder findet in Euren Herzen den Mut zur Wachablösung.
+
+Der Frieden wird kommen  
+Gelassen und prächtig auf Feuerrädern  
+Doch belohnt er uns nicht, wenn ihre Götzenbilder fallen  
+Und der Tod kapituliert und sein bleicher Geist weicht zurück  
+Zwischen den König und die Königin der Schwerter
+
+[Changing of the Guards, Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+
+::: notes
+Peace will come
+With tranquility and splendor on the wheels of fire
+But will bring us no reward when her false idols fall
+And cruel death surrenders with its pale ghost retreating
+Between the King and the Queen of Swords
+:::
 
 ## Themen
 
@@ -2011,7 +2064,7 @@ Die Hohe Liebe
 
 Nüchternheit, Lebenshaltung
 
-Übergabe an Gottes Willen; Sterben, um zu leben
+Übergabe an Gottes Willen; Befreiung und Verwandlung
 
 [**Empfehlungen, Ausblick**]{style="color: yellow"}
 :::
@@ -2128,6 +2181,13 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 
 
 ## Vielen Dank!
+
+::: {.incremental style="font-size: 1.9rem"}
+* Böhme wie Dylan laden zu einer spirituellen Reise ins eigene Innere ein.
+* Auf dieser Reise kann man nicht bleiben, wer man ist.
+* Wenn das Unsterbliche in uns erwacht,  
+  können sich die Werke von Böhme und Dylan tiefer erschließen.
+:::
 
 :::: columns
 ::: column
