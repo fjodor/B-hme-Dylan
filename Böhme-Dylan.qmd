@@ -422,22 +422,36 @@ Empfehlungen, Ausblick
 
 ## Von der Kunst, Böhme zu lesen
 
-::: {style="font-size: 1.9rem"}
-> Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt. Am schwersten kommt der gebildete Vielleser in ihn hinein. Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie das mystische Erleben selber – sie fordert ein vorübergehendes „Leerwerden“, eine völlig freie Aufmerksamkeit und Seelenstille. In den Stunden, wo diese uns fehlt, spricht Böhme nicht zu uns, ist er uns tot und öde, denn der Neugierde und dem bloßen intellektuellen Spieltrieb gibt er nichts. Aber in Stunden, wo wir reif für ihn sind, sehen wir in seinem mystischen Abbild der Welt die Sterne kreisen und ordnen uns in seinen Kosmos lebendig mit ein. 
+::: {style="font-size: 2.1rem"}
+> Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt.  
+Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie das mystische Erleben selber – sie fordert ein vorübergehendes „Leerwerden“, eine völlig freie Aufmerksamkeit und Seelenstille.  
+In Stunden, wo wir reif für ihn sind, sehen wir in seinem mystischen Abbild der Welt die Sterne kreisen und ordnen uns in seinen Kosmos lebendig mit ein. 
 :::
 
 [Hermann Hesse, Gesammelte Werke, Band 12, S95]{style="font-size: 1.5rem"}
 
 
+::: notes
+> Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt. Am schwersten kommt der gebildete Vielleser in ihn hinein. Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie das mystische Erleben selber – sie fordert ein vorübergehendes „Leerwerden“, eine völlig freie Aufmerksamkeit und Seelenstille. In den Stunden, wo diese uns fehlt, spricht Böhme nicht zu uns, ist er uns tot und öde, denn der Neugierde und dem bloßen intellektuellen Spieltrieb gibt er nichts. Aber in Stunden, wo wir reif für ihn sind, sehen wir in seinem mystischen Abbild der Welt die Sterne kreisen und ordnen uns in seinen Kosmos lebendig mit ein. 
+:::
+
+
 ## Von der Kunst, Dylan zu hören
 
-Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von *Saved* und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient **seelisch** nicht **ähnlich verfasst** wäre **wie der Künstler**. Auf den Punkt gebracht lautet diese Verfassung: **Ich bin nicht da**; beziehungsweise – in den Gefühlen der Liebe dann –: **Endlich bin ich da.**
+Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von *Saved* und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient **seelisch** nicht **ähnlich verfasst** wäre **wie der Künstler**.
+
+Auf den Punkt gebracht lautet diese Verfassung:  
+**Ich bin nicht da**;  
+beziehungsweise – in den Gefühlen der Liebe dann –:  
+**Endlich bin ich da.**
 
 Peter Post
 
 
 ::: notes
 Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
+
+Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von *Saved* und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient **seelisch** nicht **ähnlich verfasst** wäre **wie der Künstler**. Auf den Punkt gebracht lautet diese Verfassung: **Ich bin nicht da**; beziehungsweise – in den Gefühlen der Liebe dann –: **Endlich bin ich da.**
 
 1966 war Bob Dylan bei einem Motorradunfall fast ums Leben gekommen: ein traumatisches Erlebnis, das ihn sicherlich auf den Kern seiner Person zurückgeworfen hat. In der Genesungsphase lud Dylan die Musiker von **The Band** zu sich ein, und es entstanden im Keller seines Hauses Lieder, die manchen Fans als einige seiner bedeutendsten gelten: Diese wurden auf Basement Tapes aufgenommen (die Originale landeten übrigens eigenartigerweise im Archiv von Neil Young) und später (1975) als solche veröffentlicht. Ein Lied wurde dabei ausgelassen, blieb viele Jahrzehnte unveröffentlicht und wurde zum Geheimtip; und das war das Lied mit dem Titel *I’m Not There*.
 
@@ -1171,6 +1185,8 @@ Oh du Weltrichter, verlaß dich nicht auf den Turm zu Babel, auf Weltschlüsse u
 
 ## Wem willst Du dienen? Dylan
 
+:::: columns
+::: {.column style="font-size: 1.9rem"}
 Du magst der englische oder französische Botschafter sein  
 Du magst gern zocken oder tanzen  
 Du magst der Weltmeister im Schwergewichtsboxen sein  
@@ -1181,8 +1197,16 @@ Du musst jemandem dienen
 Es mag der Teufel sein oder der Herr  
 Aber Du wirst jemandem dienen müssen
 
-
 [Gotta Serve Somebody, Album *Slow Train Coming*, 1979]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/SlowTrainComing.jpg")
+```
+:::
+::::
+
 
 ::: notes
 Vielfach gespielt in den 1990ern, 2000ern, 2010ern, 2021-2024
@@ -1431,7 +1455,7 @@ sie argumentiert nicht, sie urteilt nicht
 #| out-width: "75%"
 #| out-height: "75%"
 
-include_graphics("libs/_Images/BringingItAllBackHome.jpg")
+include_graphics("libs/_Images/BringingItAllBackHome.webp")
 ```
 
 :::
