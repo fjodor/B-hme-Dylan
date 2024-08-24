@@ -1986,10 +1986,10 @@ include_graphics("libs/_Images/Böhme-Grabkreuz-1682-Wikimedia.jpg")
 ::: {.column width="60%" style="font-size: 1.6rem"}
 * Filme über Bob Dylan
   + Don't Look Back (1965) von D. A. Pennebaker
-  + No Direction Home (2005) von **Martin Scorsese**
+  + No Direction Home (2005) <br>von **Martin Scorsese**
   + I'm Not There (2007) von Todd Haynes
-  + Rolling Thunder Review (2019) von **Martin Scorsese**, spielt 1975
-  + A Complete Unknown (2024) von James Mangold
+  + Rolling Thunder Review (2019) <br>von **Martin Scorsese**, spielt 1975
+  + A Complete Unknown (2024) <br>von James Mangold
 * Filme mit Bob Dylan
   + Pat Garret jagd Billy The Kid (1973)
   + Masked and Anonymous (2003)
@@ -2015,19 +2015,37 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 :::
 
 
-## Empfehlung: Dylan
+## Vielen Dank!
 
-{{< video https://youtu.be/iEnishf8eJY?si=1k2nn-7Jswnknmbg width="900" height="506" >}}
+:::: columns
+::: column
+```{r}
+#| out.width: "83%"
+#| out.height: "83%"
 
+include_graphics("libs/_Images/Böhme-Pushpak.png")
+```
+[Quelle: Joseph Mulder nach Jan Luyken, 1686]{style="font-size: 1.5rem"}
+:::
 
-## Empfehlung: Dylan
-
-{{< video https://youtu.be/jV3eyaZajLg?si=2kjiG7BivI-4HpqX width="900" height="506">}}
+::: column
+```{r}
+include_graphics("libs/_Images/Dylan-gif3.webp")
+```
+[Quelle: giphy.com]{style="font-size: 1.5rem"}
+:::
+::::
 
 
 ::: notes
 
 **Ergänzungen**
+
+Trailer I'm not There  
+{{< video https://youtu.be/iEnishf8eJY?si=1k2nn-7Jswnknmbg width="900" height="506" >}}
+
+Trailer Rolling Thunder Review  
+{{< video https://youtu.be/jV3eyaZajLg?si=2kjiG7BivI-4HpqX width="900" height="506">}}
 
 De Signatura Rerum, 11.37 (Pushpak)
 
