@@ -105,7 +105,7 @@ Die Hohe Liebe
 
 Nüchternheit, Lebenshaltung
 
-Übergabe an Gottes Willen; Sterben, um zu leben
+Übergabe an Gottes Willen; Befreiung und Verwandlung
 
 Empfehlungen, Ausblick
 :::
@@ -414,7 +414,7 @@ Die Hohe Liebe
 
 Nüchternheit, Lebenshaltung
 
-Übergabe an Gottes Willen; Sterben, um zu leben
+Übergabe an Gottes Willen; Befreiung und Verwandlung
 
 Empfehlungen, Ausblick
 :::
@@ -474,7 +474,7 @@ Die Hohe Liebe
 
 Nüchternheit, Lebenshaltung
 
-Übergabe an Gottes Willen; Sterben, um zu leben
+Übergabe an Gottes Willen; Befreiung und Verwandlung
 
 Empfehlungen, Ausblick
 :::
@@ -950,7 +950,7 @@ Die Hohe Liebe
 
 Nüchternheit, Lebenshaltung
 
-Übergabe an Gottes Willen; Sterben, um zu leben
+Übergabe an Gottes Willen; Befreiung und Verwandlung
 
 Empfehlungen, Ausblick
 :::
@@ -1377,6 +1377,71 @@ That’s what they did
 :::
 
 
+## Das Irdische gegen das Geistige: Böhme
+
+::: {style="font-size: 2rem"}
+*Innerer Mensch zur Feuer-Seele:*  
+Oh mein Buhle, kehre doch um und gehe von der Eitelkeit ab, oder du verlierst meine Liebe und das edle Perlein.
+
+*Äußerer Verstand = irdische (tierische) Seele*:  
+Du bist närrisch, daß du der Welt Narr und Spott sein willst.  
+Du bedarfst der äußeren Welt zu deinem Leben!  
+Schönheit, Macht und Herrlichkeit sind dein Bestes, denn darin kannst du Freude haben.  
+Was willst du dich in Angst, Not und Spott führen?  
+Trachte nach der Wollust, die dem Leib und Gemüt so wohltut!
+:::
+
+[Von der neuen Wiedergeburt 4.16, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
+
+::: notes
+
+Der innere Mensch spricht zur Feuer-Seele: „Oh mein Buhle, kehre doch um und gehe von der Eitelkeit ab, oder du verlierst meine Liebe und das edle Perlein.“ Darauf spricht der äußere Verstand als die tierische (bzw. irdische) Seele: „Du bist närrisch, daß du der Welt Narr und Spott sein willst. Du bedarfst der äußeren Welt zu deinem Leben! Schönheit, Macht und Herrlichkeit sind dein Bestes, denn darin kannst du Freude haben. Was willst du dich in Angst, Not und Spott führen? Trachte nach der Wollust, die dem Leib und Gemüt so wohltut!“
+
+:::
+
+
+## Das Irdische gegen das Geistige: Dylan
+
+:::: columns
+::: {.column style="font-size: 1.7rem"}
+Es ist die Art des Fleisches, gegen den Geist Krieg zu führen  
+24 Stunden am Tag kannst Du es fühlen und hören  
+Unter Einsatz aller Mittel unter der Sonne  
+Das geht so lange, bis die Schlacht verloren oder gewonnen ist  
+
+Ich halte mich mit allem, was ich habe, an den Fels  
+Der vor der Gründung der Welt gemacht wurde  
+Und ich werde nicht loslassen, und ich kann nicht loslassen, und ich werde nicht loslassen
+
+[Solid Rock, Album *Saved*, 1980]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+#| out-width: "80%"
+#| out-height: "80%"
+
+include_graphics("libs/_Images/Saved.jpg")
+```
+:::
+::::
+
+
+::: notes
+Dylan: Solid Rock (Saved)
+
+It’s the ways of the flesh to war against the spirit  
+Twenty-four hours a day you can feel it and you can hear it  
+Using all the devices under the sun  
+And He never give up ’til the battle’s lost or won  
+
+Well, I’m hangin’ on to a solid rock  
+Made before the foundation of the world  
+And I won’t let go and I can’t let go, won’t let go  
+:::
+
+
+
 ## Themen
 
 ::: {style="font-size: 2.4rem"}
@@ -1392,7 +1457,7 @@ Vom Beten; Wem willst Du dienen; Verführung
 
 Nüchternheit, Lebenshaltung
 
-Übergabe an Gottes Willen; Sterben, um zu leben
+Übergabe an Gottes Willen; Befreiung und Verwandlung
 
 Empfehlungen, Ausblick
 :::
@@ -1592,7 +1657,7 @@ Die Hohe Liebe
 
 [**Nüchternheit, Lebenshaltung**]{style="color: yellow"}
 
-Übergabe an Gottes Willen; Sterben, um zu leben
+Übergabe an Gottes Willen; Befreiung und Verwandlung
 
 Empfehlungen, Ausblick
 :::
@@ -1826,7 +1891,7 @@ Die Hohe Liebe
 
 Nüchternheit, Lebenshaltung
 
-[**Übergabe an Gottes Willen; Sterben, um zu leben**]{style="color: yellow"}
+[**Übergabe an Gottes Willen; Befreiung und Verwandlung**]{style="color: yellow"}
 
 Empfehlungen, Ausblick
 :::
@@ -1876,7 +1941,7 @@ während Christus sich immer deutlicher in mir ausprägt.
 [Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
 
 
-## Sterben, um zu leben
+## Überwindung des Todes
 
 #### Böhme
 
@@ -1905,6 +1970,29 @@ Und so lang du das nicht hast,
 Dieses: Stirb und Werde!  
 Bist du nur ein trüber Gast  
 Auf der dunklen Erde  
+:::
+
+
+## Verwandlung: Böhme
+
+Alsbald nach etlichen harten Stürmen ist mein Geist durch der Höllen Pforten durchgebrochen bis in die innerste Geburt der Gottheit und allda mit Liebe umfangen worden, wie ein Bräutigam seine liebe Braut umfasst. Was aber ein Triumphieren im Geiste gewesen, kann ich nicht schreiben oder reden. Es lässt sich auch mit nichts vergleichen als nur dem, wo mitten im Tode das Leben geboren wird und vergleicht sich der Auferstehung von den Toten. In diesem Lichte hat mein Geist alsbald durch alles durchgesehen und an allen Kreaturen, sowohl an Kraut und Gras Gott erkannt.
+
+[Aurora, 19.11 - 19.13]{style="font-size: 1.5rem"}
+
+::: notes
+Quelle auch hier: Aurora, Kapitel 19 https://www.deutschlandfunk.de/der-himmel-ist-ueberall-auch-in-dir-selber-100.html
+:::
+
+
+## Verwandlung: Böhme
+
+
+::: notes
+
+11.37. Hier gibt die Jungfrau dem Jüngling ihr Perlein zum Eigentum, und so werden Gott und Mensch Eins. Denn das Blut der Jungfrau aus göttlicher Wesenheit ertränkt hier mit dem Wesen ihrer Liebe das Blut des Jünglings, als die Ichheit, und die drei Mörder geben ihr Leben im Blut der Jungfrau auf. So gehen das Glühen (bzw. rote Le-ben) vom Feuer und das weiße vom Leben des Ritters miteinander auf, nämlich aus dem Grimm geht das Leben auf, und aus der Liebe die Sanftmut. Und beide, das Leben des Zorns und das Leben der Liebe, steigen miteinander als ein einiges Leben auf, denn im Tod werden sie Eins. Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung (Auflösung oder Rück-verwandlung). Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches. Des Jünglings Leben stirbt, und das Leben der Gottheit bleibt be-ständig, denn es steht in seiner Eigenschaft im Nichts.
+
+[De Signatura Rerum, 11.37]{style="font-size: 1.5rem"}
+
 :::
 
 
@@ -2071,12 +2159,15 @@ Trailer I'm not There
 Trailer Rolling Thunder Review  
 {{< video https://youtu.be/jV3eyaZajLg?si=2kjiG7BivI-4HpqX width="900" height="506">}}
 
-De Signatura Rerum, 11.37 (Pushpak)
+Glaube
 
-11.37. Hier gibt die Jungfrau dem Jüngling ihr Perlein zum Eigentum, und so werden Gott und Mensch Eins. Denn das Blut der Jungfrau aus göttlicher Wesenheit ertränkt hier mit dem Wesen ihrer Liebe das Blut des Jünglings, als die Ichheit, und die drei Mörder geben ihr Leben im Blut der Jungfrau auf. So gehen das Glühen (bzw. rote Le-ben) vom Feuer und das weiße vom Leben des Ritters miteinander auf, nämlich aus dem Grimm geht das Leben auf, und aus der Liebe die Sanftmut. Und beide, das Leben des Zorns und das Leben der Liebe, steigen miteinander als ein einiges Leben auf, denn im Tod werden sie Eins. Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung (Auflösung oder Rück-verwandlung). Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches. Des Jünglings Leben stirbt, und das Leben der Gottheit bleibt be-ständig, denn es steht in seiner Eigenschaft im Nichts.
+Dylan: I believe in you, Slow Train Coming, 1979
 
-Aurora, Kapitel 19; Quelle: https://www.deutschlandfunk.de/der-himmel-ist-ueberall-auch-in-dir-selber-100.html
-
-„Alsbald nach etlichen harten Stürmen ist mein Geist durch der Höllen Pforten durchgebrochen bis in die innerste Geburt der Gottheit und allda mit Liebe umfangen worden, wie ein Bräutigam seine liebe Braut umfasst. Was aber ein Triumphieren im Geiste gewesen, kann ich nicht schreiben oder reden. Es lässt sich auch mit nichts vergleichen als nur dem, wo mitten im Tode das Leben geboren wird und vergleicht sich der Auferstehung von den Toten. In diesem Lichte hat mein Geist alsbald durch alles durchgesehen und an allen Kreaturen, sowohl an Kraut und Gras Gott erkannt.“
-
+Don’t let me change my heart  
+Keep me set apart  
+From all the plans they do pursue  
+And I, I don’t mind the pain  
+Don’t mind the driving rain  
+I know I will sustain  
+’Cause I believe in you  
 :::
