@@ -42,7 +42,7 @@ include_graphics("libs/_Images/Jacob-Böhme.jpg")
 * später Garnhändler
 * Buchautor
 
-[Gemälde von Christoph Gottlob Glymann, Wikimedia Commons]{style="font-size: 1.6rem"}
+[Gemälde von Christoph Gottlob Glymann, Wikimedia Commons]{style="font-size: 1.5rem"}
 :::
 
 ::: {.fragment .column}
@@ -61,7 +61,7 @@ include_graphics("libs/_Images/Dylan-gif1.webp")
 * *"Song and Dance Man"*: <br>Sänger und Songschreiber
 * Buchautor, Regisseur, Darsteller in einigen Filmen; Maler, Bildhauer
 
-[Bildquelle: giphy.com]{style="font-size: 1.6rem"}
+[Bildquelle: giphy.com]{style="font-size: 1.5rem"}
 :::
 ::::
 :::::
@@ -92,22 +92,23 @@ Warum?
 
 ## Themen
 
-#### Anerkennung, Produktivität
+::: {style="font-size: 2.4rem"}
+[**Anerkennung, Produktivität**]{style="color: yellow"}
 
-#### Von der Kunst, Böhme zu lesen und Dylan zu hören
+Von der Kunst, Böhme zu lesen und Dylan zu hören
 
-#### Welterkenntnis und Quellen der Inspiration
+Gott- und Welterkenntnis; Quellen der Inspiration
 
-#### Vom Beten; Wem willst Du dienen?; Verführung
+Vom Beten; Wem willst Du dienen; Verführung
 
-#### Die Hohe Liebe
+Die Hohe Liebe
 
-#### Nüchternheit, Lebenshaltung
+Nüchternheit, Lebenshaltung
 
-#### Übergabe an Gottes Willen; Sterben, um zu leben
+Übergabe an Gottes Willen; Sterben, um zu leben
 
-#### Empfehlungen, Ausblick
-
+Empfehlungen, Ausblick
+:::
 
 ::: notes
 Gott in der Natur erkennen: Böhme? Dylan in Every Grain of Sand
@@ -207,7 +208,8 @@ Leopold Ziegler (1881 - 1958)
 
 
 ::: notes
-*Like a Rolling Stone* hat viele Musiker, Bruce Springsteen ("The Boss") und Wolfgang Niedecken (BAP) stark beeinflusst. Das *Rolling Stone*-Musikmagazin platzierte den Song 2004 auf Platz 1 der 500 Besten Songs aller Zeiten, 2010 erneut. 2021 in der überarbeiteten Rangliste landete er noch auf Rang 4.
+* *Like a Rolling Stone* hat viele Musiker, Bruce Springsteen ("The Boss") und Wolfgang Niedecken (BAP) stark beeinflusst. Das *Rolling Stone*-Musikmagazin platzierte den Song 2004 auf Platz 1 der 500 Besten Songs aller Zeiten, 2010 erneut. 2021 in der überarbeiteten Rangliste landete er noch auf Rang 4.
+* Desolation Row: Deutsche Versionen u. a. von Stefan Waggershausen: *Traumtanzzeit*, sowie von einem unbekannteren Künstler Youtube @lhqweginger: *Straße der Verdammnis*
 :::
 
 
@@ -397,6 +399,27 @@ include_graphics("libs/_Images/Leonard Cohen 2016.png")
 :::
 
 
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+[**Von der Kunst, Böhme zu lesen und Dylan zu hören**]{style="color: yellow"}
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Verführung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Sterben, um zu leben
+
+Empfehlungen, Ausblick
+:::
+
+
 ## Von der Kunst, Böhme zu lesen
 
 ::: {style="font-size: 1.9rem"}
@@ -422,6 +445,27 @@ Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist e
 :::
 
 
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+[**Gott- und Welterkenntnis; Quellen der Inspiration**]{style="color: yellow"}
+
+Vom Beten; Wem willst Du dienen; Verführung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Sterben, um zu leben
+
+Empfehlungen, Ausblick
+:::
+
+
 ## Göttlicher Ursprung des Menschen: Böhme
 
 Vor den Zeiten der Welt ist das Modell des Menschen  
@@ -438,6 +482,22 @@ welches ohne Wesen ist.
 
 ## Göttlicher Ursprung des Menschen: Böhme
 
+Aber die Tiefe ohne Grund wollte sich  
+in Gleichnissen offenbaren -  
+wie in einer Jungfräulichen Figur,  
+als ein Spiegel der Gottheit und Ewigkeit  
+in Grund und Ungrund,  
+als ein Auge der Herrlichkeit Gottes.  
+
+**Adam war ein Mensch und ein Bild Gottes,  
+ein Gleichnis von Gott.**
+
+
+[Von der Menschwerdung Jesu Christi, I, 5, 2]{style="font-size: 1.5rem"}
+[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
+
+
+::: notes
 Aber die Tiefe ohne Grund wollte sich in Gleichnissen offenbaren -  
 wie in einer Jungfräulichen Figur,  
 als ein Spiegel der Gottheit und Ewigkeit  
@@ -450,19 +510,7 @@ Adam war ein Mensch und ein Bild Gottes,
 ein Gleichnis von Gott.
 
 [Von der Menschwerdung Jesu Christi, I, 5, 2]{style="font-size: 1.5rem"}
-
-
-## Göttlicher Ursprung des Menschen: Böhme
-
-Und nach diesem Auge, und in diesem Auge  
-wurden die Throne der Fürsten geschaffen als Engel;  
-und endlich der Mensch.
-
-**Adam war ein Mensch und ein Bild Gottes,  
-ein Gleichnis von Gott.**
-
-
-[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
+:::
 
 
 ## Göttlicher Ursprung des Menschen: Böhme
@@ -578,6 +626,90 @@ Only a matter of time ’til night comes steppin’ in
 :::
 
 
+## Gott in der Natur erkennen: Böhme
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+
+In diesem Licht hat mein Geist  
+bald durch alles hindurchgesehen  
+und an allen Kreaturen,  
+sogar an Kraut und Gras,  
+Gott erkannt,  
+wer und wie Er sei  
+und was Sein Wille ist.
+
+[Aurora, 19.13]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+#| out.width: "85%"
+#| out.height: "85%"
+
+include_graphics("libs/_Images/Morgenröte-Film.jpg")
+```
+:::
+::::
+
+
+## Gott in der Natur erkennen: Dylan
+
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+Im Eifer des gegenwärtigen Moments  
+Erkenne ich die Hand des HERRN  
+In jedem Blatt, das zittert,  
+In jedem Körnchen Sand.  
+
+[Every Grain of Sand, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+#| out.width: "70%"
+#| out.height: "70%"
+
+include_graphics("libs/_Images/arianna-welke-unsplash.jpg")
+```
+[Quelle: unsplash.com, Arianna Welke]{style="font-size: 1.5rem"}
+:::
+::::
+
+
+::: notes
+In the time of my confession, in the hour of my deepest need  
+When the pool of tears beneath my feet flood every newborn seed  
+There’s a dyin’ voice within me reaching out somewhere  
+Toiling in the danger and in the morals of despair  
+
+Don’t have the inclination to look back on any mistake  
+Like Cain, I now behold this chain of events that I must break  
+In the fury of the moment I can see the Master’s hand  
+In every leaf that trembles, in every grain of sand  
+
+Oh, the flowers of indulgence and the weeds of yesteryear  
+Like criminals, they have choked the breath of conscience and good cheer  
+The sun beat down upon the steps of time to light the way  
+To ease the pain of idleness and the memory of decay  
+
+I gaze into the doorway of temptation’s angry flame  
+And every time I pass that way I always hear my name  
+Then onward in my journey I come to understand  
+That every hair is numbered like every grain of sand  
+
+I have gone from rags to riches in the sorrow of the night  
+In the violence of a summer’s dream, in the chill of a wintry light  
+In the bitter dance of loneliness fading into space  
+In the broken mirror of innocence on each forgotten face  
+
+I hear the ancient footsteps like the motion of the sea  
+Sometimes I turn, there’s someone there, other times it’s only me  
+I am hanging in the balance of the reality of man  
+Like every sparrow falling, like every grain of sand
+:::
+
+
 ## Quellen der Inspiration: Böhme
 
 Mein Buch hat nur drei Blätter,  
@@ -690,11 +822,24 @@ Creativity is a mysterious thing. It visits who it wants to visit, when it wants
 
 ## Quellen der Inspiration: Dylan
 
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+
 > Das erste Studium des Menschen, der ein Dichter sein will, geht auf seine vollständige Erkenntnis des Eigenen aus. Er sucht seine Seele, mustert sie, stellt sie auf die Probe, lernt sie. Sobald er sie kennt, muß er sie ausbauen [...]
 
 > Aber es handelt sich darum, die Seele ungeheuerlich zu machen [...]
 
-[Arthur Rimbaud: "Ich ist ein anderer"]{style="font-size: 1.8rem"}
+[Arthur Rimbaud: "Ich ist ein anderer"]{style="font-size: 1.5rem"}
+:::
+
+::: {.column style="font-size: 1.5rem"}
+```{r}
+include_graphics("libs/_Images/Arthur-Rimbaud.jpg")
+```
+Arthur Rimbaud (1854 - 1891) <br>im Alter von 17 Jahren  
+Quelle: Étienne Carjat, 1872; <br>Wikimedia Commons
+:::
+::::
 
 
 ::: notes
@@ -745,7 +890,7 @@ Deshalb muss sie in der gelassenen Demut bleiben, gleichwie ein Quell an seinem 
 ## Der Inspiration treu bleiben: Dylan
 
 :::: columns
-::: {.column width="60%" style="font-size: 1.9rem"}
+::: {.column width="60%" style="font-size: 2rem"}
 
 *Dylan:* **Jokerman** ist ein Song, der mir entglitten ist. Viele Songs auf diesem Album [*Infidels*, 1983] sind mir entglitten.
 
@@ -782,7 +927,7 @@ Dylan: Yeah. They hung around too long. They were better before they were tamper
 * Jedes Gebet wird erhört!
 * Oft allerdings nicht so, wie es der Betende wünscht
 * Warum zeigt das Beten oft so geringen Erfolg?
-* Ausschnitt aus Gustav Meyrink, *Der Engel vom westlichen Fenster*,  
+* Ausschnitt aus Gustav Meyrink, <br>*Der Engel vom westlichen Fenster*,  
   Gespräch zwischen John Dee und dem Rabbi in Prag
 
 ::: notes
@@ -812,6 +957,13 @@ Der Rabbi lacht nur mit den Augen.
 „Von welchem `Andern` ?“ frage ich mit Angst im Herzen.
 „Von welchem `Andern` ?“ äfft der Rabbi. „Von dem, der immer zwischen Oben und Unten wacht. Vom Engel Metatron, dem Herrn der tausend Gesichter …“
 Ich verstehe und schaudere: Wenn ich nun – falsch bete – ?
+
+Wikipedia:
+* **Metatron** ist hochrangiger Engel der jüdischen und islamischen Mythologie. Seine Funktionen in verschiedenen Religionen sind uneinheitlich.  
+* Sohar: Metatron führte Volk Israel während Exodus aus Ägypten durch die Wildnis.  
+* Islam: u. a. Beschuldigten islamische Hersiologen Juden, einen Engel als stellvertretenden Gott zu verehren.
+* Film *Dogma*, 1999: Alle, die je behaupteten, mit Gott gesprochen zu haben, haben in Wirklichkeit **Metatron als "Stimme Gottes" gehört** - kein menschliches Wesen kann der Stimme Gottes standhalten.
+
 :::
 
 
@@ -921,6 +1073,8 @@ In the time of my confession, in the hour of my deepest need
 When the pool of tears beneath my feet flood every newborn seed  
 There’s a dyin’ voice within me reaching out somewhere  
 Toiling in the danger and in the morals of despair
+
+Deutsche Versionen: u. a. Kriemhild - Jedes Körnchen Sand; Peter Post: Jedes Korn von Sand
 :::
 
 
@@ -1634,6 +1788,8 @@ Auf der dunklen Erde
 
 
 ::: notes
+Film Morgenröte im Aufgang, Trailer: https://youtu.be/gIenwcT6_pM?si=KKozmntkdFja_60j
+
 Der Weg zu Christo enthält:
 • Gespräch einer erleuchteten und unerleuchteten Seele
 • Vom übersinnlichen Leben
@@ -1736,3 +1892,18 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 ## Empfehlung: Dylan
 
 {{< video https://youtu.be/jV3eyaZajLg?si=2kjiG7BivI-4HpqX width="900" height="506">}}
+
+
+::: notes
+
+## Ergänzungen
+
+De Signatura Rerum, 11.37 (Pushpak)
+
+11.37. Hier gibt die Jungfrau dem Jüngling ihr Perlein zum Eigentum, und so werden Gott und Mensch Eins. Denn das Blut der Jungfrau aus göttlicher Wesenheit ertränkt hier mit dem Wesen ihrer Liebe das Blut des Jünglings, als die Ichheit, und die drei Mörder geben ihr Leben im Blut der Jungfrau auf. So gehen das Glühen (bzw. rote Le-ben) vom Feuer und das weiße vom Leben des Ritters miteinander auf, nämlich aus dem Grimm geht das Leben auf, und aus der Liebe die Sanftmut. Und beide, das Leben des Zorns und das Leben der Liebe, steigen miteinander als ein einiges Leben auf, denn im Tod werden sie Eins. Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung (Auflösung oder Rück-verwandlung). Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches. Des Jünglings Leben stirbt, und das Leben der Gottheit bleibt be-ständig, denn es steht in seiner Eigenschaft im Nichts.
+
+Aurora, Kapitel 19; Quelle: https://www.deutschlandfunk.de/der-himmel-ist-ueberall-auch-in-dir-selber-100.html
+
+„Alsbald nach etlichen harten Stürmen ist mein Geist durch der Höllen Pforten durchgebrochen bis in die innerste Geburt der Gottheit und allda mit Liebe umfangen worden, wie ein Bräutigam seine liebe Braut umfasst. Was aber ein Triumphieren im Geiste gewesen, kann ich nicht schreiben oder reden. Es lässt sich auch mit nichts vergleichen als nur dem, wo mitten im Tode das Leben geboren wird und vergleicht sich der Auferstehung von den Toten. In diesem Lichte hat mein Geist alsbald durch alles durchgesehen und an allen Kreaturen, sowohl an Kraut und Gras Gott erkannt.“
+
+:::
