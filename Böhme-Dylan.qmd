@@ -110,7 +110,6 @@ Warum?
 
 
 ::: notes
-Inspiration treu bleiben! Böhme Blaues Buch; Dylan: Jokerman
 :::
 
 
@@ -605,9 +604,9 @@ aber das Offenbaren gehört dem Geiste Gottes.
 
 ## Quellen der Inspiration: Dylan
 
-Karen Hughes: Wenn Sie Songs schreiben, empfinden Sie sich mehr als Medium, stimmen Sie sich auf etwas Größeres ab, das geschieht?
+*Karen Hughes:* Wenn Sie Songs schreiben, empfinden Sie sich mehr als Medium, stimmen Sie sich auf etwas Größeres ab, das geschieht?
 
-Bob Dylan: Ich denke, jeder Künstler [*Composer*] tut das. Niemand, der bei klarem Verstand ist, würde behaupten, es käme von ihm selbst, dass er es erfunden hat. Es strömt nur durch ihn hindurch.
+*Bob Dylan:* Ich denke, jeder Künstler [*Composer*] tut das. Niemand, der bei klarem Verstand ist, würde behaupten, es käme von ihm selbst, dass er es erfunden hat. Es strömt nur durch ihn hindurch.
 
 
 [Interview, 1980]{style="font-size: 1.5rem"}
@@ -658,7 +657,7 @@ aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 Du musst diese Gedanken ausfiltern, denn sie bedeuten nichts, sie treiben dich nur vor sich her. Es ist wichtig, alle diese Gedanken loszuwerden.  Dann kannst du etwas tun aus der **reinen Beobachtung** der Situation. Du hast einen Ort, an dem du wahrnehmen kannst, ohne dass es dich beeinflusst. Wo du etwas bringen kannst, ohne nur ans Nehmen zu denken.
 
-[Bob Dylan 1991, Interview mit Paul Zollo]{style="font-size: 1.5rem"}
+[Bob Dylan 1991, Song Talk Interview mit Paul Zollo]{style="font-size: 1.5rem"}
 
 ::: notes
 *Fortsetzung:*  
@@ -676,7 +675,7 @@ Es gibt genug Songs. Es sei denn, jemand kommt mit reinem Herzen und hat etwas z
 
 Kreativität ist etwas Mysteriöses. Sie besucht, wen immer sie besuchen will, wann sie will, und ich glaube so, und nur so, gelangt man bis zum Herzen der Angelegenheit.
 
-[Bob Dylan 1991, Interview mit Paul Zollo]{style="font-size: 1.5rem"}
+[Bob Dylan 1991, Song Talk Interview mit Paul Zollo]{style="font-size: 1.5rem"}
 
 
 ::: notes
@@ -722,6 +721,58 @@ Die ewige Kunst hätte ihre Funktionen; da die Dichter Staatsbürger sind. Die D
 
 
 [Arthur Rimbaud: "Ich ist ein anderer"]{style="font-size: 1.8rem"}
+
+
+## Der Inspiration treu bleiben: Böhme
+
+Aber der Wille der Seele muss sich ohne Unterlass auch in diesem feurigen Trieb (des Seelenfeuers) ins Nichts versenken, nämlich in die höchste Demut vor Gott. **Wenn sie nur mit kleinstem Anteil in eigenem Forschen gehen will, dann erreicht sie der Teufel im Zentrum der Lebensgestaltung und versucht sie, so dass sie in die Ichheit eingeht.**
+
+
+[Von wahrer Gelassenheit, 1.30]{style="font-size: 1.5rem"}
+
+
+## Der Inspiration treu bleiben: Böhme
+
+Deshalb muss sie in der gelassenen Demut bleiben, gleichwie ein Quell an seinem Ursprung. Und sie muss ohne Unterlass aus Gottes Brünnlein schöpfen und trinken und niemals begehren, von Gottes Weg abzugehen.
+
+**Denn sobald die Seele mit der Ichheit vom (gedanklich unterscheidenden) Verstandeslicht isst, so wandelt sie in eigenem Wahn.**
+
+
+[Von wahrer Gelassenheit, 1.30, 1.31]{style="font-size: 1.5rem"}
+
+
+## Der Inspiration treu bleiben: Dylan
+
+:::: columns
+::: {.column width="60%" style="font-size: 1.9rem"}
+
+*Dylan:* **Jokerman** ist ein Song, der mir entglitten ist. Viele Songs auf diesem Album [*Infidels*, 1983] sind mir entglitten.
+
+*Paul Zollo:* Beim Schreiben?
+
+*Dylan:* Ja. [...] Sie waren besser, bevor daran herumgebastelt wurde. Natürlich war ich es, der an ihnen herumgedoktert hat. Ja, das hätte ein guter Song sein können.
+
+
+[Song Talk Interview 1991 mit Paul Zollo]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/dylan-jokerman.jpg")
+```
+[Dylan singt *Jokerman*; Quelle: Musikvideo]{style="font-size: 1.5rem"}
+:::
+::::
+
+
+::: notes
+Youtube-Kommentar von @jorgeespinosa4829: Für jeden anderen wäre das der beste Song, den sie jemals geschrieben haben. Für Dylan einfach ein weiterer Hit.  
+Mark Knopfler spielt auf Infidels Gitarre.
+
+Dylan: That's [Jokerman] a song that got away from me. Lots of songs on that album [Infidels, 1983] got away from me. They just did.
+ST: You mean in the writing?
+Dylan: Yeah. They hung around too long. They were better before they were tampered with. Of course, it was me tampering with them. [Laughs.] Yeah. That could have been a good song. It could've been.
+:::
 
 
 ## Vom Beten
@@ -1524,9 +1575,14 @@ You ask me about myself, but I’m becoming less and less defined as Christ beco
 
 ## Übergabe an Gottes Willen: Dylan
 
-Jeder Prediger, der ein echter Prediger ist, wird Dir das sagen: "Folge nicht mir, folge Christus."  
+Jeder Prediger, der ein echter Prediger ist, wird Dir das sagen:  
+"Folge nicht mir, folge Christus."
 
-Sie haben mir persönliche Fragen gestellt, aber ich bin immer weniger klar definiert, während Christus sich immer deutlicher in mir ausprägt.
+::: fragment
+Sie haben mir persönliche Fragen gestellt,  
+aber ich bin immer weniger klar definiert,  
+während Christus sich immer deutlicher in mir ausprägt.
+:::
 
 [Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
 
