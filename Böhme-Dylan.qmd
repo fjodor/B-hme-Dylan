@@ -921,6 +921,27 @@ Dylan: Yeah. They hung around too long. They were better before they were tamper
 :::
 
 
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+[**Vom Beten; Wem willst Du dienen; Verführung**]{style="color: yellow"}
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Sterben, um zu leben
+
+Empfehlungen, Ausblick
+:::
+
+
 ## Vom Beten
 
 * Beten ist gar nicht so einfach
@@ -1258,7 +1279,7 @@ Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und L
 ## Verführung: Dylan
 
 :::: columns
-::: {.column style="font-size: 2rem"}
+::: {.column width="65%" style="font-size: 1.8rem"}
 Er war ein adretter Junge  
 Aber sie haben einen Killer aus ihm gemacht  
 Das haben sie getan  
@@ -1266,23 +1287,40 @@ Das haben sie getan
 Sie verdrehten ihm den Kopf  
 Er wusste nie, worum es ging  
 
-
 [Clean Cut Kid, Album *Empire Burlesque*, 1985]{style="font-size: 1.5rem"}
+
+::: fragment
+Sie füttern Casanova mit dem Löffel  
+Dann werden sie ihn mit Selbstvertrauen töten  
+Nachdem sie ihn mit Worten vergifteten ...
+
+[Desolation Row, Album *Highway 61 Revisited*, 1965]{style="font-size: 1.5rem"}
+:::
 :::
 
 ::: column
 ```{r}
-#| out-width: "75%"
-#| out-height: "75%"
+#| out-width: "50%"
+#| out-height: "50%"
 
-include_graphics("libs/_Images/EmpireBurlesque.jpg")
+include_graphics(c("libs/_Images/EmpireBurlesque.jpg", 
+                   "libs/_Images/Highway61.jpg"))
 ```
 :::
 ::::
 
 
 ::: notes
-Dylan: Clean Cut Kid (Empire Burlesque)
+
+**Desolation Row (Highway 61 Revisited, 1965)**
+
+They’re spoonfeeding Casanova  
+To get him to feel more assured  
+Then they’ll kill him with self-confidence  
+After poisoning him with words  
+
+
+**Clean Cut Kid (Empire Burlesque, 1985)**
 
 He was a clean-cut kid  
 But they made a killer out of him  
@@ -1315,6 +1353,27 @@ That’s what they did
 :::
 
 
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Verführung
+
+[**Die Hohe Liebe**]{style="color: yellow"}
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Sterben, um zu leben
+
+Empfehlungen, Ausblick
+:::
+
+
 ## Die Hohe Liebe: Böhme
 
 Nun sei dir, o großer Gott, in deiner Kraft und Süßigkeit, Lob, Dank, Stärke, Preis und Ehre, dass du mich von dem Treiber der Angst erlöset hast. O du schönes Lieb, mein Herze fasset dich, wo bist du so lange gewesen? Mich deucht, ich wäre in der Hölle und in Gottes Grimm.
@@ -1325,13 +1384,15 @@ O holdseliges Lieb, bleib doch bei mir, sei doch meine Freude und Erquickung. F�
 [Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia]{style="font-size: 1.5rem"}
 
 
-## Die Hohe Liebe: Böhme
+::: notes
 
-::: {style="font-size: 2rem"}
+<!-- ::: {style="font-size: 2rem"} -->
 Deine Ohren waren aus meinem Lande gegangen. Mein Licht konntest du nicht sehen, denn du wandeltest im finstern Tal. Ich bin nahe bei dir gewesen und habe dir stets geflehet, aber deine Sünde hielt dich im Tode gefangen, dass du mich nicht kanntest. Ich kam in großer Demut zu dir und rief dir, aber du warest in der Macht des Zornes Gottes reich und achtetest meiner Demut nicht. Du hattest dir den Teufel zum Buhlen [Geliebten] genommen. Der hat dich also besudelt und sein Raubschloss der Eitelkeit in dir aufgebauet und dich ganz von meiner Liebe und Treue abgewendet in sein gleißnerisches falsches Reich, darinnen hast du viel Sünde und Bosheit gewirket und deinen Willen von meiner Liebe abgebrochen, und hast mir die Ehe gebrochen und eine fremde Buhlschaft gepflogen und mich, deine dir von Gott gegebene Braut, lassen im verblichenen Wesen ohne Stärke deiner Feuersmacht stehen.
-:::
+<!-- ::: -->
 
 [Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia]{style="font-size: 1.5rem"}
+
+:::
 
 
 ## Die Hohe Liebe: Böhme
@@ -1466,7 +1527,8 @@ Or is your love in vain?
 
 Ich war in den Bergen und im Wind  
 Ich war glücklich und unglücklich  
-Ich habe mit Königen gespeist, mir wurden Flügel angeboten  
+Ich habe mit Königen gespeist,  
+mir wurden Flügel angeboten  
 Aber nichts hat mich beeindruckt
 
 [...]
@@ -1491,6 +1553,27 @@ include_graphics("libs/_Images/StreetLegal.jpg")
 ::::
 
 
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Verführung
+
+Die Hohe Liebe
+
+[**Nüchternheit, Lebenshaltung**]{style="color: yellow"}
+
+Übergabe an Gottes Willen; Sterben, um zu leben
+
+Empfehlungen, Ausblick
+:::
+
+
 ## Nüchternheit: Böhme
 
 O edles Lieb, gib mir doch deine süße Perle; lege sie doch in mich!  
@@ -1505,8 +1588,14 @@ Ach holdseliges Lieb, gib mir doch deine Perle, dass ich ewig möchte in solcher
 
 ## Nüchternheit: Böhme
 
+... du bittest jetzt ein Schweres von mir, das ich nicht gerne mit dir wage. Du willst mein Perllein zum Eigentum haben. Gedenke doch, mein lieber Bräutigam, wie du es vorhin [beim Sündenfall] in Adam verwahrloset hast.
+
+[Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia]{style="font-size: 1.5rem"}
+
+::: notes
 Mein lieber Buhle und treuer Schatz, du erfreuest mich hoch in deinem Anfange. Ich bin ja durch die tiefen Tore Gottes zu dir eingebrochen, durch Gottes Zorn, durch Hölle und Tod in das Haus deines Elendes, und habe dir meine Liebe aus Gnaden geschenkt und dich von Ketten und Banden erlöset [...]  
 Aber du bittest jetzt ein Schweres von mir, das ich nicht gerne mit dir wage. Du willst mein Perllein zum Eigentum haben. Gedenke doch, mein lieber Bräutigam, wie du es vorhin [beim Sündenfall] in Adam verwahrloset hast. [...]  
+:::
 
 
 ## Nüchternheit: Böhme
@@ -1698,6 +1787,27 @@ include_graphics("libs/_Images/Dylan-Warfield-1979.jpeg")
 ::::
 
 
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Verführung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+[**Übergabe an Gottes Willen; Sterben, um zu leben**]{style="color: yellow"}
+
+Empfehlungen, Ausblick
+:::
+
+
 ## Übergabe an Gottes Willen: Böhme
 
 Der Wille muss mit Gott vereint sein,  
@@ -1771,6 +1881,27 @@ Und so lang du das nicht hast,
 Dieses: Stirb und Werde!  
 Bist du nur ein trüber Gast  
 Auf der dunklen Erde  
+:::
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Verführung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Sterben, um zu leben
+
+[**Empfehlungen, Ausblick**]{style="color: yellow"}
 :::
 
 
@@ -1896,7 +2027,7 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 
 ::: notes
 
-## Ergänzungen
+**Ergänzungen**
 
 De Signatura Rerum, 11.37 (Pushpak)
 
