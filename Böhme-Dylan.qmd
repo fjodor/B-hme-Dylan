@@ -2162,37 +2162,19 @@ include_graphics("libs/_Images/Böhme-Grabkreuz-1682-Wikimedia.jpg")
 ::::
 
 
-## Empfehlungen: Dylan
-
-::: {style="font-size: 2.2rem"}
-* Spirituelle Liebeslieder u. a.:  
-  Love Minus Zero / No Limit; Is Your Love in Vain; <br>Abandoned Love; Isis
-* Einweihung (nicht ganz einfach zugänglich):  
-  Changing of the Guards; Senor (Tales of Yankee Power)
-* Einige Anregungen zum spirituellen Zugang:
-  + Blog: Spiritualität Dresden 
-    <https://spiritualitaet-dresden.de/>
-  + Blog (englisch): spirit-rockmusic  
-    <https://spirit-rockmusic.eu/>
-  + Youtube: spirit-rockmusic  
-    <https://www.youtube.com/@spirit-rockmusic6651>
-
-:::
-
-
-## Empfehlungen: Dylan
+## Empfehlungen: Dylan - Filme
 
 :::: columns
 ::: {.column width="60%" style="font-size: 1.6rem"}
 * Filme über Bob Dylan
-  + Don't Look Back (1965) von D. A. Pennebaker
-  + No Direction Home (2005) <br>von **Martin Scorsese**
-  + I'm Not There (2007) von Todd Haynes
-  + Rolling Thunder Review (2019) <br>von **Martin Scorsese**, spielt 1975
-  + A Complete Unknown (2024) <br>von James Mangold
+  + *Don't Look Back* (1965) von D. A. Pennebaker
+  + *No Direction Home* (2005) <br>von **Martin Scorsese**
+  + *I'm Not There* (2007) von Todd Haynes
+  + *Rolling Thunder Review* (2019) <br>von **Martin Scorsese**, spielt 1975
+  + *A Complete Unknown* (2024) <br>von James Mangold
 * Filme mit Bob Dylan
-  + Pat Garret jagd Billy The Kid (1973)
-  + Masked and Anonymous (2003)
+  + *Pat Garret jagd Billy The Kid* (1973)
+  + *Masked and Anonymous* (2003)
 :::
 
 ::: column
@@ -2212,6 +2194,47 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 * Richard Gere: Golden Globe 2003, *Chicago*
 * Ben Wishaw: Golden Globe 2019, Bester Nebendarsteller *A Very English Scandal*; Emmy 2009 als Bester Fernsehdarsteller für *Criminal Justice*
 * 2024: Timothée Chalamet spielt Bob Dylan
+:::
+
+
+## Empfehlungen: Dylan - Bücher
+
+:::: columns
+::: {.column style="font-size: 1.8rem"}
+* Bücher über Bob Dylan
+  + *Bob Dylan - The Essential Interviews*, 2006, herausgegeben von **Jonathan Cott**
+  + *Bob Dylan - A Spiritual Life*, 2017, von **Scott M. Marshall**
+
+* Bücher von Bob Dylan
+  + *Chronicles, Vol. 1*, 2004: Autobiografie
+  + *The Philosophy of Modern Song* /  
+    *Die Philosophie des Modernen Songs*, 2022
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/philosophy-of-modern-song.jpg")
+```
+:::
+::::
+
+
+## Empfehlungen: Dylan
+
+::: {style="font-size: 2rem"}
+* Spirituelle Liebeslieder u. a.:  
+  Love Minus Zero / No Limit; Is Your Love in Vain; <br>Abandoned Love; Isis
+* Einweihung (nicht ganz einfach zugänglich):  
+  Changing of the Guards; Senor (Tales of Yankee Power)
+* Gebete: neben *Every Grain of Sand* siehe auch *Lord, Protect My Child*  
+* Einige Anregungen zum spirituellen Zugang:
+  + Blog: Spiritualität Dresden 
+    <https://spiritualitaet-dresden.de/>
+  + Blog (englisch): spirit-rockmusic  
+    <https://spirit-rockmusic.eu/>
+  + Youtube: spirit-rockmusic  
+    <https://www.youtube.com/@spirit-rockmusic6651>
+
 :::
 
 
