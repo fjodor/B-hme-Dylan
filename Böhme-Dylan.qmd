@@ -345,6 +345,28 @@ include_graphics("libs/_Images/Leonard Cohen 2016.png")
 [Urheber: Divulgação/Frank Micelotta]{style="font-size: 1.5rem"}
 
 
+## Dylan: Raus aus Schubladen
+
+::: {style="font-size: 1.9rem"}
+* Hat immer wieder Erwartungen von Fans und Öffentlichkeit enttäuscht
+* Bekanntes Beispiel: Folk-Festival Newport 1965: Dylan & Band elektrisch
+:::
+
+::: fragment
+```{r}
+#| out-width: "50%"
+#| out-height: "50%"
+
+include_graphics("libs/_Images/Dylan-Judas-Zahnbürste.jpeg")
+```
+[Urheber: Clive Goddart]{style="font-size: 1.5rem"}
+:::
+
+::: notes
+Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurückzukommen, er spielte noch akustische Songs. Dann 37 Jahre nicht mehr in Newport. 2002 trat er erst wieder dort auf, mit Perücke und falschem Bart ...
+:::
+
+
 ## Jakob Böhme: Produktivität
 
 * Geistige Schau 1600, mit 25 Jahren
