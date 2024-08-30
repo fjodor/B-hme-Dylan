@@ -8,6 +8,9 @@ format:
   revealjs:
     # theme: blood
     theme: league
+    navigation-mode: vertical
+    # controls-layout: bottom-right
+    controls-tutorial: true
 execute:
   echo: false
   eval: true
@@ -17,7 +20,7 @@ execute:
 callout-appearance: simple
 ---
 
-## [Böhme - Dylan: Vergleichbar?]{style="font-size: 2.6rem"}
+# [Böhme - Dylan: Vergleichbar?]{style="font-size: 2.6rem"}
 
 ```{r}
 library(knitr)
@@ -75,7 +78,7 @@ Warum?
 :::
 
 
-## Böhme und Dylan: Parallelen?
+# Böhme und Dylan: Parallelen?
 
 ::: {.incremental style="font-size: 2rem"}
 
@@ -90,7 +93,7 @@ Warum?
 :::
 
 
-## Themen
+# Themen
 
 ::: {style="font-size: 2.4rem"}
 [**Anerkennung, Produktivität**]{style="color: yellow"}
@@ -115,7 +118,7 @@ Gott in der Natur erkennen: Böhme? Dylan in Every Grain of Sand
 :::
 
 
-## Thesen zu Dylan
+# Thesen zu Dylan
 
 ::: incremental
 * Bob Dylan ist ein Relikt der 1960er Jahre: früh berühmt geworden als Protestsänger, und dann eben nicht so früh gestorben wie etwa der "Klub 27"
@@ -129,7 +132,7 @@ Gott in der Natur erkennen: Böhme? Dylan in Every Grain of Sand
 :::
 
 
-## Jakob Böhme: Anerkennung
+# Jakob Böhme: Anerkennung
 
 > Im Wasser lebt der Fisch, die Pflanze in der Erden,  
 Der Vogel in der Luft, die Sonn im Firmament,  
@@ -139,14 +142,14 @@ Und Gottes Herz ist Jakob Böhmes Element.
 Angelus Silesius (1624 - 1677)
 
 
-## Jakob Böhme: Anerkennung
+# Jakob Böhme: Anerkennung
 
 > Jakob Böhme, der Mann, dessen Schriften alles das gediegen und in einer festen Masse enthalten, was uns seine albernen Nachfolger mit einer bloß scheinbaren Verständlichkeit verdünnt und verdorben übergeben, ist und bleibt einer der ersten Schriftsteller unserer Nation.
 
 Georg Christoph Lichtenberg (1742-1799)
 
 
-## Jakob Böhme: Anerkennung
+# Jakob Böhme: Anerkennung
 
 > Jakob Böhme ist der erste deutsche Philosoph,  
 der Inhalt seines Philosophierens ist echt deutsch.
@@ -154,7 +157,7 @@ der Inhalt seines Philosophierens ist echt deutsch.
 Georg Wilhelm Friedrich Hegel (1770 - 1831)
 
 
-## Jakob Böhme: Anerkennung
+# Jakob Böhme: Anerkennung
 
 > Der bedeutendste von diesen allen ist offenbar der spätere Jacob Böhme, dem man unter den Philosophen dieser Periode überhaupt wohl die erste Stelle einräumen könnte. [...]
 
@@ -163,7 +166,7 @@ Georg Wilhelm Friedrich Hegel (1770 - 1831)
 Friedrich Schlegel (1772 - 1829)
 
 
-## Jakob Böhme: Anerkennung
+# Jakob Böhme: Anerkennung
 
 > Der Schuster Jakob Böhme war ein großer Philosoph!  
 Manche Philosophen von Ruf sind nur große Schuster.
@@ -189,14 +192,14 @@ include_graphics("libs/_Images/Böhme-Denkmal.jpg")
 ::::
 
 
-## Jakob Böhme: Anerkennung
+# Jakob Böhme: Anerkennung
 
 > Jakob Böhmes Schriftchen *Von der Gnadenwahl* möchte ich zu den tiefsten Erleuchtungen der ganzen Christenheit rechnen.
 
 Leopold Ziegler (1881 - 1958)
 
 
-## Bob Dylan: Relikt der 1960er?
+# Bob Dylan: Relikt der 1960er?
 
 * Wurde ab 1962 als Folk- und Protestsänger bekannt
 * Einige Songs aus dieser Zeit:  
@@ -213,7 +216,7 @@ Leopold Ziegler (1881 - 1958)
 :::
 
 
-## Bob Dylan: Anerkennung
+# Bob Dylan: Anerkennung
 
 > Er hatte den Weitblick und das Talent, einen Popsong so lange auszudehnen, bis er die ganze Welt enthielt.
 
@@ -231,7 +234,7 @@ Quelle: https://www.coveredbybrucespringsteen.com/viewcover.aspx?recordID=103
 :::
 
 
-## Bob Dylan: Anerkennung
+# Bob Dylan: Anerkennung
 
 > Songs zu schreiben ist wie in einem Strom zu fischen;  
 > Du wirfst Deine Angelrute aus und hoffst, etwas zu fangen.
@@ -250,14 +253,14 @@ abgerufen am 21.07.2024
 :::
 
 
-## Bob Dylan: Anerkennung
+# Bob Dylan: Anerkennung
 
 > Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar eine sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
 
 Peter Post
 
 
-## Bob Dylan: Anerkennung
+# Bob Dylan: Anerkennung
 
 ::: {style="font-size: 2.2rem"}
 > Es gibt schlichtweg keinen anderen Künstler in der populären Kunst – mit Ausnahme von Leonard Cohen –, der so aus seinen ureigensten **seelischen Inhalten** schöpft, wie es Dylan tut.
@@ -293,7 +296,7 @@ Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und
 :::
 
 
-## Bob Dylan: Anerkennung
+# Bob Dylan: Anerkennung
 
 ::: {.incremental style="font-size: 2.3rem"}
 
@@ -324,7 +327,7 @@ Shaw won his Oscar in 1939 for Best Writing, Screenplay for his role in adapting
 :::
 
 
-## Bob Dylan: Anerkennung
+# Bob Dylan: Anerkennung
 
 > Bob Dylan den Nobelpreis zu geben ist so, wie eine Medaille an Mount Everest zu heften, um ihn als höchsten Berg zu kennzeichnen.
 
@@ -345,7 +348,7 @@ include_graphics("libs/_Images/Leonard Cohen 2016.png")
 [Urheber: Divulgação/Frank Micelotta]{style="font-size: 1.5rem"}
 
 
-## Dylan: Raus aus Schubladen
+# Dylan: Raus aus Schubladen
 
 ::: {style="font-size: 1.9rem"}
 * Hat immer wieder Erwartungen von Fans und Öffentlichkeit enttäuscht
@@ -367,7 +370,7 @@ Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurü
 :::
 
 
-## Jakob Böhme: Produktivität
+# Jakob Böhme: Produktivität
 
 * Geistige Schau 1600, mit 25 Jahren
 * Erst 1612 *Aurora oder Morgenröte im Aufgang*
@@ -376,7 +379,7 @@ Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurü
 * Erst 1619 schrieb Böhme wieder, ihm blieben nur noch fünf Jahre
 
 
-## Jakob Böhme: Produktivität
+# Jakob Böhme: Produktivität
 
 ::: {style="font-size: 1.8rem"}
 
@@ -397,7 +400,7 @@ Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurü
 :::
 
 
-## Bob Dylan: Produktivität
+# Bob Dylan: Produktivität
 
 ::: {style="font-size: 1.8rem"}
 
@@ -425,7 +428,7 @@ Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurü
 :::
 
 
-## Themen
+# Themen
 
 ::: {style="font-size: 2.4rem"}
 Anerkennung, Produktivität
@@ -446,7 +449,7 @@ Empfehlungen, Ausblick
 :::
 
 
-## Von der Kunst, Böhme zu lesen
+# Von der Kunst, Böhme zu lesen
 
 ::: {style="font-size: 2.1rem"}
 Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt.  
@@ -462,7 +465,7 @@ In Stunden, wo wir reif für ihn sind, sehen wir in seinem mystischen Abbild der
 :::
 
 
-## Von der Kunst, Dylan zu hören
+# Von der Kunst, Dylan zu hören
 
 Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von *Saved* und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient **seelisch** nicht **ähnlich verfasst** wäre **wie der Künstler**.
 
@@ -481,11 +484,11 @@ Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und
 
 1966 war Bob Dylan bei einem Motorradunfall fast ums Leben gekommen: ein traumatisches Erlebnis, das ihn sicherlich auf den Kern seiner Person zurückgeworfen hat. In der Genesungsphase lud Dylan die Musiker von **The Band** zu sich ein, und es entstanden im Keller seines Hauses Lieder, die manchen Fans als einige seiner bedeutendsten gelten: Diese wurden auf Basement Tapes aufgenommen (die Originale landeten übrigens eigenartigerweise im Archiv von Neil Young) und später (1975) als solche veröffentlicht. Ein Lied wurde dabei ausgelassen, blieb viele Jahrzehnte unveröffentlicht und wurde zum Geheimtip; und das war das Lied mit dem Titel *I’m Not There*.
 
-Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist ein Schlüssellied. Vier Akkorde sind die Grundlage für eine Art Improvisation, die in das einzig Notierte, nämlich diesen Kehrreim endet: „Ich bin nicht da.“ Der Text scheint nicht nur improvisiert zu sein, sondern ist an vielen Stellen schlicht unverständlich. Dylan benutzt eine Privatsprache und scheint auf Worte und hergebrachte Wortbedeutungen keine große Rücksicht zu nehmen – alles fließt direkt aus seinen Gefühlen und aus seinem Unterbewußten. Kognitives ist bei der Eroberung von Präsenz kaum von Bedeutung; das wird er später im Song *Standing In The Doorway* sagen: „I see nothing to be gained by any explanation.“ *I’m Not There* ist direkter Ausdruck seines Innersten.
+Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist ein Schlüssellied. Vier Akkorde sind die Grundlage für eine Art Improvisation, die in das einzig Notierte, nämlich diesen Kehrreim endet: „Ich bin nicht da.“ Der Text scheint nicht nur improvisiert zu sein, sondern ist an vielen Stellen schlicht unverständlich. Dylan benutzt eine Privatsprache und scheint auf Worte und hergebrachte Wortbedeutungen keine große Rücksicht zu nehmen – alles fließt direkt aus seinen Gefühlen und aus seinem Unterbewußten. Kognitives ist bei der Eroberung von Präsenz kaum von Bedeutung; [das wird er später im Song *Standing In The Doorway* sagen: „I see nothing to be gained by any explanation.“] *I’m Not There* ist direkter Ausdruck seines Innersten.
 :::
 
 
-## Themen
+# Themen
 
 ::: {style="font-size: 2.4rem"}
 Anerkennung, Produktivität
@@ -506,7 +509,7 @@ Empfehlungen, Ausblick
 :::
 
 
-## Göttlicher Ursprung des Menschen: Böhme
+# Göttlicher Ursprung des Menschen: Böhme
 
 Vor den Zeiten der Welt ist das Modell des Menschen  
 als eine Form in Göttlicher Weisheit erkannt worden,  
@@ -520,7 +523,7 @@ welches ohne Wesen ist.
 [Vom Irrtum der Sekten Es. Stiefels und Ez. Meths, 57]{style="font-size: 1.5rem"}
 
 
-## Göttlicher Ursprung des Menschen: Böhme
+# Göttlicher Ursprung des Menschen: Böhme
 
 Aber die Tiefe ohne Grund wollte sich  
 in Gleichnissen offenbaren -  
@@ -553,7 +556,7 @@ ein Gleichnis von Gott.
 :::
 
 
-## Göttlicher Ursprung des Menschen: Böhme
+# Göttlicher Ursprung des Menschen: Böhme
 
 Das Licht schien in ihm.  
 Er stand in großer Schönheit, Freude und Lust,  
@@ -563,7 +566,7 @@ mit einem kindlichen Gemüte.
 [Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
 
 
-## Göttlicher Ursprung des Menschen: Böhme
+# Göttlicher Ursprung des Menschen: Böhme
 
 Sein Kleid war die Klarheit in der Kraft Gottes,  
 sein Sehen war Tag und Nacht mit geöffneten Augen ohne Wimpern, 
@@ -576,7 +579,7 @@ und er war ganz und vollkommen.
 [Beschreibung der Drey Principien Göttliches Wesens, 10, 18]{style="font-size: 1.5rem"}
 
 
-## Göttlicher Ursprung des Menschen: Böhme
+# Göttlicher Ursprung des Menschen: Böhme
 
 Er war <u>ein</u> Mensch, und nicht zwei,  
 er war der Mann und auch die Frau,  
@@ -587,7 +590,7 @@ sein Wesen ("Essentien") war heilig.
 [Von dem Dreyfachen Leben des Menschen, 7, 25]{style="font-size: 1.5rem"}
 
 
-## Göttlicher Ursprung des Menschen: Dylan
+# Göttlicher Ursprung des Menschen: Dylan
 
 :::: columns
 ::: {.column width="65%" style="font-size: 2rem"}
@@ -627,7 +630,7 @@ So steigt er empor von Herrlichkeit zu Herrlichkeit, vereint mit dem Geist, und 
 :::
 
 
-## Welterkenntnis: Böhme
+# Welterkenntnis: Böhme
 
 ... bin ich schließlich in eine hartnäckige Melancholie und Traurigkeit gefallen, als ich die große Tiefe dieser Welt anschaute, dazu die Sonne und die Sterne, sowie die Wolken, den Regen und den Schnee, und betrachtete in meinem Geist die ganze Schöpfung dieser Welt.
 
@@ -637,7 +640,7 @@ Darin fand ich dann **in allen Dingen Böses und Gutes, Liebe und Zorn**, sowohl
 [Aurora, Die Bedeutung von Himmel und Erde, 19.5 - 19.6]{style="font-size: 1.5rem"}
 
 
-## Welterkenntnis: Dylan
+# Welterkenntnis: Dylan
 
 Ich habe die ganze Welt durchsucht nach dem Heiligen Gral  
 Ich singe Songs von Liebe - ich singe Songs von Betrug
@@ -671,7 +674,7 @@ Nur eine Frage der Zeit, bis die Nacht anbricht
 :::
 
 
-## Gott in der Natur erkennen: Böhme
+# Gott in der Natur erkennen: Böhme
 
 :::: columns
 ::: {.column style="font-size: 2rem"}
@@ -698,7 +701,7 @@ include_graphics("libs/_Images/Morgenröte-Film.jpg")
 ::::
 
 
-## Gott in der Natur erkennen: Dylan
+# Gott in der Natur erkennen: Dylan
 
 :::: columns
 ::: {.column style="font-size: 1.9rem"}
@@ -755,7 +758,7 @@ Like every sparrow falling, like every grain of sand
 :::
 
 
-## Quellen der Inspiration: Böhme
+# Quellen der Inspiration: Böhme
 
 Mein Buch hat nur drei Blätter,  
 das sind die drei Prinzipien der Ewigkeit;  
@@ -768,7 +771,7 @@ Ich benötige kein anderes Buch.
 [Theosophische Sendbriefe 12, 15 und 14]{style="font-size: 1.5rem"}
 
 
-## Quellen der Inspiration: Böhme
+# Quellen der Inspiration: Böhme
 
 Denn das Buch ist der Mensch selber:  
 Er ist selber das Buch des Wesens aller Wesen,  
@@ -780,7 +783,7 @@ aber das Offenbaren gehört dem Geiste Gottes.
 [Theosophische Sendbriefe, 20, 3]{style="font-size: 1.5rem"}
 
 
-## Quellen der Inspiration: Dylan
+# Quellen der Inspiration: Dylan
 
 *Karen Hughes:* Wenn Sie Songs schreiben, empfinden Sie sich mehr als Medium, stimmen Sie sich auf etwas Größeres ab, das geschieht?
 
@@ -820,7 +823,7 @@ Dylan: Beten. - Außerdem würde ich gern eine Zeitschrift für Kochrezepte grü
 :::
 
 
-## Quellen der Inspiration: Böhme
+# Quellen der Inspiration: Böhme
 
 Der Jünger sprach zum Meister: Wie kann ich zu dem übersinnlichen Leben kommen, so daß ich Gott sehe und sprechen höre?  
 
@@ -831,7 +834,7 @@ Der Meister sprach: Wenn du dich nur einen Augenblick dahin schwingen kannst, wo
 aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 
-## Quellen der Inspiration: Böhme
+# Quellen der Inspiration: Böhme
 
 Der Jünger sprach: Ist das nah oder fern?
 
@@ -842,7 +845,7 @@ Der Meister sprach: Es ist in dir, und wenn du nur eine Stunde schweigen kannst 
 aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 
-## Quellen der Inspiration: Böhme
+# Quellen der Inspiration: Böhme
 
 Der Jünger sprach: Wie kann ich hören, wenn ich von Sinnen und Wollen stillstehe?
 
@@ -853,7 +856,7 @@ Der Meister sprach: Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, da
 aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 
-## Quellen der Inspiration: Dylan
+# Quellen der Inspiration: Dylan
 
 Du musst diese Gedanken ausfiltern, denn sie bedeuten nichts, sie treiben dich nur vor sich her. Es ist wichtig, alle diese Gedanken loszuwerden.  Dann kannst du etwas tun aus der **reinen Beobachtung** der Situation. Du hast einen Ort, an dem du wahrnehmen kannst, ohne dass es dich beeinflusst. Wo du etwas bringen kannst, ohne nur ans Nehmen zu denken.
 
@@ -869,7 +872,7 @@ You ought to be able to sort out those thoughts, because they don’t mean anyth
 :::
 
 
-## Quellen der Inspiration: Dylan
+# Quellen der Inspiration: Dylan
 
 Es gibt genug Songs. Es sei denn, jemand kommt mit reinem Herzen und hat etwas zu sagen. Das ist etwas ganz anderes.
 
@@ -887,7 +890,7 @@ Creativity is a mysterious thing. It visits who it wants to visit, when it wants
 :::
 
 
-## Quellen der Inspiration: Dylan
+# Quellen der Inspiration: Dylan
 
 :::: columns
 ::: {.column style="font-size: 1.9rem"}
@@ -926,7 +929,7 @@ Die ewige Kunst hätte ihre Funktionen; da die Dichter Staatsbürger sind. Die D
 :::
 
 
-## Quellen der Inspiration: Dylan
+# Quellen der Inspiration: Dylan
 
 ::: {style="font-size: 2.2rem"}
 > Der Dichter **macht sich zum Seher** durch eine lange, unermeßliche und durchdachte Entgrenzung sämtlicher Sinne. Alle Formen der Liebe, des Leidens, des Wahnsinns; er sucht selbst und erschöpft in sich alle Gifte, um nur ihre Quintessenzen zu behalten. Unaussprechliche Marter, in der er jeden Glauben und übermenschliche Stärke nötig hat, wo er unter allen der große Kranke, der große Verbrecher, der große Verdammte werden wird – und **der höchste Weise!** Denn er gelangt bis an das Unbekannte! **Da er seine schon reiche Seele mehr als irgendeiner ausgebaut hat!**
@@ -936,7 +939,7 @@ Die ewige Kunst hätte ihre Funktionen; da die Dichter Staatsbürger sind. Die D
 [Arthur Rimbaud: "Ich ist ein anderer"]{style="font-size: 1.8rem"}
 
 
-## Der Inspiration treu bleiben: Böhme
+# Der Inspiration treu bleiben: Böhme
 
 Aber der Wille der Seele muss sich ohne Unterlass auch in diesem feurigen Trieb (des Seelenfeuers) ins Nichts versenken, nämlich in die höchste Demut vor Gott. **Wenn sie nur mit kleinstem Anteil in eigenem Forschen gehen will, dann erreicht sie der Teufel im Zentrum der Lebensgestaltung und versucht sie, so dass sie in die Ichheit eingeht.**
 
@@ -959,7 +962,7 @@ Deshalb muss sie in der gelassenen Demut bleiben, gleichwie ein Quell an seinem 
 :::
 
 
-## Der Inspiration treu bleiben: Dylan
+# Der Inspiration treu bleiben: Dylan
 
 :::: columns
 ::: {.column width="60%" style="font-size: 2rem"}
@@ -993,7 +996,7 @@ Dylan: Yeah. They hung around too long. They were better before they were tamper
 :::
 
 
-## Themen
+# Themen
 
 ::: {style="font-size: 2.4rem"}
 Anerkennung, Produktivität
@@ -1014,7 +1017,7 @@ Empfehlungen, Ausblick
 :::
 
 
-## Vom Beten
+# Vom Beten
 
 * Beten ist gar nicht so einfach
 * Jedes Gebet wird erhört!
@@ -1060,7 +1063,7 @@ Wikipedia:
 :::
 
 
-## Vom Beten: Innere Haltung
+# Vom Beten: Innere Haltung
 
 > Der HERR ist nahe denen,  
 > die zerbrochenen Herzens sind,  
@@ -1070,7 +1073,7 @@ Wikipedia:
 [Psalm 34,19]{style="align: right"}
 
 
-## Vom Beten: Jakob Böhme
+# Vom Beten: Jakob Böhme
 
 17 […] „Bittet, so werdet ihr empfangen. Suchet, so werdet ihr finden. Klopfet an, so wird euch aufgetan.“  
 (Luk. 11.9)
@@ -1082,7 +1085,7 @@ Wikipedia:
 [Der Weg zu Christo, "Vom Heiligen Gebet"; Vorrede an den Gottliebenden Leser]{style="font-size: 1.5rem"}
 
 
-## Vom Beten: Jakob Böhme
+# Vom Beten: Jakob Böhme
 
 39 […] Oh großer Gott, stärke doch meinen schwachen Glauben in mir,  
 zerschelle doch mein (eigenwilliges) Herz,  
@@ -1098,7 +1101,7 @@ sodass sie sich erkenne, wie sie von dir abgewandt steht.
 :::
 
 
-## Vom Beten: Bob Dylan
+# Vom Beten: Bob Dylan
 
 Ich bin zerbrochen, zerschmettert wie eine leere Tasse  
 Ich warte nur auf den Herrn,  
@@ -1133,7 +1136,7 @@ Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor S
 :::
 
 
-## Vom Beten: Bob Dylan
+# Vom Beten: Bob Dylan
 
 :::: columns
 ::: {.column width="60%" style="font-size: 1.9rem"}
@@ -1171,7 +1174,7 @@ Deutsche Versionen: u. a. Kriemhild - Jedes Körnchen Sand; Peter Post: Jedes Ko
 :::
 
 
-## Vom Beten: Bob Dylan
+# Vom Beten: Bob Dylan
 
 ::: {style="font-size: 2.2rem"}
 In Lumpen und in Seide / Tief im Traum und für dich wach  
@@ -1219,14 +1222,14 @@ Like every sparrow falling, like every grain of sand
 :::
 
 
-## Wem willst Du dienen? Böhme
+# Wem willst Du dienen? Böhme
 
 So mußt du in einem Amt entweder Gott oder dem Teufel dienen, denn zwei Herren kannst du nicht zugleich dienen. Denn Eigenheit und Gelassenheit sind zwei. Wer Gott dient, der ist in Gott gelassen, und sieht in allen Dingen auf die Wahrheit und Gerechtigkeit, und diese will er fördern. Wer aber der Eigenheit dient, der sieht auf Gunst und der Welt Hoheit, damit alles ihm zustatten komme. Dieser ist im Dienst des bösartigen Adams, in dem der Teufel seinen Sitz hat, und hilft ihm rechtsprechen.
 
 [Mysterium Magnum, 66.59]{style="font-size: 1.5rem"}
 
 
-## Wem willst Du dienen? Böhme
+# Wem willst Du dienen? Böhme
 
 Oh du Weltrichter, verlaß dich nicht auf den Turm zu Babel, auf Weltschlüsse und Menschensatzungen, denn seine Spitze reicht nicht in den Himmel. [...]  
 Gott sieht dir ins Herz und prüft deinen Willen. Die Gesetze vertreten dich nicht vor Gott, wenn du nach denselben richtest, aber dein Herz etwas ganz anderes weiß. [...]  
@@ -1241,7 +1244,7 @@ Oh du Weltrichter, verlaß dich nicht auf den Turm zu Babel, auf Weltschlüsse u
 :::
 
 
-## Wem willst Du dienen? Dylan
+# Wem willst Du dienen? Dylan
 
 :::: columns
 ::: {.column style="font-size: 1.9rem"}
@@ -1281,7 +1284,7 @@ But you’re gonna have to serve somebody
 :::
 
 
-## Wem willst Du dienen? Dylan
+# Wem willst Du dienen? Dylan
 
 Du magst ein Prediger sein, voller spirituellem Stolz  
 Du magst ein Stadtrat sein, der nebenbei Bestechungsgelder annimmt  
@@ -1309,7 +1312,7 @@ But you’re gonna have to serve somebody
 :::
 
 
-## Wem willst Du dienen? Dylan
+# Wem willst Du dienen? Dylan
 
 Du magst mich Terry oder Timmy nennen  
 Du magst mich Bobby oder Zimmy nennen  
@@ -1337,7 +1340,7 @@ But you’re gonna have to serve somebody
 :::
 
 
-## Verführung: Böhme
+# Verführung: Böhme
 
 Auch ist dies die gewaltige Darstellung der hurenden und unzüchtigen Welt, wie die schönen Töchter Evas im Trieb des Teufels der zarten Jugend nachrennen und sie mit heuchlerischen Gebärden und falscher Brunst an sich ziehen. Und wie sie sich schmücken und zieren, als säße ein Engel unter ihrem Schmuck, und damit manch frommes Kind, das niemals danach begehrt hat, an sich ziehen und gleich mit des Teufels Ketten binden und um Ehre und Zucht bringen.
 
@@ -1345,7 +1348,7 @@ Auch ist dies die gewaltige Darstellung der hurenden und unzüchtigen Welt, wie 
 [Mysterium Magnum 66.42, Kapitel über Josef und Potiphar]{style="font-size: 1.5rem"}
 
 
-## Verführung: Böhme
+# Verführung: Böhme
 
 ::: {style="font-size: 2.1rem"}
 Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und Lockhäuser des Teufels nicht eingehen wollte, den verrufen sie und bezichtigen ihn der Unzucht, als hätte er sie betrügen wollen, und rauben ihm seine Ehre, und sind doch eben selber diese Brunsthengste, welche Zucker aufstreuen und Galle zu essen geben, welche fremden Männern so lange Zucker aufstreuen, wie sie Geld im Beutel haben, bis sie diese um Habe, Ehre und Gut bringen, so daß sie ihnen nichts mehr zu geben haben. Dann schänden sie diese und lassen sie ohne Rock nach Hause gehen, wie Potiphars Frau den Josef. So hat der Teufel die Seele, und die Hure hat den Rock zum Pfand, ...
@@ -1358,7 +1361,7 @@ Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und L
 :::
 
 
-## Verführung: Dylan
+# Verführung: Dylan
 
 :::: columns
 ::: {.column width="65%" style="font-size: 1.8rem"}
@@ -1435,7 +1438,7 @@ That’s what they did
 :::
 
 
-## Das Irdische gegen das Geistige: Böhme
+# Das Irdische gegen das Geistige: Böhme
 
 ::: {style="font-size: 2rem"}
 *Innerer Mensch zur Feuer-Seele:*  
@@ -1458,7 +1461,7 @@ Der innere Mensch spricht zur Feuer-Seele: „Oh mein Buhle, kehre doch um und g
 :::
 
 
-## Das Irdische gegen das Geistige: Dylan
+# Das Irdische gegen das Geistige: Dylan
 
 :::: columns
 ::: {.column style="font-size: 1.7rem"}
@@ -1500,7 +1503,7 @@ And I won’t let go and I can’t let go, won’t let go
 
 
 
-## Themen
+# Themen
 
 ::: {style="font-size: 2.4rem"}
 Anerkennung, Produktivität
@@ -1521,7 +1524,7 @@ Empfehlungen, Ausblick
 :::
 
 
-## Die Hohe Liebe: Böhme
+# Die Hohe Liebe: Böhme
 
 Nun sei dir, o großer Gott, in deiner Kraft und Süßigkeit, Lob, Dank, Stärke, Preis und Ehre, dass du mich von dem Treiber der Angst erlöset hast. O du schönes Lieb, mein Herze fasset dich, wo bist du so lange gewesen? Mich deucht, ich wäre in der Hölle und in Gottes Grimm.
 
@@ -1542,14 +1545,14 @@ Deine Ohren waren aus meinem Lande gegangen. Mein Licht konntest du nicht sehen,
 :::
 
 
-## Die Hohe Liebe: Böhme
+# Die Hohe Liebe: Böhme
 
 Oh mein Bräutigam, wie ist mir so wohl in deiner Ehe. Küsse mich doch mit deiner Begierde, in deiner Stärke und Macht, so will ich dir alle meine Schöne zeigen und dich mit meiner süßen Liebe und hellem Licht in deinem Feuerleben erfreuen. Alle heiligen Engel erfreuen sich jetzt mit uns, dass sie uns wieder in der Ehe sehen.
 
 [Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia]{style="font-size: 1.5rem"}
 
 
-## Die Hohe Liebe: Dylan
+# Die Hohe Liebe: Dylan
 
 :::: columns
 ::: {.column style="font-size: 1.9rem"}
@@ -1624,7 +1627,7 @@ At my window with a broken wing
 :::
 
 
-## Die Hohe Liebe: Dylan
+# Die Hohe Liebe: Dylan
 
 Liebst Du mich wirklich, oder zeigst Du nur guten Willen?  
 Sehnst Du Dich auch nur halb so sehr nach mir, wie Du sagst,  
@@ -1667,7 +1670,7 @@ Or is your love in vain?
 :::
 
 
-## Die Hohe Liebe: Dylan
+# Die Hohe Liebe: Dylan
 
 :::: columns
 ::: {.column style="font-size: 1.9rem"}
@@ -1700,7 +1703,7 @@ include_graphics("libs/_Images/StreetLegal.jpg")
 ::::
 
 
-## Themen
+# Themen
 
 ::: {style="font-size: 2.4rem"}
 Anerkennung, Produktivität
@@ -1721,7 +1724,7 @@ Empfehlungen, Ausblick
 :::
 
 
-## Nüchternheit: Böhme
+# Nüchternheit: Böhme
 
 O edles Lieb, gib mir doch deine süße Perle; lege sie doch in mich!  
 […]  
@@ -1733,7 +1736,7 @@ Ach holdseliges Lieb, gib mir doch deine Perle, dass ich ewig möchte in solcher
 [Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia]{style="font-size: 1.5rem"}
 
 
-## Nüchternheit: Böhme
+# Nüchternheit: Böhme
 
 ... du bittest jetzt ein Schweres von mir, das ich nicht gerne mit dir wage. Du willst mein Perllein zum Eigentum haben. Gedenke doch, mein lieber Bräutigam, wie du es vorhin [beim Sündenfall] in Adam verwahrloset hast.
 
@@ -1762,7 +1765,7 @@ Mein lieber Buhle und treuer Schatz, du erfreuest mich hoch in deinem Anfange. I
 :::
 
 
-## Nüchternheit: Böhme
+# Nüchternheit: Böhme
 
 **Ich will** [...] **mein Perllein dem Paradeis vorbehalten, bis du diese Irdigkeit von dir ablegest.** Alsdann will ich dirs zum Eigentum geben. Aber mein Antlitz und süße Strahlen des Perlleins will ich dir die Zeit dieses irdischen Lebens gerne darbieten.
 
@@ -1776,7 +1779,7 @@ In dein irdisch Fleisch vermähle ich mich nicht, denn ich bin eine Königin der
 :::
 
 
-## Nüchternheit: Dylan
+# Nüchternheit: Dylan
 
 :::: columns
 ::: {.column style="font-size: 2rem"}
@@ -1797,7 +1800,8 @@ include_graphics("libs/_Images/pexels-pixabay-262786.jpg")
 
 [Isis, Album *Desire*, 1976]{style="font-size: 1.5rem"}
 
-## Nüchternheit: Dylan
+
+# Nüchternheit: Dylan
 
 So vollzieht sich die glorienvolle Wieder-Verbindung:
 
@@ -1827,7 +1831,7 @@ include_graphics("libs/_Images/Desire.jpg")
 [Isis, Album *Desire*, 1976]{style="font-size: 1.5rem"}
 
 
-## Nüchternheit: Dylan
+# Nüchternheit: Dylan
 
 * Gott: Einziges Wesen, das nur geben, nichts empfangen kann
 * Haltung der göttlichen Seele, von allen Bindungen befreit
@@ -1850,7 +1854,7 @@ You can give but you cannot receive
 :::
 
 
-## Lebenshaltung: Böhme
+# Lebenshaltung: Böhme
 
 :::: columns
 ::: {.column style="font-size: 2rem"}
@@ -1878,7 +1882,7 @@ Von Böhme wird berichtet, dass er, schwerkrank am Ende seines Lebens, von einer
 :::
 
 
-## Lebenshaltung: Böhme
+# Lebenshaltung: Böhme
 
 ::: {style="font-size: 2.1rem"}
 Ich weiß auch gar wohl,  
@@ -1895,7 +1899,7 @@ Alsdann hat sich meine Seele geängstigt, als sollte der Leib zu Grunde gehen.
 [Aurora 25, 5-7]{style="font-size: 1.5rem"}
 
 
-## Lebenshaltung: Dylan
+# Lebenshaltung: Dylan
 
 Litt sehr unter öffentlichem Druck nach frühem Ruhm
 
@@ -1914,7 +1918,7 @@ Viele erstklassige Songs gar nicht oder erst spät veröffentlicht
 :::
 
 
-## Lebenshaltung: Dylan
+# Lebenshaltung: Dylan
 
 :::: columns
 ::: {.column style="font-size: 2rem"}
@@ -1934,7 +1938,111 @@ include_graphics("libs/_Images/Dylan-Warfield-1979.jpeg")
 ::::
 
 
-## Themen
+## Lebenshaltung: Dylan
+
+::: {style="font-size: 2rem"}
+Hör auf zu sprechen, wenn er Dir auf der Straße begegnet  
+Hoffe, dass er hinfällt, oh, wäre das nicht toll  
+Denn er kann nicht mehr von Aberglauben ausgebeutet werden  
+Denn er kann nicht mehr bestochen oder von den Dingen gekauft werden, die du liebst
+
+::: fragment
+Er gehört Jesus  
+Hasse ihn bis ins Mark  
+Du hast was Besseres  
+Du hast ein Herz aus Stein
+:::
+:::
+
+[Property of Jesus, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
+
+
+## Lebenshaltung: Dylan
+
+::: {style="font-size: 2rem"}
+
+Du kannst über Erlösung lachen, du kannst Olympische Spiele spielen  
+Du denkst, wenn du endlich zur Ruhe kommst,  
+gehst du dorthin zurück, wo du hergekommen bist  
+Aber du hast eine ziemliche Geschichte mitbekommen  
+und dich seit dem Mutterleib verändert.  
+Was ist mit deinem wahren Ich passiert?  
+Du wurdest gefangen genommen, aber von wem?
+
+Er gehört Jesus  
+Hasse ihn bis ins Mark  
+Du hast was Besseres  
+Du hast ein Herz aus Stein
+:::
+
+[Property of Jesus, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
+
+::: notes
+Stop your conversation when he passes on the street  
+Hope he falls upon himself, oh, won’t that be sweet  
+Because he can’t be exploited by superstition anymore  
+Because he can’t be bribed or bought by the things that you adore
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+Full lyrics:
+
+Go ahead and talk about him because he makes you doubt  
+Because he has denied himself the things that you can’t live without  
+Laugh at him behind his back just like the others do  
+Remind him of what he used to be when he comes walkin’ through
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+Stop your conversation when he passes on the street  
+Hope he falls upon himself, oh, won’t that be sweet  
+Because he can’t be exploited by superstition anymore  
+Because he can’t be bribed or bought by the things that you adore
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+When the whip that’s keeping you in line doesn’t make him jump  
+Say he’s hard-of-hearin’, say that he’s a chump  
+Say he’s out of step with reality as you try to test his nerve  
+Because he doesn’t pay no tribute to the king that you serve
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+Say that he’s a loser ’cause he got no common sense  
+Because he don’t increase his worth at someone else’s expense 
+Because he’s not afraid of trying, ’cause he don’t look at you and smile  
+’Cause he doesn’t tell you jokes or fairy tales, say he’s got no style
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+You can laugh at salvation, you can play Olympic games  
+You think that when you rest at last you’ll go back from where you came  
+But you’ve picked up quite a story and you’ve changed since the womb  
+What happened to the real you, you’ve been captured but by whom?
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+:::
+
+
+# Themen
 
 ::: {style="font-size: 2.4rem"}
 Anerkennung, Produktivität
@@ -1955,7 +2063,7 @@ Empfehlungen, Ausblick
 :::
 
 
-## Übergabe an Gottes Willen: Böhme
+# Übergabe an Gottes Willen: Böhme
 
 Der Wille muss mit Gott vereint sein,  
 damit Gott, der Wille und der Geist des Menschen  
@@ -1970,7 +2078,7 @@ bleibt es eins mit sich.
 [Sechs mystische Punkte, 3.12, 3.13]{style="font-size: 1.5rem"}
 
 
-## Übergabe an Gottes Willen: Dylan
+# Übergabe an Gottes Willen: Dylan
 
 Christentum ist nicht Christus und Christus ist nicht Christentum. Christentum bedeutet, Christus zum Herrn Deines Lebens zu machen. Es geht um Dein Leben, jetzt, es geht nicht nur um einen Teil Deines Lebens, um eine bestimmte Stunde jeden Tag. Es geht darum, Christus zum Herrn und Meister Deines Lebens zu machen, zum König Deines Lebens. IHN durch DICH.
 
@@ -1985,7 +2093,7 @@ You ask me about myself, but I’m becoming less and less defined as Christ beco
 :::
 
 
-## Übergabe an Gottes Willen: Dylan
+# Übergabe an Gottes Willen: Dylan
 
 Jeder Prediger, der ein echter Prediger ist, wird Dir das sagen:  
 "Folge nicht mir, folge Christus."
@@ -1999,7 +2107,7 @@ während Christus sich immer deutlicher in mir ausprägt.
 [Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
 
 
-## Überwindung des Todes
+# Überwindung des Todes
 
 #### Böhme
 
@@ -2031,7 +2139,7 @@ Auf der dunklen Erde
 :::
 
 
-## Verwandlung: Böhme
+# Verwandlung: Böhme
 
 Alsbald nach etlichen harten Stürmen ist mein Geist durch der Höllen Pforten durchgebrochen bis in die innerste Geburt der Gottheit und allda mit Liebe umfangen worden, wie ein Bräutigam seine liebe Braut umfasst. Was aber ein Triumphieren im Geiste gewesen, kann ich nicht schreiben oder reden. Es lässt sich auch mit nichts vergleichen als nur dem, wo mitten im Tode das Leben geboren wird und vergleicht sich der Auferstehung von den Toten. In diesem Lichte hat mein Geist alsbald durch alles durchgesehen und an allen Kreaturen, sowohl an Kraut und Gras Gott erkannt.
 
@@ -2042,7 +2150,7 @@ Quelle auch hier: Aurora, Kapitel 19 https://www.deutschlandfunk.de/der-himmel-i
 :::
 
 
-## Verwandlung: Böhme
+# Verwandlung: Böhme
 
 Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung. Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches.
 
@@ -2058,7 +2166,7 @@ Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttliche
 :::
 
 
-## Verwandlung: Dylan
+# Verwandlung: Dylan
 
 Wiedergeboren zu werden, ist schwer.  
 Hast Du gesehen, wie eine Mutter ein Kind gebiert?  
@@ -2077,7 +2185,7 @@ Being born again is a hard thing. You ever seen a mother give birth to a child? 
 :::
 
 
-## Verwandlung: Dylan
+# Verwandlung: Dylan
 
 [...]
 Doch Eden brennt  
@@ -2119,7 +2227,7 @@ Sacrifice was the code of the road
 :::
 
 
-## Themen
+# Themen
 
 ::: {style="font-size: 2.4rem"}
 Anerkennung, Produktivität
@@ -2140,7 +2248,7 @@ Nüchternheit, Lebenshaltung
 :::
 
 
-## Empfehlungen: Böhme
+# Empfehlungen: Böhme
 
 * Der Weg zu Christo, 1624
 * Pushpak: <http://www.boehme.pushpak.de/>  
@@ -2169,7 +2277,7 @@ Der Weg zu Christo enthält:
 :::
 
 
-## Empfehlungen: Böhme
+# Empfehlungen: Böhme
 
 :::: columns
 ::: {.column style="font-size: 2rem"}
@@ -2197,7 +2305,7 @@ include_graphics("libs/_Images/Böhme-Grabkreuz-1682-Wikimedia.jpg")
 ::::
 
 
-## Empfehlungen: Dylan - Filme
+# Empfehlungen: Dylan - Filme
 
 :::: columns
 ::: {.column width="60%" style="font-size: 1.6rem"}
@@ -2232,7 +2340,7 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 :::
 
 
-## Empfehlungen: Dylan - Bücher
+# Empfehlungen: Dylan - Bücher
 
 :::: columns
 ::: {.column style="font-size: 1.8rem"}
@@ -2254,7 +2362,7 @@ include_graphics("libs/_Images/philosophy-of-modern-song.jpg")
 ::::
 
 
-## Empfehlungen: Dylan
+# Empfehlungen: Dylan
 
 ::: {style="font-size: 2rem"}
 * Spirituelle Liebeslieder u. a.:  
@@ -2273,7 +2381,7 @@ include_graphics("libs/_Images/philosophy-of-modern-song.jpg")
 :::
 
 
-## Vielen Dank!
+# Vielen Dank!
 
 ::: {.incremental style="font-size: 1.9rem"}
 * Böhme wie Dylan laden zu einer spirituellen Reise ins eigene Innere ein.
