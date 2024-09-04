@@ -72,6 +72,7 @@ Warum?
 * Freue mich mehr, wenn etwas in Ihnen Resonanz hervorruft
 * "Mit dem Herzen hören"
 * Will Sie von nichts überzeugen
+* Mosaik: Wunsch, erst Bild erhalten, Austausch am liebsten am Ende
 :::
 
 
@@ -111,7 +112,6 @@ Empfehlungen, Ausblick
 :::
 
 ::: notes
-Gott in der Natur erkennen: Böhme? Dylan in Every Grain of Sand
 :::
 
 
@@ -161,6 +161,13 @@ Georg Wilhelm Friedrich Hegel (1770 - 1831)
 > Er ist ohne Zweifel der umfassendste, reichhaltigste und mannigfaltigste von allen Mystikern. Er verbreitet sich über alle Teile, die von andern nur einzeln bearbeitet oder ganz unberührt gelassen wurden.
 
 Friedrich Schlegel (1772 - 1829)
+
+
+::: notes
+Karl Wilhelm Friedrich Schlegel (* 10. März 1772 in Hannover; † 12. Januar 1829 in Dresden), seit 1814 von Schlegel, meist kurz Friedrich Schlegel genannt, war ein deutscher Kulturphilosoph, Schriftsteller, Literatur- und Kunstkritiker, Historiker und Altphilologe. Friedrich Schlegel war neben seinem Bruder August Wilhelm Schlegel einer der wichtigsten Vertreter der „Jenaer Frühromantik“. Schlegels Ziel war nach eigenem Bekunden die verbindende Darstellung von Philosophie, Prosa, Poesie, Genialität und Kritik. Wichtige Motive dieses Strebens waren die Konzeptionen einer „progressiven Universalpoesie“, der romantischen Ironie und einer „neuen Mythologie“.
+
+Schlegel gilt als Pionier der Sprachtypologie und bahnbrechender Indologe, ohne dass er jemals in Indien war. Seine Monographie Über die Sprache und Weisheit der Indier lenkte große Aufmerksamkeit auf Indien. Der Aphoristiker Schlegel, „gemeinhin als ein genialischer Chaot mit sprunghaften Einfällen betrachtet“, inspirierte unter anderen den Historiker Leopold von Ranke. Sein essayistisches Werk wurde von Marcel Reich-Ranicki in dessen Kanon aufgenommen.
+:::
 
 
 ## Jakob Böhme: Anerkennung
@@ -402,7 +409,7 @@ Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurü
 ::: {style="font-size: 1.8rem"}
 
 * Über 600 **Songs** geschrieben (genaue Zahl schwer zu bestimmen)
-* Über 4.000 **Konzerte** (The Rolling Stones: etwas über 2.000)
+* Über 4.000 **Konzerte**
 * Mehrere **Bücher**, neben Songtexten und Zeichnungen auch:
   + 1966: Tarantula (1971 veröffentlicht)
   + 2004: Chronicles, Vol. 1: Autobiographie
@@ -415,6 +422,7 @@ Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurü
 :::
 
 ::: notes
+* Rolling Stones: etwas über 2.000 Konzerte
 * Über 500 selbst geschriebene Songs auf Alben veröffentlicht
 * Über 150 Coversongs auf Alben, darunter über 20 mit neuem Text
 * 40 Studioalben, dazu etliche Live-Alben, ca. 20 Kompilationen
@@ -454,7 +462,7 @@ Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie
 In Stunden, wo wir reif für ihn sind, sehen wir in seinem mystischen Abbild der Welt die Sterne kreisen und ordnen uns in seinen Kosmos lebendig mit ein. 
 :::
 
-[Hermann Hesse, Gesammelte Werke, Band 12, S95]{style="font-size: 1.5rem"}
+[Hermann Hesse, Gesammelte Werke, Band 12, S. 95]{style="font-size: 1.5rem"}
 
 
 ::: notes
@@ -566,7 +574,7 @@ mit einem kindlichen Gemüte.
 ## Göttlicher Ursprung des Menschen: Böhme
 
 Sein Kleid war die Klarheit in der Kraft Gottes,  
-sein Sehen war Tag und Nacht mit geöffneten Augen ohne Wimpern, 
+sein Sehen war Tag und Nacht mit geöffneten Augen ohne Wimpern,  
 in ihm war kein Schlaf, und  
 in seinem Gemüte keine Nacht:  
 denn in seinen Augen war die Göttliche Kraft,  
@@ -826,9 +834,9 @@ Dylan: Ich bin immer noch sehr patriotisch in meiner Haltung zur Autobahn, aber 
 Playboy: Woher bekommst Du dann Deinen Kick im Leben?  
 Dylan: Ich bezahle Leute dafür, mir in die Augen zu schauen, und dann lasse ich sie mich kicken.  
 Playboy: So bekommst Du den Kick im Leben?  
-Dylan: Nein. Dann *vergebe* ich ihnen, und erst dann setzt mein Kick ein.
+Dylan: Nein. Dann *vergebe* ich ihnen, und erst dann setzt mein Kick ein.  
 Playboy: Du hast einem Interviewer letztes Jahr gesagt: *"Ich habe alles getan, was ich jemals tun wollte."* Wenn das stimmt, was bleibt dir überhaupt noch, worauf du dich freuen kannst?  
-Dylan: Erlösung. Einfach nur Erlösung. [Salvation. Just plain salvation.]
+Dylan: Erlösung. Einfach nur Erlösung. [Salvation. Just plain salvation.]  
 Playboy: Sonst noch etwas?  
 Dylan: Beten. - Außerdem würde ich gern eine Zeitschrift für Kochrezepte gründen. Und ich wollte immer ein Schiedsrichter beim Boxen sein. Ich möchte Schiedsrichter sein bei einem Weltmeisterschaftskampf im Schwergewicht. Kannst du dir das vorstellen? Kannst du dir einen Kämpfer bei klarem Verstand vorstellen, der mich anerkennt?  
 :::
@@ -1235,8 +1243,11 @@ So mußt du in einem Amt entweder Gott oder dem Teufel dienen, denn zwei Herren 
 
 [Mysterium Magnum, 66.59]{style="font-size: 1.5rem"}
 
+::: notes
 
-## Wem willst Du dienen? Böhme
+<!-- ## Wem willst Du dienen? Böhme -->
+
+*Gekürzt:*
 
 Oh du Weltrichter, verlaß dich nicht auf den Turm zu Babel, auf Weltschlüsse und Menschensatzungen, denn seine Spitze reicht nicht in den Himmel. [...]  
 Gott sieht dir ins Herz und prüft deinen Willen. Die Gesetze vertreten dich nicht vor Gott, wenn du nach denselben richtest, aber dein Herz etwas ganz anderes weiß. [...]  
@@ -1245,9 +1256,10 @@ Welchem Herrn du dienst, der wird dich belohnen und wird selbst dein Lohn sein.
 
 [Mysterium Magnum, 66.60]{style="font-size: 1.5rem"}
 
+*Ausführlicher:*
 
-::: notes
 Oh du Weltrichter, verlaß dich nicht auf den Turm zu Babel, auf Weltschlüsse und Menschensatzungen, denn seine Spitze reicht nicht in den Himmel. Er ist nur die Höhe der Verwirrung, des Streits und falschen Verstandes. Gott sieht dir ins Herz und prüft deinen Willen. Die Gesetze vertreten dich nicht vor Gott, wenn du nach densel-ben richtest, aber dein Herz etwas ganz anderes weiß. Denke nur nicht anders, so daß du dem Teufel das Recht sprichst und ihm unter einem glänzenden Mantel dienst. Das Recht ist Gottes und Gott selbst, aber das Unrecht ist des Teufels und der Teufel selber. Welchem Herrn du dienst, der wird dich belohnen und wird selbst dein Lohn sein. Das hast du in deinem Amt zu erwarten.
+
 :::
 
 
@@ -1355,7 +1367,10 @@ Auch ist dies die gewaltige Darstellung der hurenden und unzüchtigen Welt, wie 
 [Mysterium Magnum 66.42, Kapitel über Josef und Potiphar]{style="font-size: 1.5rem"}
 
 
-## Versuchung: Böhme
+::: notes
+<!-- ## Versuchung: Böhme -->
+
+*Gekürzt:*
 
 ::: {style="font-size: 2.1rem"}
 Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und Lockhäuser des Teufels nicht eingehen wollte, den verrufen sie und bezichtigen ihn der Unzucht, als hätte er sie betrügen wollen, und rauben ihm seine Ehre, und sind doch eben selber diese Brunsthengste, welche Zucker aufstreuen und Galle zu essen geben, welche fremden Männern so lange Zucker aufstreuen, wie sie Geld im Beutel haben, bis sie diese um Habe, Ehre und Gut bringen, so daß sie ihnen nichts mehr zu geben haben. Dann schänden sie diese und lassen sie ohne Rock nach Hause gehen, wie Potiphars Frau den Josef. So hat der Teufel die Seele, und die Hure hat den Rock zum Pfand, ...
@@ -1363,7 +1378,8 @@ Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und L
 
 [Mysterium Magnum 66.43, Kapitel über Josef und Potiphar]{style="font-size: 1.5rem"}
 
-::: notes
+*Ausführlicher:*
+
 Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und Lockhäuser des Teufels nicht eingehen wollte, den verrufen sie und bezichtigen ihn der Unzucht, als hätte er sie betrügen wollen, und rauben ihm seine Ehre, und sind doch eben selber diese Brunsthengste, welche Zucker aufstreuen und Galle zu essen geben, welche fremden Männern so lange Zucker aufstreuen, wie sie Geld im Beutel haben, bis sie diese um Habe, Ehre und Gut bringen, so daß sie ihnen nichts mehr zu geben haben. Dann schänden sie diese und lassen sie ohne Rock nach Hause gehen, wie Potiphars Frau den Josef. So hat der Teufel die Seele, und die Hure hat den Rock zum Pfand, in welcher Hure nichts anderes regiert, als die Schlange mit ihren Jungen. Und wer sich zu ihnen tut, der wird von der Schlange vergiftet, denn die Schlange schmeißt ihm ihre Brut in Leib und Seele und vergiftet ihn so sehr, daß er sein Herz an die Hure hängt und ihr nachläuft, als wäre er fest an sie gebunden.
 :::
 
