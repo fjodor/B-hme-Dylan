@@ -652,11 +652,13 @@ include_graphics("libs/_Images/RoughAndRowdyWays.jpg")
 
 
 ::: notes
-False Prophet:
+**False Prophet**
+
 I’ve searched the world over for the Holy Grail  
 I sing songs of love - I sing songs of betrayal
 
-Jokerman:
+**Jokerman**
+
 Well, the rifleman’s stalking the sick and the lame  
 Preacherman seeks the same, who’ll get there first is uncertain  
 Nightsticks and water cannons, tear gas, padlocks  
@@ -667,7 +669,19 @@ Only a matter of time ’til night comes steppin’ in
 Knüppel, Wasserwerfer, Tränengas, Vorhängeschlösser  
 Molotovcocktails und Steine hinter jedem Vorhang  
 Falschherzige Richter sterben in den Netzen, die sie spinnen  
-Nur eine Frage der Zeit, bis die Nacht anbricht  
+Nur eine Frage der Zeit, bis die Nacht anbricht
+
+**No Time to Think (Street Legal, 1978)**
+
+China doll, alcohol, duality, mortality  
+Mercury rules you and destiny fools you  
+Like the plague, with a dangerous wink  
+And there’s no time to think
+
+Porzellanpuppe, Alkohol, Dualität, Sterblichkeit  
+Merkur regiert dich und das Schicksal täuscht dich  
+Wie die Pest, mit einem gefährlichen Augenzwinkern  
+Und es bleibt keine Zeit zum Nachdenken
 :::
 
 
@@ -943,19 +957,15 @@ Aber der Wille der Seele muss sich ohne Unterlass auch in diesem feurigen Trieb 
 
 [Von wahrer Gelassenheit, 1.30]{style="font-size: 1.5rem"}
 
-
-## Der Inspiration treu bleiben: Böhme
+::: notes
+Überleitung zu Jokerman: vorhin gehört, großartiger Song. Ein Youtube-Kommentar lautet: *"Für jeden anderen Künstler wäre das das beste, was sie je geschrieben haben. Für Dylan einfach nur ein weiterer Hit."* Da kann man schon ein bisschen stolz sein. Was sagt Dylan selbst über den Song?
 
 Deshalb muss sie in der gelassenen Demut bleiben, gleichwie ein Quell an seinem Ursprung. Und sie muss ohne Unterlass aus Gottes Brünnlein schöpfen und trinken und niemals begehren, von Gottes Weg abzugehen.
 
 **Denn sobald die Seele mit der Ichheit vom (gedanklich unterscheidenden) Verstandeslicht isst, so wandelt sie in eigenem Wahn.**
 
-
 [Von wahrer Gelassenheit, 1.30, 1.31]{style="font-size: 1.5rem"}
 
-
-::: notes
-Überleitung zu Jokerman: vorhin gehört, großartiger Song. Ein Youtube-Kommentar lautet: *"Für jeden anderen Künstler wäre das das beste, was sie je geschrieben haben. Für Dylan einfach nur ein weiterer Hit."* Da kann man schon ein bisschen stolz sein. Was sagt Dylan selbst über den Song?  
 :::
 
 
@@ -2155,7 +2165,7 @@ Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttliche
 
 ::: notes
 
-11.37. Hier gibt die Jungfrau dem Jüngling ihr Perlein zum Eigentum, und so werden Gott und Mensch Eins. Denn das Blut der Jungfrau aus göttlicher Wesenheit ertränkt hier mit dem Wesen ihrer Liebe das Blut des Jünglings, als die Ichheit, und die drei Mörder geben ihr Leben im Blut der Jungfrau auf. So gehen das Glühen (bzw. rote Leben) vom Feuer und das weiße vom Leben des Ritters miteinander auf, nämlich aus dem Grimm geht das Leben auf, und aus der Liebe die Sanftmut. Und beide, das Leben des Zorns und das Leben der Liebe, steigen miteinander als ein einiges Leben auf, denn im Tod werden sie Eins. Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung (Auflösung oder Rück-verwandlung). Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches. Des Jünglings Leben stirbt, und das Leben der Gottheit bleibt be-ständig, denn es steht in seiner Eigenschaft im Nichts.
+11.37. Hier gibt die Jungfrau dem Jüngling ihr Perlein zum Eigentum, und so werden Gott und Mensch Eins. Denn das Blut der Jungfrau aus göttlicher Wesenheit ertränkt hier mit dem Wesen ihrer Liebe das Blut des Jünglings, als die Ichheit, und die drei Mörder geben ihr Leben im Blut der Jungfrau auf. So gehen das Glühen (bzw. rote Leben) vom Feuer und das weiße vom Leben des Ritters miteinander auf, nämlich aus dem Grimm geht das Leben auf, und aus der Liebe die Sanftmut. Und beide, das Leben des Zorns und das Leben der Liebe, steigen miteinander als ein einiges Leben auf, denn im Tod werden sie Eins. Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung (Auflösung oder Rück-verwandlung). Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches. Des Jünglings Leben stirbt, und das Leben der Gottheit bleibt beständig, denn es steht in seiner Eigenschaft im Nichts.
 
 [De Signatura Rerum, 11.37]{style="font-size: 1.5rem"}
 
@@ -2430,7 +2440,7 @@ I know I will sustain
 :::
 
 
-## Gold - Böhme
+## Gold: Böhme
 
 Aber das Silber und Gold in der toten Begreiflichkeit ist nur ein finsterer Stein im Vergleich zur Wurzel der himmlischen Gebärung.
 
@@ -2447,7 +2457,7 @@ Es ist aber nicht mein Vorhaben, mich daran zu versuchen, zumal ich nicht weiß,
 [Aurora, 22.105, 22.106]{style="font-size: 1.5rem"}
 
 
-## Gold - Dylan
+## Gold: Dylan
 
 Ich geb auf das Spiel, ich muss hier fort  
 Der Topf aus ird’schem Gold ist nur ein leeres Wort  
@@ -2553,5 +2563,56 @@ Schmink dich jetzt ab ich hab dich voll erkannt
 Herunter von dem Thron jetzt mit Verlaub  
 Drück‘ mich einmal noch, dann mach ich mich aus dem Staub  
 
+
 ::: notes
 
+<!-- ## Verstand: Böhme -->
+
+Mein lieber Leser, wenn du die hohen Geheimnisse verstehen willst, dann mußt du nicht erst eine Akademie vor deine Nase setzen und eine Brille brauchen, um die Bücher vieler Meister zu lesen, denn sie sind nicht allein in den hohen Schulen zu suchen, zu finden und zu ergründen. Das ist alles ein Land ohne göttliche Vernunft, was der Verstand in der Kunst dieser Welt sucht. Denn sie finden nicht mehr als diese Welt, und das auch nur halb, und gehen immer nur im Suchen, und finden schließlich den überheblichen Stolz und die Heuchelei, indem sie weltliche Weisheit finden.
+
+[Vom dreifachen Leben des Menschen, 3.29]{style="font-size: 1.5rem"}
+
+
+<!-- ## Verstand: Dylan -->
+
+Loneliness, tenderness, high society, notoriety  
+You fight for the throne and you travel alone  
+Unknown as you slowly sink  
+And there’s no time to think
+
+:::
+
+
+## Wiedergeburt: Böhme
+
+Und das lasst euch, ihr Sucher der metallischen Tinktur, offenbart sein: Wollt ihr den Stein der Weisen finden, dann schickt euch zur neuen Wiedergeburt in Christus, sonst wird er euch schwerlich zu erkennen sein.
+
+[Von der Menschwerdung Jesu Christi, 4.10]{style="font-size: 1.5rem"}
+
+
+::: notes
+4.19 Lasst euch gesagt sein, ihr Schulzänker: Ihr geht im Kreis und nicht hinein, wie eine Katze um den heißen Brei, welche die Hitze fürchtet. So fürchtet und schämt ihr euch vor Gottes Feuer. Und so wenig die Katze den heißen Brei genießt, wenn sie nur um den Rand geht, um zu riechen, so wenig genießt auch der Mensch die Paradiesfrucht, es sei denn, er geht aus dem Pelz Adams heraus, den der Teufel besudelt hat, und tritt in Christi Wiedergeburt ein. Er muss in den Kreis hineingehen und den Verstandespelz abwerfen, dann bekommt er menschliche Weisheit mit göttlicher Erkenntnis. 
+
+Das schafft kein Lernen, sondern ein Geborenwerden.
+:::
+
+
+## Vereinigung mit Gott: Dylan
+
+Es wird eine Zeit kommen, so höre ich,   
+in der alles gut sein wird,   
+in der Gott und Mensch versöhnt sein werden.   
+Aber bis die Menschen ihre Ketten verlieren   
+und Gerechtigkeit regiert,   
+Herr, beschütze mein Kind.
+
+[Lord Protect My Child,Album *The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991 (1991)*]{style="font-size: 1.5rem"}
+
+::: notes
+There'll be a time I hear tell  
+When all will be well  
+When God and man will be reconciled  
+But until men lose their chains  
+And righteousness reigns  
+Lord, protect my child
+:::
