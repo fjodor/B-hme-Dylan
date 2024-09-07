@@ -919,16 +919,6 @@ Die ewige Kunst hätte ihre Funktionen; da die Dichter Staatsbürger sind. Die D
 :::
 
 
-## Quellen der Inspiration: Dylan
-
-::: {style="font-size: 2.2rem"}
-> Der Dichter **macht sich zum Seher** durch eine lange, unermeßliche und durchdachte Entgrenzung sämtlicher Sinne. Alle Formen der Liebe, des Leidens, des Wahnsinns; er sucht selbst und erschöpft in sich alle Gifte, um nur ihre Quintessenzen zu behalten. Unaussprechliche Marter, in der er jeden Glauben und übermenschliche Stärke nötig hat, wo er unter allen der große Kranke, der große Verbrecher, der große Verdammte werden wird – und **der höchste Weise!** Denn er gelangt bis an das Unbekannte! **Da er seine schon reiche Seele mehr als irgendeiner ausgebaut hat!**
-:::
-
-
-[Arthur Rimbaud: "Ich ist ein anderer"]{style="font-size: 1.8rem"}
-
-
 ## Der Inspiration treu bleiben: Böhme
 
 Aber der Wille der Seele muss sich ohne Unterlass auch in diesem feurigen Trieb (des Seelenfeuers) ins Nichts versenken, nämlich in die höchste Demut vor Gott. **Wenn sie nur mit kleinstem Anteil in eigenem Forschen gehen will, dann erreicht sie der Teufel im Zentrum der Lebensgestaltung und versucht sie, so dass sie in die Ichheit eingeht.**
@@ -957,7 +947,7 @@ Deshalb muss sie in der gelassenen Demut bleiben, gleichwie ein Quell an seinem 
 
 *Paul Zollo:* Beim Schreiben?
 
-*Dylan:* Ja. [...] Sie waren besser, bevor daran herumgebastelt wurde. Natürlich war ich es, der an ihnen herumgedoktert hat. Ja, das hätte ein guter Song sein können.
+*Dylan:* Ja. [...] Sie waren besser, bevor daran herumgebastelt wurde. Natürlich war ich es, der an ihnen herumgebastelt hat. Ja, das hätte ein guter Song sein können.
 
 
 [Song Talk Interview 1991 mit Paul Zollo]{style="font-size: 1.5rem"}
@@ -1098,7 +1088,7 @@ Und ich weiß, er wird es tun, denn Er ist so treu und wahr
 
 ::: fragment
 <br><br>
-Lass all Deine irdischen Gedanken Gebete sein
+Lass all Deine irdischen Gedanken ein Gebet sein
 
 [Black Rider, Album *Rough and Rowdy Ways*, 2020]{style="font-size: 1.5rem"}
 :::
@@ -1157,12 +1147,7 @@ There’s a dyin’ voice within me reaching out somewhere
 Toiling in the danger and in the morals of despair
 
 Deutsche Versionen: u. a. Kriemhild - Jedes Körnchen Sand; Peter Post: Jedes Korn von Sand
-:::
 
-
-## Vom Beten: Bob Dylan
-
-::: {style="font-size: 2.2rem"}
 In Lumpen und in Seide / Tief im Traum und für dich wach  
 In der Hitze eines Julitags / Und im Schnee einer Januarnacht  
 In dem stummen Tanz der Einsamkeit / Von dem mir schwindlig wird  
@@ -1172,11 +1157,9 @@ Erkenne ich wie schwach ich bin / Und wie wenig ich versteh
 Und dass ich von der Wirklichkeit / Nichts als ein paar Schatten seh  
 Ich häng an dünnen Fäden / Von der Unsichtbaren Hand  
 So wie im Wind die Schwalbe / Und wie jedes Körnchen Sand
-:::
 
 [Every Grain of Sand, Album *Shot of Love*, 1981<br>Übersetzung: M. Kunze; gesungen von Nana Mouskouri]{style="font-size: 1.5rem"}
 
-::: notes
 (2. Strophe, hier nicht übersetzt)
 Don’t have the inclination to look back on any mistake  
 Like Cain, I now behold this chain of events that I must break  
@@ -1825,25 +1808,22 @@ include_graphics("libs/_Images/Desire.jpg")
 
 ::: notes
 Ähnliches Thema auch in Shelter from the Storm, Album *Blood on the Tracks*, 1975: Kontakt zum Seelenfeld geht verloren
-:::
 
-
-## Nüchternheit: Dylan
+Nüchternheit: Dylan, Fortsetzung
 
 * Gott: Einziges Wesen, das nur geben, nichts empfangen kann
 * Haltung der göttlichen Seele, von allen Bindungen befreit
 
-::: fragment
+(Fragment)
 Kugeln können dich verletzen, der Tod dich entwaffnen  
 Aber nein, du lässt dich nicht täuschen  
 Aller Tugend beraubt, kriechst du durch den Dreck  
-:::
+(Fragment Ende)
 
 Du kannst geben, aber du kannst nichts empfangen
 
 [No Time to Think, Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
 
-::: notes
 Bullets can harm you and death can disarm you
 But no, you will not be deceived
 Stripped of all virtue as you crawl through the dirt
