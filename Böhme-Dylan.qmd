@@ -658,6 +658,7 @@ I sing songs of love - I sing songs of betrayal
 
 Well, the rifleman’s stalking the sick and the lame  
 Preacherman seeks the same, who’ll get there first is uncertain  
+
 Nightsticks and water cannons, tear gas, padlocks  
 Molotov cocktails and rocks behind every curtain  
 False-hearted judges dying in the webs that they spin  
@@ -771,24 +772,15 @@ Like every sparrow falling, like every grain of sand
 Mein Buch hat nur drei Blätter,  
 das sind die drei Prinzipien der Ewigkeit;  
 darinnen kann ich alles finden.  
-Ich kann der Welt Grund und alle Heimlichkeit darin finden.  
-
 Ich benötige kein anderes Buch.  
 
-
-[Theosophische Sendbriefe 12, 15 und 14]{style="font-size: 1.5rem"}
-
-
-## Quellen der Inspiration: Böhme
-
 Denn das Buch ist der Mensch selber:  
-Er ist selber das Buch des Wesens aller Wesen,  
 weil er selbst das Gleichnis der Gottheit ist;  
 das große Geheimnis liegt in ihm,  
 aber das Offenbaren gehört dem Geiste Gottes.  
 
 
-[Theosophische Sendbriefe, 20, 3]{style="font-size: 1.5rem"}
+[Theosophische Sendbriefe 12, 15, 14, 20]{style="font-size: 1.5rem"}
 
 
 ## Quellen der Inspiration: Dylan
@@ -813,7 +805,7 @@ Interview mit Nat Hentoff, Playboy, März 1966 (kurz vor Dylans 25. Geburtstag)
 
 S. 108  
 Dylan: ... Ich *weiß*, worüber meine Songs sind.  
-Playboy: Und was ist es?  
+Playboy: Worüber sind sie denn?    
 Dylan: Oh, einige sind über vier Minuten, einige sind über fünf Minuten, und einige, ob du es glaubst oder nicht, sind über 11 Minuten.
 [...]
 
@@ -833,27 +825,26 @@ Dylan: Beten. - Außerdem würde ich gern eine Zeitschrift für Kochrezepte grü
 
 ## Quellen der Inspiration: Böhme
 
-Der Jünger sprach zum Meister: Wie kann ich zu dem übersinnlichen Leben kommen, so daß ich Gott sehe und sprechen höre?  
+::: {style="font-size: 2.2rem"}
+*Der Jünger sprach zum Meister:*  
+Wie kann ich zu dem übersinnlichen Leben kommen, so daß ich Gott sehe und sprechen höre?  
 
-Der Meister sprach: Wenn du dich nur einen Augenblick dahin schwingen kannst, wo keine Kreatur wohnt, dann hörst du, was Gott spricht.
+*Der Meister sprach:*  
+Wenn du dich nur einen Augenblick dahin schwingen kannst, wo keine Kreatur wohnt, dann hörst du, was Gott spricht.
+
+::: fragment
+
+Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. Dein eigenes Hören, Wollen und Sehen verhindert, daß du Gott siehst oder hörst.
+:::
+:::
+
+[Vom Übersinnlichen Leben; aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 
-[Vom Übersinnlichen Leben  
-aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
-
-
-## Quellen der Inspiration: Böhme
-
+::: notes
 Der Jünger sprach: Ist das nah oder fern?
 
 Der Meister sprach: Es ist in dir, und wenn du nur eine Stunde schweigen kannst von all deinem Wollen und Sinnen, dann wirst du unaussprechliche Worte Gottes hören.
-
-
-[Vom Übersinnlichen Leben  
-aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
-
-
-## Quellen der Inspiration: Böhme
 
 Der Jünger sprach: Wie kann ich hören, wenn ich von Sinnen und Wollen stillstehe?
 
@@ -862,6 +853,7 @@ Der Meister sprach: Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, da
 
 [Vom Übersinnlichen Leben  
 aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
+:::
 
 
 ## Quellen der Inspiration: Dylan
@@ -874,23 +866,13 @@ Du musst diese Gedanken ausfiltern, denn sie bedeuten nichts, sie treiben dich n
 *Fortsetzung:*  
 Viele Lebenssituationen sind heutzutage so: nehmen, nehmen, nehmen, das ist alles. Was ist für mich drin? Dieses Syndrom begann mit dem "Ich-Jahrzehnt", wann auch immer das war. Wir sind immer noch mittendrin. Es geschieht weiterhin.
 
-Song Talk Interview, Paul Zollo, 1991,   https://americansongwriter.com/bob-dylan-the-interview-part-1/  abgerufen am 21.07.2024
-
-You ought to be able to sort out those thoughts, because they don’t mean anything, they’re just pulling you around, too. It’s important to get rid of all them thoughts. Then you can do something from some kind of surveillance of the situation. You have some kind of place where you can see but it can’t affect you. Where you can bring something to the matter, besides just take, take, take, take, take. As so many situations in life are today. Take, take, take, that’s all that it is. What’s in it for me? That syndrome which started in the “Me Decade,” whenever that was. We’re still in that. It’s still happening. 
-:::
-
-
-## Quellen der Inspiration: Dylan
-
 Es gibt genug Songs. Es sei denn, jemand kommt mit reinem Herzen und hat etwas zu sagen. Das ist etwas ganz anderes.
 
 Kreativität ist etwas Mysteriöses. Sie besucht, wen immer sie besuchen will, wann sie will, und ich glaube so, und nur so, gelangt man bis zum Herzen der Angelegenheit.
 
-[Bob Dylan 1991, Song Talk Interview mit Paul Zollo]{style="font-size: 1.5rem"}
-
-
-::: notes
 Song Talk Interview, Paul Zollo, 1991,   https://americansongwriter.com/bob-dylan-the-interview-part-1/  abgerufen am 21.07.2024
+
+You ought to be able to sort out those thoughts, because they don’t mean anything, they’re just pulling you around, too. It’s important to get rid of all them thoughts. Then you can do something from some kind of surveillance of the situation. You have some kind of place where you can see but it can’t affect you. Where you can bring something to the matter, besides just take, take, take, take, take. As so many situations in life are today. Take, take, take, that’s all that it is. What’s in it for me? That syndrome which started in the “Me Decade,” whenever that was. We’re still in that. It’s still happening. 
 
 There’s enough songs. Unless someone’s gonna come along with a pure heart and has something to say. That’s a different story.  
 
