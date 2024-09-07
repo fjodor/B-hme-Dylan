@@ -1,6 +1,6 @@
 ---
 title: "Jakob Böhme <br>und Bob Dylan:<br>Spirituelle Geistes-verwandtschaft"
-author: "Wolf Riepl"
+# author: "Wolf Riepl"
 title-slide-attributes: 
   data-background-color: "#D7E6F4"
 subtitle: ""
@@ -8,6 +8,8 @@ format:
   revealjs:
     # theme: blood
     theme: league
+    # slide-number: speaker
+    slide-number: true
 execute:
   echo: false
   eval: true
@@ -1869,6 +1871,7 @@ include_graphics("libs/_Images/Desire.jpg")
 
 ::: notes
 Ähnliches Thema auch in Shelter from the Storm, Album *Blood on the Tracks*, 1975: Kontakt zum Seelenfeld geht verloren
+:::
 
 
 ## Nüchternheit: Dylan
