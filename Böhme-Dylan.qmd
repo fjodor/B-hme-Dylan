@@ -144,20 +144,16 @@ Angelus Silesius (1624 - 1677)
 
 ## Jakob Böhme: Anerkennung
 
-> Jakob Böhme, der Mann, dessen Schriften alles das gediegen und in einer festen Masse enthalten, was uns seine albernen Nachfolger mit einer bloß scheinbaren Verständlichkeit verdünnt und verdorben übergeben, ist und bleibt einer der ersten Schriftsteller unserer Nation.
-
-Georg Christoph Lichtenberg (1742-1799)
-
-
-## Jakob Böhme: Anerkennung
-
 > Jakob Böhme ist der erste deutsche Philosoph,  
 der Inhalt seines Philosophierens ist echt deutsch.
 
 Georg Wilhelm Friedrich Hegel (1770 - 1831)
 
+::: notes
 
-## Jakob Böhme: Anerkennung
+> Jakob Böhme, der Mann, dessen Schriften alles das gediegen und in einer festen Masse enthalten, was uns seine albernen Nachfolger mit einer bloß scheinbaren Verständlichkeit verdünnt und verdorben übergeben, ist und bleibt einer der ersten Schriftsteller unserer Nation.
+
+Georg Christoph Lichtenberg (1742-1799)
 
 > Der bedeutendste von diesen allen ist offenbar der spätere Jacob Böhme, dem man unter den Philosophen dieser Periode überhaupt wohl die erste Stelle einräumen könnte. [...]
 
@@ -166,7 +162,6 @@ Georg Wilhelm Friedrich Hegel (1770 - 1831)
 Friedrich Schlegel (1772 - 1829)
 
 
-::: notes
 Karl Wilhelm Friedrich Schlegel (* 10. März 1772 in Hannover; † 12. Januar 1829 in Dresden), seit 1814 von Schlegel, meist kurz Friedrich Schlegel genannt, war ein deutscher Kulturphilosoph, Schriftsteller, Literatur- und Kunstkritiker, Historiker und Altphilologe. Friedrich Schlegel war neben seinem Bruder August Wilhelm Schlegel einer der wichtigsten Vertreter der „Jenaer Frühromantik“. Schlegels Ziel war nach eigenem Bekunden die verbindende Darstellung von Philosophie, Prosa, Poesie, Genialität und Kritik. Wichtige Motive dieses Strebens waren die Konzeptionen einer „progressiven Universalpoesie“, der romantischen Ironie und einer „neuen Mythologie“.
 
 Schlegel gilt als Pionier der Sprachtypologie und bahnbrechender Indologe, ohne dass er jemals in Indien war. Seine Monographie Über die Sprache und Weisheit der Indier lenkte große Aufmerksamkeit auf Indien. Der Aphoristiker Schlegel, „gemeinhin als ein genialischer Chaot mit sprunghaften Einfällen betrachtet“, inspirierte unter anderen den Historiker Leopold von Ranke. Sein essayistisches Werk wurde von Marcel Reich-Ranicki in dessen Kanon aufgenommen.
@@ -262,24 +257,19 @@ abgerufen am 21.07.2024
 
 ## Bob Dylan: Anerkennung
 
-> Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar eine sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
-
-Peter Post
-
-
-## Bob Dylan: Anerkennung
-
-::: {style="font-size: 2.2rem"}
 > Es gibt schlichtweg keinen anderen Künstler in der populären Kunst – mit Ausnahme von Leonard Cohen –, der so aus seinen ureigensten **seelischen Inhalten** schöpft, wie es Dylan tut.
-
-> Die Atmosphäre in Dylans Kunst ist von einem hohen Maß an Echtheit gekennzeichnet. Darin liegt das Faszinierende. [...] Ich kann nichts Verschlossenes oder Mystifizierendes sehen – sein Werk ist eine Offenbarung. In dem, was er macht, ist er präsent. Diese Präsenz, dieses Persönliche, gibt es bei keinem anderen Künstler.
-:::
 
 Peter Post
 
 
 ::: notes
 Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
+
+> Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar eine sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
+
+> Die Atmosphäre in Dylans Kunst ist von einem hohen Maß an Echtheit gekennzeichnet. Darin liegt das Faszinierende. [...] Ich kann nichts Verschlossenes oder Mystifizierendes sehen – sein Werk ist eine Offenbarung. In dem, was er macht, ist er präsent. Diese Präsenz, dieses Persönliche, gibt es bei keinem anderen Künstler.
+
+Peter Post
 
 Merkwürdig aber ist, daß eine andere Musik, die eine vergleichbare Wirkung auf mich hatte, ebenfalls von Christlich-Religiösem getragen wird: die Johann Sebastian Bachs. (Den quasi areligiösen Richard Wagner habe ich erst vor zwei Jahren entdeckt.) Es ist eine unglaubliche Musik; man fragt sich, wie ein Mensch so etwas erschaffen kann. Auch hier ist es die pure Faszination – nur aus dem Gefühl heraus.
 
@@ -533,6 +523,20 @@ Empfehlungen, Ausblick
 
 ## Göttlicher Ursprung des Menschen: Böhme
 
+Adam war ein Mensch und ein Bild Gottes,  
+ein Gleichnis von Gott.
+
+Das Licht schien in ihm.  
+Er stand in großer Schönheit, Freude und Lust,  
+mit einem kindlichen Gemüte.
+
+
+[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
+
+
+[Dieser und die folgenden Auszüge wurden von **Ronald Steckel** zusammengestellt und sind dem Transkript des Films ***Morgenröte im Aufgang*** entnommen. Großer Dank an **Steckel, Klaus Weingarten, Jan Korthäuer, Max Hopp** und das **nootheater** und die **Organisation zur Umwandlung des Kinos** für die Veröffentlichung.<br>]{style="font-size: 1.5rem; line-height: 80%"}
+
+:::notes
 Vor den Zeiten der Welt ist das Modell des Menschen  
 als eine Form in Göttlicher Weisheit erkannt worden,  
 aber in keinem Geschöpf oder Bilde gestanden,  
@@ -540,29 +544,6 @@ sondern auf magische Art,
 wie einem im Traum ein Bilde erscheint,  
 welches ohne Wesen ist.
 
-
-[Dieser und die folgenden Auszüge wurden von **Ronald Steckel** zusammengestellt und sind dem Transkript des Films ***Morgenröte im Aufgang*** entnommen. Großer Dank an **Steckel, Klaus Weingarten, Jan Korthäuer, Max Hopp** und das **nootheater** und die **Organisation zur Umwandlung des Kinos** für die Veröffentlichung.<br>]{style="font-size: 1.5rem; line-height: 80%"}
-[Vom Irrtum der Sekten Es. Stiefels und Ez. Meths, 57]{style="font-size: 1.5rem"}
-
-
-## Göttlicher Ursprung des Menschen: Böhme
-
-Aber die Tiefe ohne Grund wollte sich  
-in Gleichnissen offenbaren -  
-wie in einer Jungfräulichen Figur,  
-als ein Spiegel der Gottheit und Ewigkeit  
-in Grund und Ungrund,  
-als ein Auge der Herrlichkeit Gottes.  
-
-**Adam war ein Mensch und ein Bild Gottes,  
-ein Gleichnis von Gott.**
-
-
-[Von der Menschwerdung Jesu Christi, I, 5, 2]{style="font-size: 1.5rem"}
-[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
-
-
-::: notes
 Aber die Tiefe ohne Grund wollte sich in Gleichnissen offenbaren -  
 wie in einer Jungfräulichen Figur,  
 als ein Spiegel der Gottheit und Ewigkeit  
@@ -574,34 +555,9 @@ und endlich der Mensch.
 Adam war ein Mensch und ein Bild Gottes,  
 ein Gleichnis von Gott.
 
+[Vom Irrtum der Sekten Es. Stiefels und Ez. Meths, 57]{style="font-size: 1.5rem"}
 [Von der Menschwerdung Jesu Christi, I, 5, 2]{style="font-size: 1.5rem"}
-:::
-
-
-## Göttlicher Ursprung des Menschen: Böhme
-
-Das Licht schien in ihm.  
-Er stand in großer Schönheit, Freude und Lust,  
-mit einem kindlichen Gemüte.
-
-
 [Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
-
-
-## Göttlicher Ursprung des Menschen: Böhme
-
-Sein Kleid war die Klarheit in der Kraft Gottes,  
-sein Sehen war Tag und Nacht mit geöffneten Augen ohne Wimpern,  
-in ihm war kein Schlaf, und  
-in seinem Gemüte keine Nacht:  
-denn in seinen Augen war die Göttliche Kraft,  
-und er war ganz und vollkommen. 
-
-
-[Beschreibung der Drey Principien Göttliches Wesens, 10, 18]{style="font-size: 1.5rem"}
-
-
-## Göttlicher Ursprung des Menschen: Böhme
 
 Er war <u>ein</u> Mensch, und nicht zwei,  
 er war der Mann und auch die Frau,  
@@ -610,6 +566,22 @@ Er hatte Fleisch und Blut, aber himmlisch,
 sein Wesen ("Essentien") war heilig. 
 
 [Von dem Dreyfachen Leben des Menschen, 7, 25]{style="font-size: 1.5rem"}
+
+:::
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
+Sein Kleid war die Klarheit in der Kraft Gottes,  
+sein Sehen war Tag und Nacht  
+mit geöffneten Augen ohne Wimpern,  
+in ihm war kein Schlaf, und  
+in seinem Gemüte keine Nacht:  
+denn in seinen Augen war die Göttliche Kraft,  
+und er war ganz und vollkommen. 
+
+
+[Beschreibung der Drey Principien Göttliches Wesens, 10, 18]{style="font-size: 1.5rem"}
 
 
 ## Göttlicher Ursprung des Menschen: Dylan
