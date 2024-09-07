@@ -2403,18 +2403,21 @@ I know I will sustain
 
 ## Gold: Böhme
 
-Aber das Silber und Gold in der toten Begreiflichkeit ist nur ein finsterer Stein im Vergleich zur Wurzel der himmlischen Gebärung.
+Aber das Silber und Gold   
+in der toten Begreiflichkeit   
+ist nur ein finsterer Stein   
+im Vergleich zur Wurzel der himmlischen Gebärung.
 
 [Aurora, 22.85]{style="font-size: 1.5rem"}
 
-::: {.fragment style="font-size: 2rem"}
+::: notes
 
 Du solltest mich allerdings für keinen Alchimisten halten, denn ich schreibe allein in der Erkenntnis des Geistes und nicht durch Erfahrung. Obwohl ich zwar hier noch etwas mehr erklären könnte, in wieviel Tagen und in welchen Stunden solche Dinge präpariert werden müssen. Denn das Gold kann man nicht an einem Tag ma-chen, sondern es gehört ein ganzer Mond (Monat) dazu.
 
 Es ist aber nicht mein Vorhaben, mich daran zu versuchen, zumal ich nicht weiß, wie man mit dem Feuer umgeht.
-:::
 
 [Aurora, 22.105, 22.106]{style="font-size: 1.5rem"}
+:::
 
 
 ## Gold: Dylan
@@ -2577,10 +2580,47 @@ Lord, protect my child
 
 ## Nüchternheit: Böhme
 
-stinkender Pelz
+*Nun spricht die Vernunft:* Wie kommts denn, weil ich Christi Glied und Gottes Kind bin, dass ich ihn nicht fühle noch empfinde?
+
+::: fragment
+
+*Antwort:* Ja, allhie stecket es, liebes besudeltes Hölzlein; riech in deinem Busen, wonach stinkest du, nach teuflischer Sucht als nach zeitlicher Wollust, nach Geiz, Ehren und Macht. Höre, das ist des Teufels Kleid. Zieh diesen Pelz aus und wirf ihn weg. Setze deine Begierde in Christi ... so wirst du ... Christus werden ... und wirst in Christo neugeboren werden.
+:::
+
+[Von der Menschwerdung Jesu Christi, Teil 1, Kap. 12: Von der reinen Jungfrauschaft]{style="font-size: 1.5rem"}
+
+::: notes
+Antwort: Ja, allhie stecket es, liebes besudeltes Hölzlein; riech in deinem Busen, wonach stinkest du, nach teuflischer Sucht als nach zeitlicher Wollust, nach Geiz, Ehren und Macht. Höre, das ist des Teufels Kleid. Zieh diesen Pelz aus und wirf ihn weg. Setze deine Begierde in Christi Leben, Geist, Fleisch und Blut, imaginiere darein, als du hast in die irdische Sucht imaginieret, so wirst du Christus in deinem Leibe, in deinem Fleisch und Blut anziehen. Du wirst Christus werden; seine Menschwerdung wird sich zuhand [alsbald] in dir erregen, und wirst in Christo neugeboren werden.
+:::
 
 
 ## Nüchternheit: Dylan
 
-Blind Willie McTell
+:::: columns
+::: column
 
+Gott ist in seinem Himmel  
+Und wir alle wollen, was ihm gehört    
+Aber Macht und Gier und der Samen der Bestechlichkeit  
+Scheint alles zu sein, was es gibt
+:::
+
+::: column
+```{r}
+#| out-width: "100%"
+#| out-height: "100%"
+
+include_graphics("libs/_Images/Infidels.png")
+```
+
+:::
+::::
+
+[Blind Willie McTell, aufgenommen 1983 für *Infidels*, veröffentlicht erst 1991 auf <br>*The Bootleg Series Volumes 1–3 (Rare & Unreleased) 1961–1991*]{style="font-size: 1.5rem"}
+
+::: notes
+God is in his heaven  
+And we all want what’s his  
+But power and greed and corruptible seed  
+Seem to be all that there is
+:::
