@@ -9,7 +9,7 @@ format:
     # theme: blood
     theme: league
     # slide-number: speaker
-    slide-number: true
+    # slide-number: true
 execute:
   echo: false
   eval: true
@@ -1918,10 +1918,7 @@ Du hast ein Herz aus Stein
 [Property of Jesus, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
 
 
-## Lebenshaltung: Dylan
-
-::: {style="font-size: 2rem"}
-
+::: notes
 Du kannst über Erlösung lachen, du kannst Olympische Spiele spielen  
 Du denkst, wenn du endlich zur Ruhe kommst,  
 gehst du dorthin zurück, wo du hergekommen bist  
@@ -1934,11 +1931,9 @@ Er gehört Jesus
 Hasse ihn bis ins Mark  
 Du hast was Besseres  
 Du hast ein Herz aus Stein
-:::
 
 [Property of Jesus, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
 
-::: notes
 Stop your conversation when he passes on the street  
 Hope he falls upon himself, oh, won’t that be sweet  
 Because he can’t be exploited by superstition anymore  
@@ -2334,9 +2329,8 @@ include_graphics("libs/_Images/philosophy-of-modern-song.jpg")
 ::: {style="font-size: 2rem"}
 * Spirituelle Liebeslieder u. a.:  
   Love Minus Zero / No Limit; Is Your Love in Vain; <br>Abandoned Love; Isis
-* Einweihung (nicht ganz einfach zugänglich):  
-  Changing of the Guards; Senor (Tales of Yankee Power)
-* Gebete: neben *Every Grain of Sand* siehe auch *Lord, Protect My Child*  
+* Einweihung, Verwandlung (nicht ganz einfach zugänglich):  
+  Changing of the Guards; Senor (Tales of Yankee Power); <br>Lily, Rosemary and the Jack of Hearts
 * Einige Anregungen zum spirituellen Zugang:
   + Blog: Spiritualität Dresden 
     <https://spiritualitaet-dresden.de/>
