@@ -2070,7 +2070,7 @@ You ask me about myself, but I’m becoming less and less defined as Christ beco
 #### Böhme
 
 > Wer nicht stirbt, bevor er stirbt,  
-Der verdirbt, wenn er stirbt.“
+Der verdirbt, wenn er stirbt.
 
 [Der Satz wurde unter anderen auch Angelus Silesius (1624 - 1677) zugeschrieben]{style="font-size: 1.5rem"}
 
@@ -2274,7 +2274,7 @@ include_graphics("libs/_Images/Böhme-Grabkreuz-1682-Wikimedia.jpg")
   + *Rolling Thunder Revue* (2019) <br>von **Martin Scorsese**, spielt 1975
   + *A Complete Unknown* (2024) <br>von James Mangold
 * Filme mit Bob Dylan
-  + *Pat Garret jagd Billy The Kid* (1973)
+  + *Pat Garret Jagt Billy The Kid* (1973)
   + *Masked and Anonymous* (2003)
 :::
 
