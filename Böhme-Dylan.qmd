@@ -2271,7 +2271,7 @@ include_graphics("libs/_Images/Böhme-Grabkreuz-1682-Wikimedia.jpg")
   + *Don't Look Back* (1965) von D. A. Pennebaker
   + *No Direction Home* (2005) <br>von **Martin Scorsese**
   + *I'm Not There* (2007) von Todd Haynes
-  + *Rolling Thunder Review* (2019) <br>von **Martin Scorsese**, spielt 1975
+  + *Rolling Thunder Revue* (2019) <br>von **Martin Scorsese**, spielt 1975
   + *A Complete Unknown* (2024) <br>von James Mangold
 * Filme mit Bob Dylan
   + *Pat Garret jagd Billy The Kid* (1973)
