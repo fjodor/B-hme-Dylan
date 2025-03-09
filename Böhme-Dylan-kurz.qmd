@@ -1,0 +1,2653 @@
+---
+title: "Jakob Böhme <br>und Bob Dylan:<br>Spirituelle Geistes-verwandtschaft"
+# author: "Wolf Riepl"
+title-slide-attributes: 
+  data-background-color: "#D7E6F4"
+subtitle: ""
+format:
+  revealjs:
+    # theme: blood
+    theme: league
+    # slide-number: speaker
+    # slide-number: true
+execute:
+  echo: false
+  eval: true
+  freeze: auto
+  warning: false
+  message: false
+callout-appearance: simple
+---
+
+## [Böhme - Dylan: Vergleichbar?]{style="font-size: 2.6rem"}
+
+```{r}
+library(knitr)
+```
+
+::::: {.incremental style="font-size: 2rem"}
+:::: columns
+::: column
+
+### Jakob Böhme
+
+```{r}
+#| out-width: "35%"
+#| out-height: "35%"
+#| fig-align: "center"
+
+include_graphics("libs/_Images/Jacob-Böhme.jpg")
+```
+
+* 1575 - 1624
+* Schuster
+* später Garnhändler
+* Buchautor
+
+[Gemälde von Christoph Gottlob Glymann, Wikimedia Commons]{style="font-size: 1.5rem"}
+:::
+
+::: {.fragment .column}
+
+### Bob Dylan
+
+```{r}
+#| out-width: "50%"
+#| out-height: "50%"
+#| fig-align: "center"
+
+include_graphics("libs/_Images/Dylan-gif1.webp")
+```
+
+* geboren 1941
+* *"Song and Dance Man"*: <br>Sänger und Songschreiber
+* Buchautor, Regisseur, Darsteller in einigen Filmen; Maler, Bildhauer
+
+[Bildquelle: giphy.com]{style="font-size: 1.5rem"}
+:::
+::::
+:::::
+
+::: notes
+Warum?
+* Neues lernen?
+* Freue mich mehr, wenn etwas in Ihnen Resonanz hervorruft
+* "Mit dem Herzen hören"
+* Will Sie von nichts überzeugen
+* Mosaik: Wunsch, erst Bild erhalten, Austausch am liebsten am Ende
+* Ernst, auch unterhaltsam; 2x reden wir über das Schwergewichtsboxen
+
+Böhme und Dylan: Parallelen?
+
+* Inspiration, die über persönliche Vermögen hinausgeht
+* Erstaunliche Produktivität
+* Beide gelten als schwer verständlich
+* Spiritueller Pfad
+  + Selbstübergabe an höhere Kraft
+  + Der Mensch als Werkzeug dieser Kraft
+  + Wiedergeburt des Göttlichen im Menschen
+  + Bedingungslose Akzeptanz der Lebensumstände
+:::
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+[**Anerkennung, Produktivität**]{style="color: yellow"}
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Versuchung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Befreiung und Verwandlung
+
+Empfehlungen, Ausblick
+:::
+
+::: notes
+:::
+
+
+## Thesen zu Dylan
+
+::: incremental
+* Bob Dylan ist ein Relikt der 1960er Jahre: früh berühmt geworden als Protestsänger, und dann eben nicht so früh gestorben wie etwa der "Klub 27"
+* Bob Dylan konvertierte zum Christentum mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich vom Christentum abgewandt
+:::
+
+::: notes
+
+* Jakob Böhme genießt in spirituellen Kreisen einen weitaus besseren Ruf als Dylan. In Böhmes Fall zurecht - über Dylan reden wir ...
+* Klub 27:  Jim Morrison, Brian Jones, Janis Joplin, Jimi Hendrix (alle 1969 - 1971); Kurt Cobain (1994); Amy Winehouse (2011)
+:::
+
+
+## Jakob Böhme: Anerkennung
+
+> Im Wasser lebt der Fisch, die Pflanze in der Erden,  
+Der Vogel in der Luft, die Sonn im Firmament,  
+Der Salamander muß im Feuer erhalten werden,  
+Und Gottes Herz ist Jakob Böhmes Element.
+
+Angelus Silesius (1624 - 1677)
+
+
+## Jakob Böhme: Anerkennung
+
+> Jakob Böhme ist der erste deutsche Philosoph,  
+der Inhalt seines Philosophierens ist echt deutsch.
+
+Georg Wilhelm Friedrich Hegel (1770 - 1831)
+
+::: notes
+
+> Jakob Böhme, der Mann, dessen Schriften alles das gediegen und in einer festen Masse enthalten, was uns seine albernen Nachfolger mit einer bloß scheinbaren Verständlichkeit verdünnt und verdorben übergeben, ist und bleibt einer der ersten Schriftsteller unserer Nation.
+
+Georg Christoph Lichtenberg (1742-1799)
+
+> Der bedeutendste von diesen allen ist offenbar der spätere Jacob Böhme, dem man unter den Philosophen dieser Periode überhaupt wohl die erste Stelle einräumen könnte. [...]
+
+> Er ist ohne Zweifel der umfassendste, reichhaltigste und mannigfaltigste von allen Mystikern. Er verbreitet sich über alle Teile, die von andern nur einzeln bearbeitet oder ganz unberührt gelassen wurden.
+
+Friedrich Schlegel (1772 - 1829)
+
+
+Karl Wilhelm Friedrich Schlegel (* 10. März 1772 in Hannover; † 12. Januar 1829 in Dresden), seit 1814 von Schlegel, meist kurz Friedrich Schlegel genannt, war ein deutscher Kulturphilosoph, Schriftsteller, Literatur- und Kunstkritiker, Historiker und Altphilologe. Friedrich Schlegel war neben seinem Bruder August Wilhelm Schlegel einer der wichtigsten Vertreter der „Jenaer Frühromantik“. Schlegels Ziel war nach eigenem Bekunden die verbindende Darstellung von Philosophie, Prosa, Poesie, Genialität und Kritik. Wichtige Motive dieses Strebens waren die Konzeptionen einer „progressiven Universalpoesie“, der romantischen Ironie und einer „neuen Mythologie“.
+
+Schlegel gilt als Pionier der Sprachtypologie und bahnbrechender Indologe, ohne dass er jemals in Indien war. Seine Monographie Über die Sprache und Weisheit der Indier lenkte große Aufmerksamkeit auf Indien. Der Aphoristiker Schlegel, „gemeinhin als ein genialischer Chaot mit sprunghaften Einfällen betrachtet“, inspirierte unter anderen den Historiker Leopold von Ranke. Sein essayistisches Werk wurde von Marcel Reich-Ranicki in dessen Kanon aufgenommen.
+:::
+
+
+## Jakob Böhme: Anerkennung
+
+> Der Schuster Jakob Böhme war ein großer Philosoph!  
+Manche Philosophen von Ruf sind nur große Schuster.
+
+:::: columns
+::: column
+
+Karl Marx (1818 - 1883)
+
+[Brunnendenkmal Jakob Böhme<br>im Park des Friedens, Görlitz<br>gegossen 1898<br>Urheber: Johannes Pfuhl<br>Quelle: stadtwiki-goerlitz.de]{style="font-size: 1.5rem"}
+
+:::
+
+::: column
+```{r}
+#| fig-align: "center"
+#| out-width: "55%"
+#| out-height: "55%"
+
+include_graphics("libs/_Images/Böhme-Denkmal.jpg")
+```
+:::
+::::
+
+
+## Jakob Böhme: Anerkennung
+
+> Jakob Böhmes Schriftchen *Von der Gnadenwahl* möchte ich zu den tiefsten Erleuchtungen der ganzen Christenheit rechnen.
+
+Leopold Ziegler (1881 - 1958)
+
+
+## Bob Dylan: Relikt der 1960er?
+
+* Wurde ab 1962 als Folk- und Protestsänger bekannt
+* Einige Songs aus dieser Zeit:  
+  + *Blowin' in the Wind*
+  + *The Times They Are A'Changin'*
+  + *With God On Our Side*
+  + *Desolation Row*
+  + *Like a Rolling Stone*
+
+
+::: notes
+* *Like a Rolling Stone* hat viele Musiker, Bruce Springsteen ("The Boss") und Wolfgang Niedecken (BAP) stark beeinflusst. Das *Rolling Stone*-Musikmagazin platzierte den Song 2004 auf Platz 1 der 500 Besten Songs aller Zeiten, 2010 erneut. 2021 in der überarbeiteten Rangliste landete er noch auf Rang 4.
+* Desolation Row: Deutsche Versionen u. a. von Stefan Waggershausen: *Traumtanzzeit*, sowie von einem unbekannteren Künstler Youtube @lhqweginger: *Straße der Verdammnis*
+:::
+
+
+## Bob Dylan: Anerkennung
+
+> Er hatte den Weitblick und das Talent, einen Popsong so lange auszudehnen, bis er die ganze Welt enthielt.
+
+Bruce Springsteen  
+[Rede zur Aufnahme von Dylan in die Rock 'n Roll Hall of Fame, 1988]{style="font-size: 1.5rem"}
+
+
+::: notes
+
+Quelle: https://www.coveredbybrucespringsteen.com/viewcover.aspx?recordID=103
+
+> He had the vision and the talent to expand a pop song until it contained the whole world.
+> [...] Without Bob, the Beatles wouldn’t have made Sergeant Pepper, maybe the Beach Boys wouldn’t have made Pet Sounds, the Sex Pistols wouldn’t have made ‘God Save the Queen,’ U2 wouldn’t have done ‘Pride in the Name of Love,’ Marvin Gaye wouldn’t have done ‘What’s Goin’On,’ Grandmaster Flash might not have done ‘The Message,’ and the Count Five could not have done ‘Psychotic Reaction.’
+> And speaking as fan, I guess when I was 15, and I heard ‘Like a Rolling Stone,’ I heard a guy that, like I’ve never heard before or since. A guy that had the guts to take on the whole world, and made me feel like I had ’em too. And maybe some people mistook that voice to be saying somehow that you were gonna do the job for ’em. And as we know, as we grow older, that there isn’t anybody out there that can do that job for anybody else.
+:::
+
+
+## Bob Dylan: Anerkennung
+
+> Songs zu schreiben ist wie in einem Strom zu fischen;  
+> Du wirfst Deine Angelrute aus und hoffst, etwas zu fangen.
+> Und ich glaube nicht, dass irgend jemand stromabwärts von Bob Dylan  
+> jemals etwas gefangen hat.
+
+Arlo Guthrie  
+[zitiert von Paul Zollo im Interview mit Dylan, 1991]{style="font-size: 1.5rem"}
+
+::: notes
+SongTalk Interview 1991 mit Bob Dylan; Paul Zollo;   https://americansongwriter.com/bob-dylan-the-interview-part-1/  
+abgerufen am 21.07.2024
+> *Songwriting is like fishing in a stream;*  
+> *you put in your line and hope you catch something.*  
+> *And I don’t think anyone downstream from Bob Dylan ever caught anything.*  
+:::
+
+
+## Bob Dylan: Anerkennung
+
+> Es gibt schlichtweg keinen anderen Künstler in der populären Kunst – mit Ausnahme von Leonard Cohen –, der so aus seinen ureigensten **seelischen Inhalten** schöpft, wie es Dylan tut.
+
+Peter Post
+
+
+::: notes
+Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
+
+> Ich bin überhaupt nicht religiös. Wenn man so will, bin ich Agnostiker, das heißt, mich interessiert die Frage nicht, ob es einen Gott gibt oder nicht. Aber diese „religiösen“ Dylan-Platten spielten sehr wohl eine – sogar eine sehr große Rolle in meinem Leben. Sie haben mich gefühlsmäßig sehr angesprochen. Da einen Widerspruch zu sehen, interessiert mich nicht weiter.
+
+> Die Atmosphäre in Dylans Kunst ist von einem hohen Maß an Echtheit gekennzeichnet. Darin liegt das Faszinierende. [...] Ich kann nichts Verschlossenes oder Mystifizierendes sehen – sein Werk ist eine Offenbarung. In dem, was er macht, ist er präsent. Diese Präsenz, dieses Persönliche, gibt es bei keinem anderen Künstler.
+
+Peter Post
+
+Merkwürdig aber ist, daß eine andere Musik, die eine vergleichbare Wirkung auf mich hatte, ebenfalls von Christlich-Religiösem getragen wird: die Johann Sebastian Bachs. (Den quasi areligiösen Richard Wagner habe ich erst vor zwei Jahren entdeckt.) Es ist eine unglaubliche Musik; man fragt sich, wie ein Mensch so etwas erschaffen kann. Auch hier ist es die pure Faszination – nur aus dem Gefühl heraus.
+
+...
+
+Für mich stehen bei Dylan – was man denken könnte – die Texte nicht im Mittelpunkt; und schon gar nicht gehöre ich zu den Dylanologen. Für mich steht auch nicht die Musik im Mittelpunkt. Worum geht es bei Dylan überhaupt?
+
+Es hängt mit der erwähnten Faszination zusammen, die natürlich auch andere Schaffensphasen als die „christliche“ betrifft. Es hängt mit einer gewissen Haltung zusammen. Auch andere seiner Werke zeugen natürlich von besagter Ernsthaftigkeit und großer persönlicher Betroffenheit. Es gibt schlichtweg keinen anderen Künstler in der populären Kunst – mit Ausnahme von Leonard Cohen –, der so aus seinen ureigensten seelischen Inhalten schöpft, wie es Dylan tut.
+
+Die Atmosphäre in Dylans Kunst ist von einem hohen Maß an Echtheit gekennzeichnet. Darin liegt das Faszinierende. Das liegt seinem Schaffen zugrunde und drückt sich – mit welchen Symbolismen er mitunter auch arbeiten mag – in diesem aus. Ich kann nichts Verschlossenes oder Mystifizierendes sehen – sein Werk ist eine Offenbarung. In dem, was er macht, ist er präsent. Diese Präsenz, dieses Persönliche, gibt es bei keinem anderen Künstler.
+
+Wenn weder im Text noch in der Musik das Wesentliche und Besondere in Dylans Kunst zu suchen ist, sondern im seelischen Antrieb, der diesen zugrunde liegt, wie würde ich dann an deutsche Fassungen herangehen? – Es hat sich von Anfang an von selbst ergeben, daß ich einfach nahe am Original bleibe. Ich liebe diese Lieder, so wie sie sind, und will sie so lassen; es gab keine „wandering desires“.
+
+Es ist legitim und oft sehr sinnvoll, wenn Rockmusik Unterhaltungskunst ist. Wenn besagte Präsenz aber darüber hinausführt, so kann das seine Ursache auch darin haben, daß der Künstler nicht einfach viel intelligenter und sensibler als andere ist, sondern daß die Kunst für ihn ein Mittel ist, ein Mehr an Präsenz zu erreichen, daß er sich durch die Kunst eine größere Selbstwahrnehmung und -bestätigung verschafft. Was aber wäre, wenn dieser Mensch erst präsent wird, indem er sich als Künstler betätigt, was, wenn er Lieder schriebe, um dadurch überhaupt Präsenz zu gewinnen?
+
+Vielleicht liegt dem riesigen Dylan’schen Œuvre ein entsprechender Zwang zugrunde (dem dann auch der Fan unterläge). Dylan ist ohne Ende auf Tournee, und er hat Hunderte von Liedern geschrieben, von denen viele gar nicht veröffentlicht worden sind.
+
+...
+
+Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von Saved und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient seelisch nicht ähnlich verfaßt wäre wie der Künstler. Auf den Punkt gebracht lautet diese Verfassung: Ich bin nicht da; beziehungsweise – in den Gefühlen der Liebe dann –: Endlich bin ich da.
+:::
+
+
+## Bob Dylan: Anerkennung
+
+::: {.incremental style="font-size: 2.3rem"}
+
+* **Nobelpreis für Literatur** 2016
+* **Oscar** und **Golden Globe** für *Things Have Changed* <br>(Soundtrack zu *Wonderboys* mit Michael Douglas) 2000
+* Personen, die sowohl einen Nobelpreis als auch einen Oscar gewannen:  
+  **George Bernard Shaw** und **Bob Dylan**
+* Personen, die Nobelpreis, Oscar, **Grammy**, **Golden Globe** und **Pulitzer-Preis** gewannen: nur Bob Dylan
+* Rolling Stone Magazine, 100 Größte Songwriter aller Zeiten: **Platz 1**
+:::
+
+::: notes
+* In welchem Jahr hat Bob Dylan erstmals eine Single auf Platz 1 der US-Charts platziert?
+2020: Murder Most Foul, 16:55 Minuten lang
+* 100 Größte Songwriter: 2. Paul McCartney, 3. John Lennon, 4. Chuck Berry, 5. Smokey Robinson, 6. Jagger / Richards, 7. Carole King und Gerry Goffin, 8. Paul Simon, 9. Joni Mitchell, 10. Stevie Wonder, 11. Bob Marley, 12. Brian Wilson, 13. Hank Williams, 14. Bruce Springsteen, 15. Eddie Holland, Lamont Dozier und Brian Holland, 16. Leonard Cohen, 17. Neil Young, 18. Prince, 19. Ellie Greenwich und Jeff Barry, 20. Jerry Leiber und Mike Stoller
+* 24. Elvis Costello, 28. Woody Guthrie, 29. Buddy Holly, 30. Pete Townshend
+
+Paul Simon, Platz 8, über Dylan:  
+"One of my deficiencies is my voice sounds sincere," Simon told Rolling Stone in 2012. "I've tried to sound ironic. I don't. I can't. Dylan, everything he sings has two meanings. He's telling you the truth and making fun of you at the same time. I sound sincere every time."
+https://www.rollingstone.com/interactive/lists-100-greatest-songwriters/#paul-simon
+
+Aus https://www.nationalgallery.ie/art-and-artists/exhibitions/shaw-and-gallery-priceless-education/five-things-about-GBS
+
+Shaw is one of only two people to have won both an Academy Award and a Nobel Prize for Literature. He was awarded the Nobel Prize in 1925; the committee said that his work was “marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty”. With typical Shavian wit, he initially declined to accept, saying “I can forgive Nobel for inventing dynamite, but only a fiend in human form could have invented the Nobel Prize”. He later relented and agreed to accept the award itself, but not the prize money, suggesting that it be used instead to fund the translation of works by the Swedish playwright August Strindberg into English. 
+
+Shaw won his Oscar in 1939 for Best Writing, Screenplay for his role in adapting his own play Pygmalion for the screen. Pygmalion would go on to be remade as the wildly successful musical and film My Fair Lady. 
+
+:::
+
+
+## Bob Dylan: Anerkennung
+
+> Bob Dylan den Nobelpreis zu geben ist so, wie eine Medaille an Mount Everest zu heften, um ihn als höchsten Berg zu kennzeichnen.
+
+Leonard Cohen, 13.10.2016, dem Tag der Bekanntgabe des Literaturnobelpreises 2016 an Dylan
+
+
+::: notes
+Leonard Cohen: To me [the award] is like pinning a medal on Mount Everest for being the highest mountain.
+Q & A about his latest album, "You Want it Darker"
+:::
+
+```{r}
+#| fig.align: "center"
+
+include_graphics("libs/_Images/Leonard Cohen 2016.png")
+```
+
+[Urheber: Divulgação/Frank Micelotta]{style="font-size: 1.5rem"}
+
+
+## Dylan: Raus aus Schubladen
+
+::: {style="font-size: 1.9rem"}
+* Hat immer wieder Erwartungen von Fans und Öffentlichkeit enttäuscht
+* Bekanntes Beispiel: Folk-Festival Newport 1965: Dylan & Band elektrisch
+:::
+
+::: fragment
+```{r}
+#| out-width: "50%"
+#| out-height: "50%"
+
+include_graphics("libs/_Images/Dylan-Judas-Zahnbürste.jpeg")
+```
+[Urheber: Clive Goddart]{style="font-size: 1.5rem"}
+:::
+
+::: notes
+Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurückzukommen, er spielte noch akustische Songs. Dann 37 Jahre nicht mehr in Newport. 2002 trat er erst wieder dort auf, mit Perücke und falschem Bart ...
+:::
+
+
+## Jakob Böhme: Produktivität
+
+* Geistige Schau 1600, mit 25 Jahren
+* Erst 1612 *Aurora oder Morgenröte im Aufgang*
+* Handschriftlich, für sich selbst geschrieben, Freunde fertigten ohne sein Wissen Abschriften
+* Görlitzer Pfarrer Gregor Richter erwirkte 1613 beim Stadtrat Schreibverbot
+* Erst 1619 schrieb Böhme wieder, ihm blieben nur noch fünf Jahre
+
+
+## Jakob Böhme: Produktivität
+
+::: {style="font-size: 1.8rem"}
+
+* 1619: Die drei Prinzipien göttlichen Wesens
+* 1620: Vom dreifachen Leben des Menschen
+* 1620: Von der Menschwerdung Jesu Christi
+* 1620: Gründlicher Bericht vom Irdischen und Himmlischen
+* 1620: Von sechs theosophischen und mystischen Punkten
+* 1622: De Signatura Rerum (von der Geburt und Bezeichnung aller Wesen)
+* 1623: Mysterium Magnum: Umfassendes Werk über das Erste Buch Mose
+* 1623: Von der Gnadenwahl
+* 1624: Tafeln und Schlüssel (Clavis)
+* 1624: Der Weg zu Christo
+* 1624: 177 Fragen zur Betrachtung Göttlicher Offenbarung
+* 1621 - 1624: Schutz- und Verteidigungsschriften
+* 1618 - 1624: Theosophische Sendbriefe
+
+:::
+
+::: notes
+
+Der Weg zu Christo enthält:
+• Gespräch einer erleuchteten und unerleuchteten Seele
+• Vom übersinnlichen Leben
+• Von wahrer Buße
+• Von wahrer Gelassenheit
+• Von der neuen Wiedergeburt
+• Der Schlüssel zur Erkenntnis göttlicher Geheimnisse
+• Die hochteure Pforte von göttlicher Beschaulichkeit
+• Eine Trostschrift für die vier Komplexionen
+• Vom Heiligen Gebet
+:::
+
+
+## Bob Dylan: Produktivität
+
+::: {style="font-size: 1.8rem"}
+
+* Über 600 **Songs** geschrieben (genaue Zahl schwer zu bestimmen)
+* Über 4.000 **Konzerte**
+* Mehrere **Bücher**, neben Songtexten und Zeichnungen auch:
+  + 1966: Tarantula (1971 veröffentlicht)
+  + 2004: Chronicles, Vol. 1: Autobiographie
+  + 2022: The Philosophy of Modern Song
+* **Filme**:
+  + 1973: Pat Garrett and Billy the Kid: Dylan mit Soundtrack und Nebenrolle
+  + 1978: Renaldo and Clara; Dylan Regisseur und Darsteller
+  + 2003: Masked and Anonymous, Dylan Drehbuch und Hauptrolle; <br>u. a. mit Jeff Bridges, Penélope Cruz, Ed Harris, Val Kilmer
+* **Radio**: Theme Time Radio Hour, 2006 - 2015, 1x 2020; 102 (!) Episoden  
+:::
+
+::: notes
+* Rolling Stones: etwas über 2.000 Konzerte
+* Über 500 selbst geschriebene Songs auf Alben veröffentlicht
+* Über 150 Coversongs auf Alben, darunter über 20 mit neuem Text
+* 40 Studioalben, dazu etliche Live-Alben, ca. 20 Kompilationen
+* 17 Alben der Bootleg Series
+* Jeden Tag ein Konzert - dann wären das über 10 Jahre!
+
+* Seit 1988 *Never Ending Tour*, rund 100 Konzerte pro Jahr
+:::
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+[**Von der Kunst, Böhme zu lesen und Dylan zu hören**]{style="color: yellow"}
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Versuchung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Befreiung und Verwandlung
+
+Empfehlungen, Ausblick
+:::
+
+
+## Von der Kunst, Böhme zu lesen
+
+::: {style="font-size: 2.1rem"}
+Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt.  
+
+Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie das mystische Erleben selber – sie fordert ein vorübergehendes „Leerwerden“, eine völlig freie Aufmerksamkeit und Seelenstille.  
+:::
+
+[Hermann Hesse, Gesammelte Werke, Band 12, S. 95]{style="font-size: 1.5rem"}
+
+
+::: notes
+> Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt. Am schwersten kommt der gebildete Vielleser in ihn hinein. Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie das mystische Erleben selber – sie fordert ein vorübergehendes „Leerwerden“, eine völlig freie Aufmerksamkeit und Seelenstille. In den Stunden, wo diese uns fehlt, spricht Böhme nicht zu uns, ist er uns tot und öde, denn der Neugierde und dem bloßen intellektuellen Spieltrieb gibt er nichts. Aber in Stunden, wo wir reif für ihn sind, sehen wir in seinem mystischen Abbild der Welt die Sterne kreisen und ordnen uns in seinen Kosmos lebendig mit ein. 
+:::
+
+
+## Von der Kunst, Dylan zu hören
+
+Es ist offensichtlich, dass es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von *Saved* und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient **seelisch** nicht **ähnlich verfasst** wäre **wie der Künstler**.
+
+Peter Post
+
+
+::: notes
+Peter Post: http://peter-post.net/dylan-covers/dylan-und-ich-aufsatz/
+
+Es ist leicht zu ersehen, warum ich in diesem Maße von Dylan fasziniert bin und wo die Gemeinsamkeiten von Künstler und Rezipient liegen. Es ist offensichtlich, daß es zu solchen Kunsterlebnissen, wie ich sie beim Anhören von *Saved* und anderer Dylan-Platten hatte, nicht kommen kann, wenn der Rezipient **seelisch** nicht **ähnlich verfasst** wäre **wie der Künstler**. Auf den Punkt gebracht lautet diese Verfassung: **Ich bin nicht da**; beziehungsweise – in den Gefühlen der Liebe dann –: **Endlich bin ich da.**
+
+1966 war Bob Dylan bei einem Motorradunfall fast ums Leben gekommen: ein traumatisches Erlebnis, das ihn sicherlich auf den Kern seiner Person zurückgeworfen hat. In der Genesungsphase lud Dylan die Musiker von **The Band** zu sich ein, und es entstanden im Keller seines Hauses Lieder, die manchen Fans als einige seiner bedeutendsten gelten: Diese wurden auf Basement Tapes aufgenommen (die Originale landeten übrigens eigenartigerweise im Archiv von Neil Young) und später (1975) als solche veröffentlicht. Ein Lied wurde dabei ausgelassen, blieb viele Jahrzehnte unveröffentlicht und wurde zum Geheimtip; und das war das Lied mit dem Titel *I’m Not There*.
+
+Dieses Lied nimmt eine ganze besondere Stellung im Werk Dylans ein, ja, es ist ein Schlüssellied. Vier Akkorde sind die Grundlage für eine Art Improvisation, die in das einzig Notierte, nämlich diesen Kehrreim endet: „Ich bin nicht da.“ Der Text scheint nicht nur improvisiert zu sein, sondern ist an vielen Stellen schlicht unverständlich. Dylan benutzt eine Privatsprache und scheint auf Worte und hergebrachte Wortbedeutungen keine große Rücksicht zu nehmen – alles fließt direkt aus seinen Gefühlen und aus seinem Unterbewußten. Kognitives ist bei der Eroberung von Präsenz kaum von Bedeutung; das wird er später im Song *Standing In The Doorway* sagen: „I see nothing to be gained by any explanation.“ *I’m Not There* ist direkter Ausdruck seines Innersten.
+:::
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+[**Gott- und Welterkenntnis; Quellen der Inspiration**]{style="color: yellow"}
+
+Vom Beten; Wem willst Du dienen; Versuchung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Befreiung und Verwandlung
+
+Empfehlungen, Ausblick
+:::
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
+Adam war ein Mensch und ein Bild Gottes,  
+ein Gleichnis von Gott.
+
+Das Licht schien in ihm.  
+Er stand in großer Schönheit, Freude und Lust,  
+mit einem kindlichen Gemüte.
+
+
+[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
+
+
+[Dieser und die folgenden Auszüge wurden von **Ronald Steckel** zusammengestellt und sind dem Transkript des Films ***Morgenröte im Aufgang*** entnommen. Großer Dank an **Steckel, Klaus Weingarten, Jan Korthäuer, Max Hopp** und das **nootheater** und die **Organisation zur Umwandlung des Kinos** für die Veröffentlichung.<br>]{style="font-size: 1.5rem; line-height: 80%"}
+
+:::notes
+Vor den Zeiten der Welt ist das Modell des Menschen  
+als eine Form in Göttlicher Weisheit erkannt worden,  
+aber in keinem Geschöpf oder Bilde gestanden,  
+sondern auf magische Art,  
+wie einem im Traum ein Bilde erscheint,  
+welches ohne Wesen ist.
+
+Aber die Tiefe ohne Grund wollte sich in Gleichnissen offenbaren -  
+wie in einer Jungfräulichen Figur,  
+als ein Spiegel der Gottheit und Ewigkeit  
+in Grund und Ungrund,  
+als ein Auge der Herrlichkeit Gottes.  
+Und nach diesem Auge, und in diesem Auge  
+wurden die Throne der Fürsten geschaffen als Engel;  
+und endlich der Mensch.  
+Adam war ein Mensch und ein Bild Gottes,  
+ein Gleichnis von Gott.
+
+[Vom Irrtum der Sekten Es. Stiefels und Ez. Meths, 57]{style="font-size: 1.5rem"}
+[Von der Menschwerdung Jesu Christi, I, 5, 2]{style="font-size: 1.5rem"}
+[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
+
+Er war <u>ein</u> Mensch, und nicht zwei,  
+er war der Mann und auch die Frau,  
+und sollte ein engelhaftes Reich aus sich gebären.  
+Er hatte Fleisch und Blut, aber himmlisch,  
+sein Wesen ("Essentien") war heilig. 
+
+[Von dem Dreyfachen Leben des Menschen, 7, 25]{style="font-size: 1.5rem"}
+
+:::
+
+
+## Göttlicher Ursprung des Menschen: Böhme
+
+Sein Kleid war die Klarheit in der Kraft Gottes,  
+sein Sehen war Tag und Nacht  
+mit geöffneten Augen ohne Wimpern,  
+in ihm war kein Schlaf, und  
+in seinem Gemüte keine Nacht:  
+denn in seinen Augen war die Göttliche Kraft,  
+und er war ganz und vollkommen. 
+
+
+[Beschreibung der Drey Principien Göttliches Wesens, 10, 18]{style="font-size: 1.5rem"}
+
+
+## Göttlicher Ursprung des Menschen: Dylan
+
+:::: columns
+::: {.column width="65%" style="font-size: 2rem"}
+Du wurdest mit Schlangen in beiden Händen geboren  
+Als ein Hurricane brauste  
+Deine Freiheit liegt gleich hier um die Ecke  
+Doch wenn Du so weit von der Wahrheit entfernt bist  
+Was nützt es Dir?
+
+[Jokerman, Album *Infidels*, 1983]{style="font-size: 1.5rem"}
+:::
+
+::: {.column width="35%"}
+```{r}
+#| fig.align: "center"
+#| out.width: "75%"
+#| out.height: "75%"
+
+include_graphics("libs/_Images/Johfra-Sohn-der-Schlangen.jpg")
+```
+
+[Urheber: Johfra Bosschart <br> "Sohn der Schlangen", 1959]{style="font-size: 1.4rem"}
+:::
+::::
+
+
+::: notes
+You were born with a snake in both of your fists  
+While a hurricane was blowing  
+Freedom just around the corner for you  
+But with the truth so far off, what good will it do?
+
+ÄU 1, Klappentext
+"Er hat es sich selbst, lebend, zu einem Grabe gemacht." Aus diesem Grab der Natur steigt der Sohn empor, bekleidet mit dem goldenen Hochzeitskleid der neuen Seele. Er ist der neue Merkur, der dreimal große Hermes. Sein Haupt schmückt die goldene Wunderblume des neuen Denkvermögens, seine Hände halten die beiden feurigen Schlangen des erneuerten spinalen Fluidums, die positive und die negative Ansicht. Die fünf Kontaktpunkte zwischen der neuen Seele und der transfigurierten Persönlichkeit strahlen als Rosen. Er hat seinen Pymander gefunden.
+
+So steigt er empor von Herrlichkeit zu Herrlichkeit, vereint mit dem Geist, und lässt das Totengebein, die vielen missglückten Versuche, in der Wüste der dialektischen Vergangenheit zurück.
+:::
+
+
+## Welterkenntnis: Böhme
+
+... und betrachtete in meinem Geist die ganze Schöpfung dieser Welt.
+
+Darin fand ich dann **in allen Dingen Böses und Gutes, Liebe und Zorn**, sowohl in den unvernünftigen Kreaturen, in Holz, Steinen, Erden und Elementen, wie auch in den Menschen und Tieren.
+
+
+[Aurora, Die Bedeutung von Himmel und Erde, 19.5 - 19.6]{style="font-size: 1.5rem"}
+
+
+## Welterkenntnis: Dylan
+
+Ich habe die ganze Welt durchsucht nach dem Heiligen Gral  
+Ich singe Songs von Liebe - ich singe Songs von Betrug
+
+
+[False Prophet, Album *Rough and Rowdy Ways*, 2020]{style="font-size: 1.5rem"}
+
+```{r}
+#| fig.align: "center"
+include_graphics("libs/_Images/RoughAndRowdyWays.jpg")
+```
+
+
+::: notes
+**False Prophet**
+
+I’ve searched the world over for the Holy Grail  
+I sing songs of love - I sing songs of betrayal
+
+**Jokerman**
+
+Well, the rifleman’s stalking the sick and the lame  
+Preacherman seeks the same, who’ll get there first is uncertain  
+
+Nightsticks and water cannons, tear gas, padlocks  
+Molotov cocktails and rocks behind every curtain  
+False-hearted judges dying in the webs that they spin  
+Only a matter of time ’til night comes steppin’ in  
+
+Knüppel, Wasserwerfer, Tränengas, Vorhängeschlösser  
+Molotovcocktails und Steine hinter jedem Vorhang  
+Falschherzige Richter sterben in den Netzen, die sie spinnen  
+Nur eine Frage der Zeit, bis die Nacht anbricht
+
+**No Time to Think (Street Legal, 1978)**
+
+China doll, alcohol, duality, mortality  
+Mercury rules you and destiny fools you  
+Like the plague, with a dangerous wink  
+And there’s no time to think
+
+Porzellanpuppe, Alkohol, Dualität, Sterblichkeit  
+Merkur regiert dich und das Schicksal täuscht dich  
+Wie die Pest, mit einem gefährlichen Augenzwinkern  
+Und es bleibt keine Zeit zum Nachdenken
+:::
+
+
+## Gott in der Natur erkennen: Böhme
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+
+In diesem Licht hat mein Geist  
+bald durch alles hindurchgesehen  
+und an allen Kreaturen,  
+sogar an Kraut und Gras,  
+Gott erkannt,  
+wer und wie Er sei  
+und was Sein Wille ist.
+
+[Aurora, 19.13]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+#| out.width: "85%"
+#| out.height: "85%"
+
+include_graphics("libs/_Images/Morgenröte-Film.jpg")
+```
+:::
+::::
+
+
+## Gott in der Natur erkennen: Dylan
+
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+Im Eifer des gegenwärtigen Moments  
+Erkenne ich die Hand des HERRN  
+In jedem Blatt, das zittert,  
+In jedem Körnchen Sand.  
+
+[Every Grain of Sand, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+#| out.width: "70%"
+#| out.height: "70%"
+
+include_graphics("libs/_Images/arianna-welke-unsplash.jpg")
+```
+[Quelle: unsplash.com, Arianna Welke]{style="font-size: 1.5rem"}
+:::
+::::
+
+
+::: notes
+In the time of my confession, in the hour of my deepest need  
+When the pool of tears beneath my feet flood every newborn seed  
+There’s a dyin’ voice within me reaching out somewhere  
+Toiling in the danger and in the morals of despair  
+
+Don’t have the inclination to look back on any mistake  
+Like Cain, I now behold this chain of events that I must break  
+In the fury of the moment I can see the Master’s hand  
+In every leaf that trembles, in every grain of sand  
+
+Oh, the flowers of indulgence and the weeds of yesteryear  
+Like criminals, they have choked the breath of conscience and good cheer  
+The sun beat down upon the steps of time to light the way  
+To ease the pain of idleness and the memory of decay  
+
+I gaze into the doorway of temptation’s angry flame  
+And every time I pass that way I always hear my name  
+Then onward in my journey I come to understand  
+That every hair is numbered like every grain of sand  
+
+I have gone from rags to riches in the sorrow of the night  
+In the violence of a summer’s dream, in the chill of a wintry light  
+In the bitter dance of loneliness fading into space  
+In the broken mirror of innocence on each forgotten face  
+
+I hear the ancient footsteps like the motion of the sea  
+Sometimes I turn, there’s someone there, other times it’s only me  
+I am hanging in the balance of the reality of man  
+Like every sparrow falling, like every grain of sand
+:::
+
+
+## Quellen der Inspiration: Böhme
+
+Mein Buch hat nur drei Blätter,  
+das sind die drei Prinzipien der Ewigkeit;  
+darinnen kann ich alles finden.  
+Ich benötige kein anderes Buch.  
+
+Denn das Buch ist der Mensch selber:  
+weil er selbst das Gleichnis der Gottheit ist;  
+das große Geheimnis liegt in ihm,  
+aber das Offenbaren gehört dem Geiste Gottes.  
+
+
+[Theosophische Sendbriefe 12, 15, 14, 20]{style="font-size: 1.5rem"}
+
+
+## Quellen der Inspiration: Dylan
+
+> Niemand, der bei klarem Verstand ist, würde behaupten, es käme von ihm selbst, dass er es erfunden hat. Es strömt nur durch ihn hindurch.
+
+[Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
+
+
+::: notes
+Interview von 1980
+
+Karen Hughes: Do you find that, as a composer, you’re more like a medium, tuning into something greater happening?
+Bob Dylan: I think every composer does that. No one in his right mind would think that it was coming from him, that he has invented it. It’s just coming through him.
+
+Dylan in Interviews ...  
+Beispiel:  
+Interview mit Nat Hentoff, Playboy, März 1966 (kurz vor Dylans 25. Geburtstag)
+
+S. 108  
+Dylan: ... Ich *weiß*, worüber meine Songs sind.  
+Playboy: Worüber sind sie denn?    
+Dylan: Oh, einige sind über vier Minuten, einige sind über fünf Minuten, und einige, ob du es glaubst oder nicht, sind über 11 Minuten.
+[...]
+
+S. 117  
+Playboy: Fährst Du noch viel Motorrad?  
+Dylan: Ich bin immer noch sehr patriotisch in meiner Haltung zur Autobahn, aber ich fahre kaum noch, nein.  
+Playboy: Woher bekommst Du dann Deinen Kick im Leben?  
+Dylan: Ich bezahle Leute dafür, mir in die Augen zu schauen, und dann lasse ich sie mich kicken.  
+Playboy: So bekommst Du den Kick im Leben?  
+Dylan: Nein. Dann *vergebe* ich ihnen, und erst dann setzt mein Kick ein.  
+Playboy: Du hast einem Interviewer letztes Jahr gesagt: *"Ich habe alles getan, was ich jemals tun wollte."* Wenn das stimmt, was bleibt dir überhaupt noch, worauf du dich freuen kannst?  
+Dylan: Erlösung. Einfach nur Erlösung. [Salvation. Just plain salvation.]  
+Playboy: Sonst noch etwas?  
+Dylan: Beten. - Außerdem würde ich gern eine Zeitschrift für Kochrezepte gründen. Und ich wollte immer ein Schiedsrichter beim Boxen sein. Ich möchte Schiedsrichter sein bei einem Weltmeisterschaftskampf im Schwergewicht. Kannst du dir das vorstellen? Kannst du dir einen Kämpfer bei klarem Verstand vorstellen, der mich als Schiedsrichter respektiert?  
+:::
+
+
+## Quellen der Inspiration: Böhme
+
+::: {style="font-size: 2.2rem"}
+*Der Jünger sprach zum Meister:*  
+Wie kann ich zu dem übersinnlichen Leben kommen, so daß ich Gott sehe und sprechen höre?  
+
+*Der Meister sprach:*  
+Wenn du dich nur einen Augenblick dahin schwingen kannst, wo keine Kreatur wohnt, dann hörst du, was Gott spricht.
+
+::: fragment
+
+Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. Dein eigenes Hören, Wollen und Sehen verhindert, daß du Gott siehst oder hörst.
+:::
+:::
+
+[Vom Übersinnlichen Leben; aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
+
+
+::: notes
+Der Jünger sprach: Ist das nah oder fern?
+
+Der Meister sprach: Es ist in dir, und wenn du nur eine Stunde schweigen kannst von all deinem Wollen und Sinnen, dann wirst du unaussprechliche Worte Gottes hören.
+
+Der Jünger sprach: Wie kann ich hören, wenn ich von Sinnen und Wollen stillstehe?
+
+Der Meister sprach: Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. Dein eigenes Hören, Wollen und Sehen verhindert, daß du Gott siehst oder hörst.
+
+
+[Vom Übersinnlichen Leben  
+aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
+:::
+
+
+## Quellen der Inspiration: Dylan
+
+Du musst diese Gedanken ausfiltern, denn sie bedeuten nichts, sie treiben dich nur vor sich her. Es ist wichtig, alle diese Gedanken loszuwerden.  Dann kannst du etwas tun aus der **reinen Beobachtung** der Situation. Du hast einen Ort, an dem du wahrnehmen kannst, ohne dass es dich beeinflusst. Wo du etwas bringen kannst, ohne nur ans Nehmen zu denken.
+
+[Bob Dylan 1991, Song Talk Interview mit Paul Zollo]{style="font-size: 1.5rem"}
+
+::: notes
+*Fortsetzung:*  
+Viele Lebenssituationen sind heutzutage so: nehmen, nehmen, nehmen, das ist alles. Was ist für mich drin? Dieses Syndrom begann mit dem "Ich-Jahrzehnt", wann auch immer das war. Wir sind immer noch mittendrin. Es geschieht weiterhin.
+
+Es gibt genug Songs. Es sei denn, jemand kommt mit reinem Herzen und hat etwas zu sagen. Das ist etwas ganz anderes.
+
+Kreativität ist etwas Mysteriöses. Sie besucht, wen immer sie besuchen will, wann sie will, und ich glaube so, und nur so, gelangt man bis zum Herzen der Angelegenheit.
+
+Song Talk Interview, Paul Zollo, 1991,   https://americansongwriter.com/bob-dylan-the-interview-part-1/  abgerufen am 21.07.2024
+
+You ought to be able to sort out those thoughts, because they don’t mean anything, they’re just pulling you around, too. It’s important to get rid of all them thoughts. Then you can do something from some kind of surveillance of the situation. You have some kind of place where you can see but it can’t affect you. Where you can bring something to the matter, besides just take, take, take, take, take. As so many situations in life are today. Take, take, take, that’s all that it is. What’s in it for me? That syndrome which started in the “Me Decade,” whenever that was. We’re still in that. It’s still happening. 
+
+There’s enough songs. Unless someone’s gonna come along with a pure heart and has something to say. That’s a different story.  
+
+Creativity is a mysterious thing. It visits who it wants to visit, when it wants to, and I think that that, and that alone, gets to the heart of the matter. 
+:::
+
+
+## Quellen der Inspiration: Dylan
+
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+
+> Das erste Studium des Menschen, der ein Dichter sein will, geht auf seine vollständige Erkenntnis des Eigenen aus. Er sucht seine Seele, mustert sie, stellt sie auf die Probe, lernt sie. Sobald er sie kennt, muß er sie ausbauen [...]
+
+> Aber es handelt sich darum, die Seele ungeheuerlich zu machen [...]
+
+[Arthur Rimbaud: "Ich ist ein anderer"]{style="font-size: 1.5rem"}
+:::
+
+::: {.column style="font-size: 1.5rem"}
+```{r}
+include_graphics("libs/_Images/Arthur-Rimbaud.jpg")
+```
+Arthur Rimbaud (1854 - 1891) <br>im Alter von 17 Jahren  
+Quelle: Étienne Carjat, 1872; <br>Wikimedia Commons
+:::
+::::
+
+
+::: notes
+* Autobiografie "Chronicles (Vol. 1), 2004: Dylan nennt Einflüsse
+* Seeräuber-Jenny aus Dreigroschenoper! Bertolt Brecht / Kurt Weill
+
+> Je est un autre.
+
+Quelle: https://www.planetlyrik.de/arthur-rimbaud-gedichte/2011/05/  
+abgerufen am 20.08.2024
+
+Der Dichter macht sich zum Seher durch eine lange, unermeßliche und durchdachte Entgrenzung sämtlicher Sinne. Alle Formen der Liebe, des Leidens, des Wahnsinns; er sucht selbst und erschöpft in sich alle Gifte, um nur ihre Quintessenzen zu behalten. Unaussprechliche Marter, in der er jeden Glauben und übermenschliche Stärke nötig hat, wo er unter allen der große Kranke, der große Verbrecher, der große Verdammte werden wird – und der höchste Weise! Denn er gelangt bis an das Unbekannte! Da er seine schon reiche Seele mehr als irgendeiner ausgebaut hat! Er gelangt bis ans Unbekannte, und wenn er etwas närrisch geworden, schließlich das Bewußtsein seiner Visionen verlöre, so hat er sie doch gesehen! Mag er beim Anprall an die unerhörten und unnennbaren Dinge verrecken: andere furchtbare Arbeiter werden kommen; sie werden an den Horizonten beginnen, wo er hingesunken ist!…
+Der Dichter ist wirklich einer, der das Feuer stiehlt. Er ist Beauftragter der Menschheit, selbst der Tiere; er muß seine Erfindungen, fühlbar, greifbar, hörbar machen; wenn das was er von da unten mitbringt Form hat, gibt er ihm Form; wenn es unförmig ist, gibt er ihm Unförmigkeit. Man muß eine Sprache finden;
+− Da im übrigen: jedes Wort Idee ist, wird die Zeit einer Universalsprache kommen! Man muß Akademiker Sein – gründlicher tot als ein Fossil −, um sich ein Wörterbuch auszudenken, ganz gleich in welcher Sprache… Jene Sprache wird Seele für die Seele sein, alles enthaltend, Gerüche, Klänge, Farben; Gedanke, der Gedanken mit sich verhakt und nach sich zieht. Der Dichter möge die Menge des Unbekannten abgrenzen, wach werdend in seiner Zeit, in der universalen Seele: Er gebe mehr als die Formel seines Gedankens, als die Aufzeichnung seines „Marsches zum Fortschritt“! Wenn die Maßlosigkeit zum Maß wird, von allen aufgenommen, könnte er wirklich ein „Vervielfacher des Fortschritts“ sein!
+Diese Zukunft wird, wie Sie sehen, materialistisch sein. Immer von der Zahl und der Harmonie erfüllt, werden diese Gedichte so gemacht sein, daß sie dauern. – Im Grunde wäre dies noch etwas griechische Dichtung.
+Die ewige Kunst hätte ihre Funktionen; da die Dichter Staatsbürger sind. Die Dichtung wird nicht mehr die Aktion rhythmisieren, sie wird voran sein.“
+:::
+
+
+## Der Inspiration treu bleiben: Böhme
+
+Aber der Wille der Seele muss sich ohne Unterlass auch in diesem feurigen Trieb (des Seelenfeuers) ins Nichts versenken, nämlich in die höchste Demut vor Gott. **Wenn sie nur mit kleinstem Anteil in eigenem Forschen gehen will, dann erreicht sie der Teufel im Zentrum der Lebensgestaltung und versucht sie, so dass sie in die Ichheit eingeht.**
+
+
+[Von wahrer Gelassenheit, 1.30, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
+
+::: notes
+Überleitung zu Jokerman: vorhin gehört, großartiger Song. Ein Youtube-Kommentar lautet: *"Für jeden anderen Künstler wäre das das beste, was sie je geschrieben haben. Für Dylan einfach nur ein weiterer Hit."* Da kann man schon ein bisschen stolz sein. Was sagt Dylan selbst über den Song?
+
+Deshalb muss sie in der gelassenen Demut bleiben, gleichwie ein Quell an seinem Ursprung. Und sie muss ohne Unterlass aus Gottes Brünnlein schöpfen und trinken und niemals begehren, von Gottes Weg abzugehen.
+
+**Denn sobald die Seele mit der Ichheit vom (gedanklich unterscheidenden) Verstandeslicht isst, so wandelt sie in eigenem Wahn.**
+
+[Von wahrer Gelassenheit, 1.30, 1.31, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
+
+:::
+
+
+## Der Inspiration treu bleiben: Dylan
+
+:::: columns
+::: {.column width="60%" style="font-size: 2rem"}
+
+*Dylan:* **Jokerman** ist ein Song, der mir entglitten ist. Viele Songs auf diesem Album [*Infidels*, 1983] sind mir entglitten.
+
+*Paul Zollo:* Beim Schreiben?
+
+*Dylan:* Ja. [...] Sie waren besser, bevor daran herumgebastelt wurde. Natürlich war ich es, der an ihnen herumgebastelt hat. Ja, das hätte ein guter Song sein können.
+
+
+[Song Talk Interview 1991 mit Paul Zollo]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/dylan-jokerman.jpg")
+```
+[Dylan singt *Jokerman*; Quelle: Musikvideo]{style="font-size: 1.5rem"}
+:::
+::::
+
+
+::: notes
+Youtube-Kommentar von @jorgeespinosa4829: Für jeden anderen wäre das der beste Song, den sie jemals geschrieben haben. Für Dylan einfach ein weiterer Hit.  
+Mark Knopfler spielt auf Infidels Gitarre.
+
+Dylan: That's [Jokerman] a song that got away from me. Lots of songs on that album [Infidels, 1983] got away from me. They just did.
+ST: You mean in the writing?
+Dylan: Yeah. They hung around too long. They were better before they were tampered with. Of course, it was me tampering with them. [Laughs.] Yeah. That could have been a good song. It could've been.
+:::
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+[**Vom Beten; Wem willst Du dienen; Versuchung**]{style="color: yellow"}
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Befreiung und Verwandlung
+
+Empfehlungen, Ausblick
+:::
+
+
+## Vom Beten
+
+* Beten ist gar nicht so einfach
+* Jedes Gebet wird erhört!
+* Oft allerdings nicht so, wie es der Betende wünscht
+* Warum zeigt das Beten oft so geringen Erfolg?
+* Ausschnitt aus Gustav Meyrink, <br>*Der Engel vom westlichen Fenster*,  
+  Gespräch zwischen John Dee und dem Rabbi in Prag
+
+::: notes
+
+Wir [John Dee und der Rabbi] sprechen von den Mühsalen der unwissenden Menschen um die Geheimnisse Gottes und der irdischen Bestimmung.
+„Man muss dem Himmel Gewalt antun“, sage ich und verweise den Rabbi auf den Kampf Jakobs mit dem Engel.
+Der Rabbi erwidert: „Recht haben Euer Ehren. Gott wird bezwungen durch Gebet.“
+„Ich bin ein Christ; ich bete mit dem Herzen und aus allen Kräften meiner Seele.“
+„Und worum, Euer Ehren?“
+„Um den Stein!“
+Der Rabbi wiegt das Haupt langsam, melancholisch, wie ein ägyptischer Sumpfreiher.
+„Gebet will gelernt sein!“
+„Was wollt Ihr damit sagen, Rabbi?“
+„Ihr betet um den Stein. Recht haben Euer Ehren. Der Stein ist ein gut Ding. – Hauptsache nur, dass Euer Gebet in Gottes Ohr trifft!“
+„Wie sollte es nicht?“ rufe ich aus. – „Bete ich ohne Glauben?“
+„Glauben?“ wackelt der Rabbi heraus. – „Was nutzt mir der Glauben ohne Wissen?“
+„Ihr seid ein Jud, Rabbi“, fährt es mir heraus.
+Der Rabbi funkelt mich an:
+„Ä Jüd. Wahr gesprochen, Euer Ehren. – Warum fragt Ihr dann einen Juden um die … Geheimnisse?! – Beten, Euer Ehren, ist überall in der Welt nur eine Kunst.“
+„Da habt Ihr gewiss die Wahrheit gesprochen, Rabbi“, – sage ich und verbeuge mich, denn mein verfluchter Christenhochmut reut mich.
+Der Rabbi lacht nur mit den Augen.
+„Schießen könnt ihr Gojim mit der Armbrust und mit dem Gewehr. Ä Wunder, wie ihr zielt und trefft! Ä Kunst, wie ihr schießt! Aber könnt ihr auch beten? Ä Wunder, wie ihr da falsch zielt und wie selten ihr … trefft!“
+„Rabbi! Ein Gebet ist doch keine Kugel aus dem Rohr!“
+„Wieso nicht, Euer Ehren? Ein Gebet ist ein Pfeil in Gottes Ohr! Wenn der Pfeil trifft, so ist das Gebet erhört. Jedes Gebet wird erhört, – muss werden erhört, denn das Gebet ist unwiderstehlich, … wenn es trifft.“
+„Und wenn es nicht trifft?“
+„Dann fällt das Gebet wie ä verlorener Pfeil wieder herunter, trifft manchmal noch was Falsches, fällt auf die Erde wie Onans Kraft – oder … es wird abgefangen vom `Andern` und seinen Dienern. Die erhören dann das Gebet auf … ihre Weise!“
+„Von welchem `Andern` ?“ frage ich mit Angst im Herzen.
+„Von welchem `Andern` ?“ äfft der Rabbi. „Von dem, der immer zwischen Oben und Unten wacht. Vom Engel Metatron, dem Herrn der tausend Gesichter …“
+Ich verstehe und schaudere: Wenn ich nun – falsch bete – ?
+
+Wikipedia:
+* **Metatron** ist hochrangiger Engel der jüdischen und islamischen Mythologie. Seine Funktionen in verschiedenen Religionen sind uneinheitlich.  
+* Sohar: Metatron führte Volk Israel während Exodus aus Ägypten durch die Wildnis.  
+* Islam: u. a. Beschuldigten islamische Hersiologen Juden, einen Engel als stellvertretenden Gott zu verehren.
+* Film *Dogma*, 1999: Alle, die je behaupteten, mit Gott gesprochen zu haben, haben in Wirklichkeit **Metatron als "Stimme Gottes" gehört** - kein menschliches Wesen kann der Stimme Gottes standhalten.
+
+:::
+
+
+## Vom Beten: Innere Haltung
+
+> Der HERR ist nahe denen,  
+> die zerbrochenen Herzens sind,  
+> und er hilft denen,  
+> die zerschlagenen Geistes sind.
+
+[Psalm 34,19]{style="align: right"}
+
+
+## Vom Beten: Jakob Böhme
+
+17 […] „Bittet, so werdet ihr empfangen. Suchet, so werdet ihr finden. Klopfet an, so wird euch aufgetan.“  
+(Luk. 11.9)
+
+::: fragment
+18 Ein jedes Gebet, das da nicht findet und empfängt, das ist kalt und lau und steckt in einer Behinderung zeitlicher und irdischer Dinge. Das heißt, die Seele naht sich nicht auf wahrhafte Weise Gott. Sie will sich Gott nicht ganz und gar ergeben, sondern hängt noch an irdischer Liebe, die sie gefangenhält, sodass sie die Stätte Gottes nicht erreichen kann.
+:::
+
+[Der Weg zu Christo, "Vom Heiligen Gebet"; Vorrede an den Gottliebenden Leser]{style="font-size: 1.5rem"}
+
+
+## Vom Beten: Jakob Böhme
+
+39 […] Oh großer Gott, stärke doch meinen schwachen Glauben in mir,  
+zerschelle doch mein (eigenwilliges) Herz,  
+sodass es die vielfältigen Sünden erkenne und bereue,  
+und erwecke doch mit deiner Kraft meine arme Seele,  
+sodass sie sich erkenne, wie sie von dir abgewandt steht.
+
+[Der Weg zu Christo, "Vom Heiligen Gebet"<br>Eine Beichte und wahrhafte Buß-Wirkung vor Gottes Angesicht]{style="font-size: 1.5rem"}
+
+
+::: notes
+[…] Oh Herr, was soll ich in meiner Eitelkeit von dir erbitten? Ich erbitte von dir nichts als nur das Sterben meines Heilands Jesus Christus, dass du mich in seinem Tod tötest und in seiner Auferstehung in Ihm lebendig machst, damit ich nicht mehr nach meines Geistes Willen in ihm wandle, sondern in Ihm, sodass ich sein Tempel und Wohnhaus sein kann, damit Er mich leite und führe, und dass ich ohne Ihn nichts wollen oder tun könne. Verbinde mich mit Ihm, auf dass ich eine gute Rebe an seinem Weinstock sei und in seiner Kraft gute Früchte trage. In deine Zusage versinke ich ganz und gar, und mir geschehe nach deinem Wort und Willen. Amen.
+:::
+
+
+## Vom Beten: Bob Dylan
+
+Ich bin zerbrochen, zerschmettert wie eine leere Tasse  
+Ich warte nur auf den Herrn,  
+der mich wieder aufbaut und mich füllt  
+Und ich weiß, er wird es tun, denn Er ist so treu und wahr
+
+[Covenant Woman, Album *Saved*, 1980]{style="font-size: 1.5rem"}
+
+::: fragment
+<br><br>
+Lass all Deine irdischen Gedanken ein Gebet sein
+
+[Black Rider, Album *Rough and Rowdy Ways*, 2020]{style="font-size: 1.5rem"}
+:::
+
+::: notes
+Saved (1980), 2. Album der "Christlichen Trilogie" nach Slow Train Coming, vor Shot of Love
+
+*I’ve been broken, shattered like an empty cup*  
+*I’m just waiting on the Lord *
+*to rebuild and fill me up*  
+*And I know He will do it ’cause He’s faithful and He’s true*
+
+...
+
+*Black Rider Black Rider you’ve seen it all*
+*You’ve seen the great world and you’ve seen the small*
+*You fell into the fire and you’re eating the flame*
+*Better seal up your lips if you want to stay in the game*
+*Be reasonable Mister - be honest be fair*
+*Let all of your earthly thoughts be a prayer*
+:::
+
+
+## Vom Beten: Bob Dylan
+
+:::: columns
+::: {.column width="60%" style="font-size: 1.9rem"}
+
+In den Stunden der Verzweiflung  
+Wenn in mir die Hoffnung sinkt  
+Wenn das ausgesäte Samenkorn  
+Im Strom des Leids ertrinkt  
+
+Hör ich in mir eine [sterbende] Stimme  
+Die mich weiter treibt  
+Und die mir wieder Kraft gibt  
+In der Zeit der Dunkelheit
+:::
+
+::: column
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/ShotOfLove.jpg")
+```
+:::
+::::
+
+[Every Grain of Sand, Album *Shot of Love*, 1981<br>Übersetzung: M. Kunze; gesungen von Nana Mouskouri]{style="font-size: 1.5rem"}
+
+::: notes
+In the time of my confession, in the hour of my deepest need  
+When the pool of tears beneath my feet flood every newborn seed  
+There’s a dyin’ voice within me reaching out somewhere  
+Toiling in the danger and in the morals of despair
+
+Deutsche Versionen: u. a. Kriemhild - Jedes Körnchen Sand; Peter Post: Jedes Korn von Sand
+
+In Lumpen und in Seide / Tief im Traum und für dich wach  
+In der Hitze eines Julitags / Und im Schnee einer Januarnacht  
+In dem stummen Tanz der Einsamkeit / Von dem mir schwindlig wird  
+Im zerbrochenen Spiegel einer Welt / in der die Unschuld stirbt
+
+Erkenne ich wie schwach ich bin / Und wie wenig ich versteh  
+Und dass ich von der Wirklichkeit / Nichts als ein paar Schatten seh  
+Ich häng an dünnen Fäden / Von der Unsichtbaren Hand  
+So wie im Wind die Schwalbe / Und wie jedes Körnchen Sand
+
+[Every Grain of Sand, Album *Shot of Love*, 1981<br>Übersetzung: M. Kunze; gesungen von Nana Mouskouri]{style="font-size: 1.5rem"}
+
+(2. Strophe, hier nicht übersetzt)
+Don’t have the inclination to look back on any mistake  
+Like Cain, I now behold this chain of events that I must break  
+In the fury of the moment I can see the Master’s hand  
+In every leaf that trembles, in every grain of sand  
+
+Oh, the flowers of indulgence and the weeds of yesteryear  
+Like criminals, they have choked the breath of conscience and good cheer  
+The sun beat down upon the steps of time to light the way  
+To ease the pain of idleness and the memory of decay
+
+I gaze into the doorway of temptation’s angry flame  
+And every time I pass that way I always hear my name  
+Then onward in my journey I come to understand  
+That every hair is numbered like every grain of sand  
+
+(Ab hier übersetzt)
+I have gone from rags to riches in the sorrow of the night  
+In the violence of a summer’s dream, in the chill of a wintry light  
+In the bitter dance of loneliness fading into space  
+In the broken mirror of innocence on each forgotten face
+
+I hear the ancient footsteps like the motion of the sea  
+Sometimes I turn, there’s someone there, other times it’s only me  
+I am hanging in the balance of the reality of man  
+Like every sparrow falling, like every grain of sand
+
+(Bootleg Series: I am hanging in the balance of a perfect finished plan)
+:::
+
+
+## Wem willst Du dienen? Böhme
+
+So mußt du in einem Amt entweder Gott oder dem Teufel dienen, denn zwei Herren kannst du nicht zugleich dienen. Denn Eigenheit und Gelassenheit sind zwei. Wer Gott dient, der ist in Gott gelassen, und sieht in allen Dingen auf die Wahrheit und Gerechtigkeit, und diese will er fördern. Wer aber der Eigenheit dient, der sieht auf Gunst und der Welt Hoheit, damit alles ihm zustatten komme. Dieser ist im Dienst des bösartigen Adams, in dem der Teufel seinen Sitz hat, und hilft ihm rechtsprechen.
+
+[Mysterium Magnum, 66.59]{style="font-size: 1.5rem"}
+
+::: notes
+
+<!-- ## Wem willst Du dienen? Böhme -->
+
+*Gekürzt:*
+
+Oh du Weltrichter, verlaß dich nicht auf den Turm zu Babel, auf Weltschlüsse und Menschensatzungen, denn seine Spitze reicht nicht in den Himmel. [...]  
+Gott sieht dir ins Herz und prüft deinen Willen. Die Gesetze vertreten dich nicht vor Gott, wenn du nach denselben richtest, aber dein Herz etwas ganz anderes weiß. [...]  
+Das Recht ist Gottes und Gott selbst, aber das Unrecht ist des Teufels und der Teufel selber.  
+Welchem Herrn du dienst, der wird dich belohnen und wird selbst dein Lohn sein.
+
+[Mysterium Magnum, 66.60]{style="font-size: 1.5rem"}
+
+*Ausführlicher:*
+
+Oh du Weltrichter, verlaß dich nicht auf den Turm zu Babel, auf Weltschlüsse und Menschensatzungen, denn seine Spitze reicht nicht in den Himmel. Er ist nur die Höhe der Verwirrung, des Streits und falschen Verstandes. Gott sieht dir ins Herz und prüft deinen Willen. Die Gesetze vertreten dich nicht vor Gott, wenn du nach densel-ben richtest, aber dein Herz etwas ganz anderes weiß. Denke nur nicht anders, so daß du dem Teufel das Recht sprichst und ihm unter einem glänzenden Mantel dienst. Das Recht ist Gottes und Gott selbst, aber das Unrecht ist des Teufels und der Teufel selber. Welchem Herrn du dienst, der wird dich belohnen und wird selbst dein Lohn sein. Das hast du in deinem Amt zu erwarten.
+
+:::
+
+
+## Wem willst Du dienen? Dylan
+
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+Du magst der englische oder französische Botschafter sein  
+Du magst gern zocken oder tanzen  
+Du magst der Weltmeister im Schwergewichtsboxen sein  
+Du magst ein Promi sein mit einer langen Perlenkette
+
+Aber Du wirst jemandem dienen müssen, ja,  
+Du musst jemandem dienen  
+Es mag der Teufel sein oder der Herr  
+Aber Du wirst jemandem dienen müssen
+
+[Gotta Serve Somebody, Album *Slow Train Coming*, 1979]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/SlowTrainComing.jpg")
+```
+:::
+::::
+
+
+::: notes
+Vielfach gespielt in den 1990ern, 2000ern, 2010ern, 2021-2024; über 700x
+
+You may be an ambassador to England or France
+You may like to gamble, you might like to dance
+You may be the heavyweight champion of the world
+You may be a socialite with a long string of pearls
+
+But you’re gonna have to serve somebody, yes indeed
+You’re gonna have to serve somebody
+Well, it may be the devil or it may be the Lord
+But you’re gonna have to serve somebody
+:::
+
+
+## Wem willst Du dienen? Dylan
+
+Du magst ein Prediger sein, voller spirituellem Stolz  
+Du magst ein Stadtrat sein, der nebenbei Bestechungsgelder annimmt  
+Du magst in einem Frisörladen arbeiten und wissen, wie man Haare schneidet  
+Du magst jemandes Geliebte sein oder jemandes Erbe
+
+Aber Du wirst jemandem dienen müssen, ja,  
+Du musst jemandem dienen  
+Es mag der Teufel sein oder der Herr  
+Aber Du wirst jemandem dienen müssen
+
+
+[Gotta Serve Somebody, Album *Slow Train Coming*, 1979]{style="font-size: 1.5rem"}
+
+::: notes
+You may be a preacher with your spiritual pride
+You may be a city councilman taking bribes on the side
+You may be workin’ in a barbershop, you may know how to cut hair
+You may be somebody’s mistress, may be somebody’s heir
+
+You’re gonna have to serve somebody, yes indeed
+You’re gonna have to serve somebody
+Well, it may be the devil or it may be the Lord
+But you’re gonna have to serve somebody
+:::
+
+
+## Wem willst Du dienen? Dylan
+
+Du magst mich Terry oder Timmy nennen  
+Du magst mich Bobby oder Zimmy nennen  
+Du magst mich R.J. oder Ray nennen  
+Du kannst mich irgendwie nennen - egal, was Du sagst
+
+Aber Du wirst jemandem dienen müssen, ja,  
+Du musst jemandem dienen  
+Es mag der Teufel sein oder der Herr  
+Aber Du wirst jemandem dienen müssen
+
+
+[Gotta Serve Somebody, Album *Slow Train Coming*, 1979]{style="font-size: 1.5rem"}
+
+::: notes
+You may call me Terry, you may call me Timmy
+You may call me Bobby, you may call me Zimmy
+You may call me R.J., you may call me Ray
+You may call me anything but no matter what you say
+
+You’re gonna have to serve somebody, yes indeed
+You’re gonna have to serve somebody
+Well, it may be the devil or it may be the Lord
+But you’re gonna have to serve somebody
+:::
+
+
+## Versuchung: Böhme
+
+Auch ist dies die gewaltige Darstellung der hurenden und unzüchtigen Welt, wie die schönen Töchter Evas im Trieb des Teufels der zarten Jugend nachrennen und sie mit heuchlerischen Gebärden und falscher Brunst an sich ziehen. Und wie sie sich schmücken und zieren, als säße ein Engel unter ihrem Schmuck, und damit manch frommes Kind, das niemals danach begehrt hat, an sich ziehen und gleich mit des Teufels Ketten binden und um Ehre und Zucht bringen.
+
+
+[Mysterium Magnum 66.42, Kapitel über Josef und Potiphar]{style="font-size: 1.5rem"}
+
+
+::: notes
+<!-- ## Versuchung: Böhme -->
+
+*Gekürzt:*
+
+::: {style="font-size: 2.1rem"}
+Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und Lockhäuser des Teufels nicht eingehen wollte, den verrufen sie und bezichtigen ihn der Unzucht, als hätte er sie betrügen wollen, und rauben ihm seine Ehre, und sind doch eben selber diese Brunsthengste, welche Zucker aufstreuen und Galle zu essen geben, welche fremden Männern so lange Zucker aufstreuen, wie sie Geld im Beutel haben, bis sie diese um Habe, Ehre und Gut bringen, so daß sie ihnen nichts mehr zu geben haben. Dann schänden sie diese und lassen sie ohne Rock nach Hause gehen, wie Potiphars Frau den Josef. So hat der Teufel die Seele, und die Hure hat den Rock zum Pfand, ...
+:::
+
+[Mysterium Magnum 66.43, Kapitel über Josef und Potiphar]{style="font-size: 1.5rem"}
+
+*Ausführlicher:*
+
+Und wenn es ein frommer und züchtiger Josef wäre, der in diese Saubälge und Lockhäuser des Teufels nicht eingehen wollte, den verrufen sie und bezichtigen ihn der Unzucht, als hätte er sie betrügen wollen, und rauben ihm seine Ehre, und sind doch eben selber diese Brunsthengste, welche Zucker aufstreuen und Galle zu essen geben, welche fremden Männern so lange Zucker aufstreuen, wie sie Geld im Beutel haben, bis sie diese um Habe, Ehre und Gut bringen, so daß sie ihnen nichts mehr zu geben haben. Dann schänden sie diese und lassen sie ohne Rock nach Hause gehen, wie Potiphars Frau den Josef. So hat der Teufel die Seele, und die Hure hat den Rock zum Pfand, in welcher Hure nichts anderes regiert, als die Schlange mit ihren Jungen. Und wer sich zu ihnen tut, der wird von der Schlange vergiftet, denn die Schlange schmeißt ihm ihre Brut in Leib und Seele und vergiftet ihn so sehr, daß er sein Herz an die Hure hängt und ihr nachläuft, als wäre er fest an sie gebunden.
+:::
+
+
+## Versuchung: Dylan
+
+:::: columns
+::: {.column width="65%" style="font-size: 1.8rem"}
+Er war ein adretter Junge  
+Aber sie haben einen Killer aus ihm gemacht  
+Das haben sie getan  
+
+Sie verdrehten ihm den Kopf  
+Er wusste nie, worum es ging  
+
+[Clean Cut Kid, Album *Empire Burlesque*, 1985]{style="font-size: 1.5rem"}
+
+::: fragment
+Sie füttern Casanova mit dem Löffel  
+Dann werden sie ihn mit Selbstvertrauen töten  
+Nachdem sie ihn mit Worten vergifteten ...
+
+[Desolation Row, Album *Highway 61 Revisited*, 1965]{style="font-size: 1.5rem"}
+:::
+:::
+
+::: column
+```{r}
+#| out-width: "50%"
+#| out-height: "50%"
+
+include_graphics(c("libs/_Images/EmpireBurlesque.jpg", 
+                   "libs/_Images/Highway61.jpg"))
+```
+:::
+::::
+
+
+::: notes
+
+**Desolation Row (Highway 61 Revisited, 1965)**
+
+They’re spoonfeeding Casanova  
+To get him to feel more assured  
+Then they’ll kill him with self-confidence  
+After poisoning him with words  
+
+
+**Clean Cut Kid (Empire Burlesque, 1985)**
+
+He was a clean-cut kid  
+But they made a killer out of him  
+That’s what they did
+
+They said, “Listen boy, you’re just a pup”  
+They sent him to a napalm health spa to shape up  
+
+They gave him dope to smoke, drinks and pills  
+A jeep to drive, blood to spill  
+
+They said “Congratulations, you got what it takes”  
+They sent him back into the rat race without any brakes  
+
+He was a clean-cut kid  
+But they made a killer out of him  
+That’s what they did  
+Well, everybody’s asking why he couldn’t adjust  
+All he ever wanted was somebody to trust  
+
+They took his head and turned it inside out  
+He never did know what it was all about  
+
+He had a steady job, he joined the choir  
+He never did plan to walk the high wire
+
+They took a clean-cut kid  
+And they made a killer out of him  
+That’s what they did
+:::
+
+
+## Das Irdische gegen das Geistige: Böhme
+
+::: {style="font-size: 2rem"}
+*Innerer Mensch zur Feuer-Seele:*  
+Oh mein Buhle, kehre doch um und gehe von der Eitelkeit ab, oder du verlierst meine Liebe und das edle Perlein.
+
+*Äußerer Verstand = irdische (tierische) Seele*:  
+Du bist närrisch, daß du der Welt Narr und Spott sein willst.  
+Du bedarfst der äußeren Welt zu deinem Leben!  
+Schönheit, Macht und Herrlichkeit sind dein Bestes, denn darin kannst du Freude haben.  
+Was willst du dich in Angst, Not und Spott führen?  
+Trachte nach der Wollust, die dem Leib und Gemüt so wohltut!
+:::
+
+[Von der neuen Wiedergeburt 4.16, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
+
+::: notes
+
+Der innere Mensch spricht zur Feuer-Seele: „Oh mein Buhle, kehre doch um und gehe von der Eitelkeit ab, oder du verlierst meine Liebe und das edle Perlein.“ Darauf spricht der äußere Verstand als die tierische (bzw. irdische) Seele: „Du bist närrisch, daß du der Welt Narr und Spott sein willst. Du bedarfst der äußeren Welt zu deinem Leben! Schönheit, Macht und Herrlichkeit sind dein Bestes, denn darin kannst du Freude haben. Was willst du dich in Angst, Not und Spott führen? Trachte nach der Wollust, die dem Leib und Gemüt so wohltut!“
+
+:::
+
+
+## Das Irdische gegen das Geistige: Dylan
+
+:::: columns
+::: {.column style="font-size: 1.7rem"}
+Es ist die Art des Fleisches, gegen den Geist Krieg zu führen  
+24 Stunden am Tag kannst Du es fühlen und hören  
+Unter Einsatz aller Mittel unter der Sonne  
+Das geht so lange, bis die Schlacht verloren oder gewonnen ist  
+
+Ich halte mich mit allem, was ich habe, an den Fels  
+Der vor der Gründung der Welt gemacht wurde  
+Und ich werde nicht loslassen, und ich kann nicht loslassen, und ich werde nicht loslassen
+
+[Solid Rock, Album *Saved*, 1980]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+#| out-width: "80%"
+#| out-height: "80%"
+
+include_graphics("libs/_Images/Saved.jpg")
+```
+:::
+::::
+
+
+::: notes
+Dylan: Solid Rock (Saved)
+
+It’s the ways of the flesh to war against the spirit  
+Twenty-four hours a day you can feel it and you can hear it  
+Using all the devices under the sun  
+And He never give up ’til the battle’s lost or won  
+
+Well, I’m hangin’ on to a solid rock  
+Made before the foundation of the world  
+And I won’t let go and I can’t let go, won’t let go  
+:::
+
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Versuchung
+
+[**Die Hohe Liebe**]{style="color: yellow"}
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Befreiung und Verwandlung
+
+Empfehlungen, Ausblick
+:::
+
+
+## Die Hohe Liebe: Böhme
+
+Nun sei dir, o großer Gott, in deiner Kraft und Süßigkeit, Lob, Dank, Stärke, Preis und Ehre, dass du mich von dem Treiber der Angst erlöset hast. O du schönes Lieb, mein Herze fasset dich, wo bist du so lange gewesen? Mich deucht, ich wäre in der Hölle und in Gottes Grimm.
+
+O holdseliges Lieb, bleib doch bei mir, sei doch meine Freude und Erquickung. Führe mich doch auf rechter Straße. In deine Liebe ergebe ich mich. 
+
+
+[Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
+
+
+::: notes
+
+<!-- ::: {style="font-size: 2rem"} -->
+Deine Ohren waren aus meinem Lande gegangen. Mein Licht konntest du nicht sehen, denn du wandeltest im finstern Tal. Ich bin nahe bei dir gewesen und habe dir stets geflehet, aber deine Sünde hielt dich im Tode gefangen, dass du mich nicht kanntest. Ich kam in großer Demut zu dir und rief dir, aber du warest in der Macht des Zornes Gottes reich und achtetest meiner Demut nicht. Du hattest dir den Teufel zum Buhlen [Geliebten] genommen. Der hat dich also besudelt und sein Raubschloss der Eitelkeit in dir aufgebauet und dich ganz von meiner Liebe und Treue abgewendet in sein gleißnerisches falsches Reich, darinnen hast du viel Sünde und Bosheit gewirket und deinen Willen von meiner Liebe abgebrochen, und hast mir die Ehe gebrochen und eine fremde Buhlschaft gepflogen und mich, deine dir von Gott gegebene Braut, lassen im verblichenen Wesen ohne Stärke deiner Feuersmacht stehen.
+<!-- ::: -->
+
+[Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
+
+:::
+
+
+## Die Hohe Liebe: Böhme
+
+Oh mein Bräutigam, wie ist mir so wohl in deiner Ehe. Küsse mich doch mit deiner Begierde, in deiner Stärke und Macht, so will ich dir alle meine Schöne zeigen und dich mit meiner süßen Liebe und hellem Licht in deinem Feuerleben erfreuen. Alle heiligen Engel erfreuen sich jetzt mit uns, dass sie uns wieder in der Ehe sehen.
+
+[Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
+
+
+## Die Hohe Liebe: Dylan
+
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+
+Meine Liebe spricht wie die Stille  
+Ohne Ideale oder Gewalt  
+Sie muss nicht sagen, dass sie treu ist,  
+Doch ist sie wahr, wie Eis, wie Feuer  
+Menschen versuchen es mit Rosen  
+Und indem Sie Versprechen geben  
+Meine Liebe lacht wie die Blumen  
+Kaufen lässt sie sich nicht
+
+[...]
+
+Meine Liebe weiß zu viel,  
+sie argumentiert nicht, sie urteilt nicht
+
+[Love Minus Zero / No Limit, Album *Bringing It all Back Home*, 1965]{style="font-size: 1.5rem"}
+
+:::
+
+::: column
+
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/BringingItAllBackHome.webp")
+```
+
+:::
+::::
+
+
+::: notes
+My love she speaks like silence
+Without ideals or violence
+She doesn’t have to say she’s faithful
+Yet she’s true, like ice, like fire
+People carry roses
+Make promises by the hours
+My love she laughs like the flowers
+Valentines can’t buy her
+
+In the dime stores and bus stations
+People talk of situations
+Read books, repeat quotations
+Draw conclusions on the wall
+Some speak of the future
+My love she speaks softly
+She knows there’s no success like failure
+And that failure’s no success at all
+
+The cloak and dagger dangles
+Madams light the candles
+In ceremonies of the horsemen
+Even the pawn must hold a grudge
+Statues made of matchsticks
+Crumble into one another
+My love winks, she does not bother
+She knows too much to argue or to judge
+
+The bridge at midnight trembles
+The country doctor rambles
+Bankers’ nieces seek perfection
+Expecting all the gifts that wise men bring
+The wind howls like a hammer
+The night blows cold and rainy
+My love she’s like some raven
+At my window with a broken wing
+:::
+
+
+## Die Hohe Liebe: Dylan
+
+Liebst Du mich wirklich, oder zeigst Du nur guten Willen?  
+Sehnst Du Dich auch nur halb so sehr nach mir, wie Du sagst,  
+Oder fühlst Du Dich nur schuldig?  
+Ich bin ein gebranntes Kind, ich weiß, wie es laufen kann  
+Du wirst keine Klagen von mir hören  
+Kann ich auf Dich zählen  
+Oder ist Deine Liebe vergebens?
+
+
+[Is Your Love in Vain? Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+::: notes
+
+Do you love me, or are you just extending goodwill?
+Do you need me half as bad as you say, or are you just feeling guilt?
+I’ve been burned before and I know the score
+So you won’t hear me complain
+Will I be able to count on you
+Or is your love in vain?
+
+Are you so fast that you cannot see that I must have solitude?
+When I am in the darkness, why do you intrude?
+Do you know my world, do you know my kind
+Or must I explain?
+Will you let me be myself
+Or is your love in vain?
+
+Well I’ve been to the mountain and I’ve been in the wind
+I’ve been in and out of happiness
+I have dined with kings, I’ve been offered wings
+And I’ve never been too impressed
+
+All right, I’ll take a chance, I will fall in love with you
+If I’m a fool you can have the night, you can have the morning too
+Can you cook and sew, make flowers grow
+Do you understand my pain?
+Are you willing to risk it all
+Or is your love in vain?
+:::
+
+
+## Die Hohe Liebe: Dylan
+
+:::: columns
+::: {.column style="font-size: 1.9rem"}
+
+Ich war in den Bergen und im Wind  
+Ich war glücklich und unglücklich  
+Ich habe mit Königen gespeist,  
+mir wurden Flügel angeboten  
+Aber nichts hat mich beeindruckt
+
+[...]
+
+Bist Du bereit, alles zu riskieren  
+Oder ist Deine Liebe vergebens?
+
+[Is Your Love in Vain? Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+:::
+
+::: column
+
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/StreetLegal.jpg")
+```
+
+:::
+::::
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Versuchung
+
+Die Hohe Liebe
+
+[**Nüchternheit, Lebenshaltung**]{style="color: yellow"}
+
+Übergabe an Gottes Willen; Befreiung und Verwandlung
+
+Empfehlungen, Ausblick
+:::
+
+
+## Nüchternheit: Böhme
+
+::: {style="font-size: 2rem"}
+
+[Ach holdseliges Lieb, gib mir doch deine Perle, dass ich ewig möchte in solcher Freude stehen.]{style="color: yellow"}
+
+::: incremental
+* Du bittest jetzt ein Schweres von mir, das ich nicht gerne mit dir wage.
+* Du möchtest in deiner großen Freude wiederum Irdigkeit in meine Schöne einführen und mein Perllein verdunkeln.
+* Auch möchtest du stolz werden wie Luzifer ward ...
+* In dein irdisch Fleisch vermähle ich mich nicht, denn ich bin eine Königin der Himmeln ...
+* Jedoch will ich dein äußer Leben ... ofte mit meinen Liebesstrahlen heimsuchen.
+:::
+:::
+
+[Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
+
+::: notes
+O edles Lieb, gib mir doch deine süße Perle; lege sie doch in mich!  
+[…]  
+Schenke mir doch dein Perlenkränzlein und bleib in mir. Sei doch mein Eigentum, dass ich mich ewig in dir erfreue.  
+[…]  
+Ach holdseliges Lieb, gib mir doch deine Perle, dass ich ewig möchte in solcher Freude stehen.
+
+Mein lieber Buhle und treuer Schatz, du erfreuest mich hoch in deinem Anfange. Ich bin ja durch die tiefen Tore Gottes zu dir eingebrochen, durch Gottes Zorn, durch Hölle und Tod in das Haus deines Elendes, und habe dir meine Liebe aus Gnaden geschenkt und dich von Ketten und Banden erlöset [...]  
+Aber du bittest jetzt ein Schweres von mir, das ich nicht gerne mit dir wage. Du willst mein Perllein zum Eigentum haben. Gedenke doch, mein lieber Bräutigam, wie du es vorhin [beim Sündenfall] in Adam verwahrloset hast. [...]  
+
+Du bittest jetzt ein Schweres von mir, das ich nicht gerne mit dir wage.  
+Du möchtest in deiner großen Freude wiederum Irdigkeit in meine Schöne einführen und mein Perllein verdunkeln.
+
+Auch möchtest du stolz werden wie Luzifer ward, als er das Perllein zum Eigentum hatte, und möchtest dich von Gottes Harmonie abwenden.
+
+So müsste ich hernach ewig meines Buhlen beraubt sein.
+
+**Ich will** mein Perllein in mir behalten und will in deiner verblichenen und jetzt in mir wieder lebendig gemachten innern Menschheit im Himmel in dir wohnen und **mein Perllein dem Paradeis vorbehalten, bis du diese Irdigkeit von dir ablegest.** Alsdann will ich dirs zum Eigentum geben. Aber mein Antlitz und süße Strahlen des Perlleins will ich dir die Zeit dieses irdischen Lebens gerne darbieten. Ich will mit dem Perllein im innern Chor wohnen und deine getreue liebe Braut sein. In dein irdisch Fleisch vermähle ich mich nicht, denn ich bin eine Königin der Himmeln und mein Reich ist nicht von dieser Welt. Jedoch will ich dein äußer Leben nicht wegwerfen, sondern ofte mit meinen Liebesstrahlen heimsuchen, denn deine äußere Menschheit soll wiederkommen. Aber das Tier der Eitelkeit will ich nicht haben. Gott hat das auch nicht aus seinem Fürsatz also grob und irdisch geschaffen, sondern deine Begierde hat diese viehische Grobheit in Adam durch Lust gefasset aus allen Essentien der aufgewachten Eitelkeit irdischer Eigenschaft, darinnen Hitze und Kälte, dazu Wehetun und Feindschaft, auch das Zerbrechen stehet.
+
+:::
+
+
+## Nüchternheit: Dylan
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+
+* **Isis** kann als Einweihungslied gelesen werden
+* Erzähler heiratet Isis, doch die Verbindung geht schnell auseinander
+* Der niedere Anteil des Erzählers stirbt an den Pyramiden
+* Er verbindet sich erneut mit Isis, der himmlischen Seele
+
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/pexels-pixabay-262786.jpg")
+```
+:::
+::::
+
+[Isis, Album *Desire*, 1976]{style="font-size: 1.5rem"}
+
+## Nüchternheit: Dylan
+
+So vollzieht sich die glorienvolle Wieder-Verbindung:
+
+:::: columns
+::: {.column .incremental width="60%" style="font-size: 1.9rem"}
+* [Seele: Wo warst Du?]{style="color: yellow"}
+* Mensch: An keinem besonderen Ort
+* [Seele: Du sieht anders aus]{style="color: yellow"}
+* Mensch: Ja, kann schon sein
+* [Seele: Du warst weg]{style="color: yellow"}
+* Mensch: Ist doch normal
+* [Seele: Wirst Du diesmal bleiben?]{style="color: yellow"}
+* Mensch: Ja, vielleicht …
+
+:::
+
+::: column
+```{r}
+#| out-width: "90%"
+#| out-height: "90%"
+
+include_graphics("libs/_Images/Desire.jpg")
+```
+:::
+::::
+
+[Isis, Album *Desire*, 1976]{style="font-size: 1.5rem"}
+
+::: notes
+Ähnliches Thema auch in Shelter from the Storm, Album *Blood on the Tracks*, 1975: Kontakt zum Seelenfeld geht verloren
+
+Nüchternheit: Dylan, Fortsetzung
+
+* Gott: Einziges Wesen, das nur geben, nichts empfangen kann
+* Haltung der göttlichen Seele, von allen Bindungen befreit
+
+(Fragment)
+Kugeln können dich verletzen, der Tod dich entwaffnen  
+Aber nein, du lässt dich nicht täuschen  
+Aller Tugend beraubt, kriechst du durch den Dreck  
+(Fragment Ende)
+
+Du kannst geben, aber du kannst nichts empfangen
+
+[No Time to Think, Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+Bullets can harm you and death can disarm you
+But no, you will not be deceived
+Stripped of all virtue as you crawl through the dirt
+You can give but you cannot receive
+:::
+
+
+## Lebenshaltung: Böhme
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+* Hatte die Angriffe vorausgesehen, nahm sie an
+* Schrieb den größten Teil seiner Werke während des 30jährigen Krieges (ab 1618)
+* Zeitweise wohnten Soldaten im Haus
+* Die Nahrung wurde knapp
+* 4 Kinder lärmten ...
+* Keine Ambitionen, Schriften zu veröffentlichen
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/Böhme-Pushpak.png")
+```
+
+[Quelle: Joseph Mulder nach Jan Luyken, <br>Jacob Böhme in seiner Schusterwerkstatt, 1686]{style="font-size: 1.5rem"}
+:::
+::::
+
+::: notes
+Quelle? Originaltext? Spunda?
+Aus dem JW-Abschiedsdienst-Entwurf:
+Von Böhme wird berichtet, dass er, schwerkrank am Ende seines Lebens, von einer befreundeten Fürstin getröstet wurde. Sie wünschte ihm Genesung, und dass er es künftig leichter haben möge als in seinem bisherigen Leben. Worauf Böhme geantwortet haben soll: Die äußerlichen Heimsuchungen habe er innerlich als Hilfen erfahren – er würde nichts an seinem Leben ändern. Es gab eine Zeit im 30jährigen Krieg, da quartierten sich Soldaten bei der Bevölkerung ein, auch in Böhmes Haus. Die Nahrung wurde knapp, Frau und Kinder und Böhme selbst hungerten, die Soldaten saßen mit am Tisch, die Kinder lärmten in der Stube und in Böhmes Werkstatt. Wie würde es Euch in dieser Situation gehen? Gerade in dieser Lage soll Böhme die tiefste Gottesverbindung erlebt haben, wovon er in erstaunlich umfangreichen Werken zeugte.
+:::
+
+
+## Lebenshaltung: Böhme
+
+::: {style="font-size: 2.1rem"}
+Ich weiß auch gar wohl,  
+dass die Kinder des Fleisches werden meiner spotten und sagen,  
+ich sollte meines Berufs warten und um diese Dinge mich unbekümmert lassen und mich lieber um das fleißiger annehmen, das da mir und den meinigen den Bauch füllt, und
+die lassen philosophieren, die es studiert haben, und dazu berufen sind.  
+Dass ich mich oft entschieden habe, dieses zu unterlassen,  
+**aber mein Schweigen ist mir zu schwer geworden.**  
+Denn **wenn ich** dem Bauch gefolgt und **mich entschlossen habe, mein Vorhaben zu unterlassen, so sind mir die Pforten des Himmels in meiner Erkenntnis verschlossen worden.**  
+Alsdann hat sich meine Seele geängstigt, als sollte der Leib zu Grunde gehen.
+:::
+
+
+[Aurora 25, 5-7]{style="font-size: 1.5rem"}
+
+
+## Lebenshaltung: Dylan
+
+Litt sehr unter öffentlichem Druck nach frühem Ruhm
+
+> Legende, Ikone, Rätsel (Buddha in europäischen Kleidern war mein Favorit) - so in der Art, das war ok. Diese Bezeichnungen waren friedlich und harmlos, verschlissen, damit konnte ich leicht umgehen.
+
+> Prophet, Messias, Erlöser - das waren die schwierigen.
+
+[Chronicles, 2004, Kapitel 3, über die Zeit um Woodstock 1969]{style="font-size: 1.5rem"}
+
+Viele erstklassige Songs gar nicht oder erst spät veröffentlicht
+
+
+::: notes
+* *Blind Willie McTell*, 1983 aufgenommen, nicht auf *Infidels* veröffentlicht, erst 1991 auf *Bootleg Series Volume 1-3 (Rare & Unreleased) 1961-1991* erschienen
+* *Abandoned Love*, 1975 aufgenommen, für *Desire* 1976 nicht berücksichtigt, erst 1985 auf Kompilation *Biograph* veröffentlicht
+:::
+
+
+## Lebenshaltung: Dylan
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+* Massive Anfeindungen nach Veröffentlichung seiner "christlichen Alben"  
+  *Slow Train Coming*, 1979; *Saved*, 1980; *Shot of Love*, 1981
+* Spielte 1979 zwei Wochen lang am gleichen Ort (Warfield Theatre, San Francisco) nur seine neuen christlichen Songs
+* Hielt massivem Druck von Fans und Veranstaltern stand, erhielt Morddrohungen
+:::
+
+::: {.column style="font-size: 1.5rem"}
+```{r}
+#| fig-cap: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quelle: Pinterest, Alan Karlosky"
+
+include_graphics("libs/_Images/Dylan-Warfield-1979.jpeg")
+```
+:::
+::::
+
+
+## Lebenshaltung: Dylan
+
+::: {style="font-size: 2rem"}
+Hör auf zu sprechen, wenn er Dir auf der Straße begegnet  
+Hoffe, dass er hinfällt, oh, wäre das nicht toll  
+Denn er kann nicht mehr von Aberglauben ausgebeutet werden  
+Denn er kann nicht mehr bestochen oder von den Dingen gekauft werden, die du liebst
+
+::: fragment
+Er gehört Jesus  
+Hasse ihn bis ins Mark  
+Du hast was Besseres  
+Du hast ein Herz aus Stein
+:::
+:::
+
+[Property of Jesus, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
+
+
+::: notes
+Du kannst über Erlösung lachen, du kannst Olympische Spiele spielen  
+Du denkst, wenn du endlich zur Ruhe kommst,  
+gehst du dorthin zurück, wo du hergekommen bist  
+Aber du hast eine ziemliche Geschichte mitbekommen  
+und dich seit dem Mutterleib verändert.  
+Was ist mit deinem wahren Ich passiert?  
+Du wurdest gefangen genommen, aber von wem?
+
+Er gehört Jesus  
+Hasse ihn bis ins Mark  
+Du hast was Besseres  
+Du hast ein Herz aus Stein
+
+[Property of Jesus, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
+
+Stop your conversation when he passes on the street  
+Hope he falls upon himself, oh, won’t that be sweet  
+Because he can’t be exploited by superstition anymore  
+Because he can’t be bribed or bought by the things that you adore
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+Full lyrics:
+
+Go ahead and talk about him because he makes you doubt  
+Because he has denied himself the things that you can’t live without  
+Laugh at him behind his back just like the others do  
+Remind him of what he used to be when he comes walkin’ through
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+Stop your conversation when he passes on the street  
+Hope he falls upon himself, oh, won’t that be sweet  
+Because he can’t be exploited by superstition anymore  
+Because he can’t be bribed or bought by the things that you adore
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+When the whip that’s keeping you in line doesn’t make him jump  
+Say he’s hard-of-hearin’, say that he’s a chump  
+Say he’s out of step with reality as you try to test his nerve  
+Because he doesn’t pay no tribute to the king that you serve
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+Say that he’s a loser ’cause he got no common sense  
+Because he don’t increase his worth at someone else’s expense 
+Because he’s not afraid of trying, ’cause he don’t look at you and smile  
+’Cause he doesn’t tell you jokes or fairy tales, say he’s got no style
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+
+You can laugh at salvation, you can play Olympic games  
+You think that when you rest at last you’ll go back from where you came  
+But you’ve picked up quite a story and you’ve changed since the womb  
+What happened to the real you, you’ve been captured but by whom?
+
+He’s the property of Jesus  
+Resent him to the bone  
+You got something better  
+You’ve got a heart of stone
+:::
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Versuchung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+[**Übergabe an Gottes Willen; Befreiung und Verwandlung**]{style="color: yellow"}
+
+Empfehlungen, Ausblick
+:::
+
+
+## Übergabe an Gottes Willen: Böhme
+
+Der Wille muss mit Gott vereint sein,  
+damit Gott, der Wille und der Geist des Menschen  
+immer ein und dasselbe sind.  
+Denn was eins ist, kann nicht in Missklang  
+oder Feindschaft miteinander stehen,  
+da es ja einen einzigen Willen besitzt.  
+Wo immer es hingeht, was es auch tut,   
+bleibt es eins mit sich.
+
+
+[Sechs mystische Punkte, 3.12, 3.13]{style="font-size: 1.5rem"}
+
+
+## Übergabe an Gottes Willen: Dylan
+
+Christentum ist nicht Christus und Christus ist nicht Christentum. Christentum bedeutet, Christus zum Herrn Deines Lebens zu machen. Es geht um Dein Leben, jetzt, es geht nicht nur um einen Teil Deines Lebens, um eine bestimmte Stunde jeden Tag. Es geht darum, Christus zum Herrn und Meister Deines Lebens zu machen, zum König Deines Lebens. IHN durch DICH.
+
+[Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
+
+::: notes
+Christianity is not Christ and Christ is not Christianity. Christianity is making Christ the Lord of your life. You’re talking about your life now, you’re not talking about just part of it, you’re not talking about a certain hour every day. You’re talking about making Christ the Lord and the Master of your life, the King of your life. […] It’s HIM through YOU. ‘He’s alive’, Paul said. ‘I’ve been crucified with Christ, nevertheless I live. Yet not I but Christ who liveth in me.’
+
+Any preacher who is a real preacher will tell you that: ‘Don’t follow me, follow Christ.’
+
+You ask me about myself, but I’m becoming less and less defined as Christ becomes more and more defined.
+:::
+
+
+## Übergabe an Gottes Willen: Dylan
+
+Jeder Prediger, der ein echter Prediger ist, wird Dir das sagen:  
+"Folge nicht mir, folge Christus."
+
+::: fragment
+Sie haben mir persönliche Fragen gestellt,  
+aber ich bin immer weniger klar definiert,  
+während Christus sich immer deutlicher in mir ausprägt.
+:::
+
+[Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
+
+::: notes
+Any preacher who is a real preacher will tell you that: ‘Don’t follow me, follow Christ.’
+
+You ask me about myself, but I’m becoming less and less defined as Christ becomes more and more defined.
+:::
+
+
+## Überwindung des Todes
+
+#### Böhme
+
+> Wer nicht stirbt, bevor er stirbt,  
+Der verdirbt, wenn er stirbt.
+
+[Der Satz wurde unter anderen auch Angelus Silesius (1624 - 1677) zugeschrieben]{style="font-size: 1.5rem"}
+
+::: fragment
+#### Dylan
+
+> Wer nicht damit beschäftigt ist, geboren zu werden,  
+> ist damit beschäftigt, zu sterben  
+> [*He not busy being born is busy dying*]{style="font-size: 1.8rem"}
+
+[It’s Alright, Ma (I’m Only Bleeding), Album *Bringing It All Back Home*, 1965]{style="font-size: 1.5rem"}
+:::
+
+::: notes
+Silesius hieß bürgerlich: Johannes Scheffler  
+Sogar Steiner hat Böhme so zitiert  
+https://odysseetheater.org/GA/Buecher/GA_057.pdf#page=78&view=Fit
+
+Goethe, West-Östlicher Divan:  
+Und so lang du das nicht hast,  
+Dieses: Stirb und Werde!  
+Bist du nur ein trüber Gast  
+Auf der dunklen Erde  
+:::
+
+
+## Verwandlung: Böhme
+
+Alsbald nach etlichen harten Stürmen ist mein Geist durch der Höllen Pforten durchgebrochen bis in die innerste Geburt der Gottheit und allda mit Liebe umfangen worden, wie ein Bräutigam seine liebe Braut umfasst. Was aber ein Triumphieren im Geiste gewesen, kann ich nicht schreiben oder reden. Es lässt sich auch mit nichts vergleichen als nur dem, wo mitten im Tode das Leben geboren wird und vergleicht sich der Auferstehung von den Toten. In diesem Lichte hat mein Geist alsbald durch alles durchgesehen und an allen Kreaturen, sowohl an Kraut und Gras Gott erkannt.
+
+[Aurora, 19.11 - 19.13]{style="font-size: 1.5rem"}
+
+::: notes
+Quelle auch hier: Aurora, Kapitel 19 https://www.deutschlandfunk.de/der-himmel-ist-ueberall-auch-in-dir-selber-100.html
+:::
+
+
+## Verwandlung: Böhme
+
+Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung. Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches.
+
+[De Signatura Rerum, 11.37]{style="font-size: 1.5rem"}
+
+
+::: notes
+
+11.37. Hier gibt die Jungfrau dem Jüngling ihr Perlein zum Eigentum, und so werden Gott und Mensch Eins. Denn das Blut der Jungfrau aus göttlicher Wesenheit ertränkt hier mit dem Wesen ihrer Liebe das Blut des Jünglings, als die Ichheit, und die drei Mörder geben ihr Leben im Blut der Jungfrau auf. So gehen das Glühen (bzw. rote Leben) vom Feuer und das weiße vom Leben des Ritters miteinander auf, nämlich aus dem Grimm geht das Leben auf, und aus der Liebe die Sanftmut. Und beide, das Leben des Zorns und das Leben der Liebe, steigen miteinander als ein einiges Leben auf, denn im Tod werden sie Eins. Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung (Auflösung oder Rück-verwandlung). Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches. Des Jünglings Leben stirbt, und das Leben der Gottheit bleibt beständig, denn es steht in seiner Eigenschaft im Nichts.
+
+[De Signatura Rerum, 11.37]{style="font-size: 1.5rem"}
+
+:::
+
+
+## Verwandlung: Dylan
+
+Wiedergeboren zu werden, ist schwer.  
+Hast Du gesehen, wie eine Mutter ein Kind gebiert?  
+Das ist schmerzhaft.
+
+::: fragment
+Wir mögen es nicht, alte Einstellungen und Komplexe zu verlieren.
+:::
+
+[Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
+
+::: notes
+
+Being born again is a hard thing. You ever seen a mother give birth to a child? Well it’s painful. We don’t like to lose those old attitudes and hang-ups.
+
+:::
+
+
+## Verwandlung: Dylan
+
+[...]
+Doch Eden brennt  
+Seid bereit für das Ende  
+oder findet in Euren Herzen den Mut zur Wachablösung.
+
+Der Frieden wird kommen  
+Gelassen und prächtig auf Feuerrädern  
+Doch belohnt er uns nicht, wenn ihre Götzenbilder fallen  
+Und der Tod kapituliert und sein bleicher Geist weicht zurück  
+Zwischen den König und die Königin der Schwerter
+
+[Changing of the Guards, Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
+
+
+::: notes
+Peace will come
+With tranquility and splendor on the wheels of fire
+But will bring us no reward when her false idols fall
+And cruel death surrenders with its pale ghost retreating
+Between the King and the Queen of Swords
+
+„Klingt wie eine ewige Melodie, von der wir nur einen Ausschnitt hören, die ein- und ausgeblendet wird“ (Seems like an eternal melody and we just hear a section that fades in and fades out; Benny Malone).
+Das erinnert an Dylan’s eigene Worte: „[Der Song] bedeutet jedes Mal, wenn ich ihn singe, etwas anderes. Changing of the Guards ist tausend Jahre alt.“ (It means something different every time I sing it. ‘Changing of the Guards’ is a thousand years old.)
+„Etwas an dem Lied macht mich glücklich. … Wenn ich es [die letzten beiden Strophen] höre, würde ich am liebsten aufstehen und sprechen. Ich weiß nur nicht, worüber … (Something about the song makes me happy. … It [the last two verses] makes me want to stand and speak but I’m not sure what to speak of. Dustin’s Bedroom)
+„Ich werde den Song nie kapieren, aber ich liebe ihn sehr!!! (I will never understand this song but I absolutely love it!!!! Stardust Lady)
+
+Where Are You Tonight? (Journey Through Dark Heat), Street Legal, 1978
+
+Die Wahrheit war geheimnisvoll, zu tiefgründig und rein  
+Um sie zu leben, musst du explodieren  
+In der Stunde unserer tiefsten Not waren wir uns völlig einig  
+Opfer und Heiligung waren der Schlüssel zum Weg
+
+The truth was obscure, too profound and too pure  
+To live it you have to explode  
+In that last hour of need, we entirely agreed  
+Sacrifice was the code of the road  
+:::
+
+
+## Themen
+
+::: {style="font-size: 2.4rem"}
+Anerkennung, Produktivität
+
+Von der Kunst, Böhme zu lesen und Dylan zu hören
+
+Gott- und Welterkenntnis; Quellen der Inspiration
+
+Vom Beten; Wem willst Du dienen; Versuchung
+
+Die Hohe Liebe
+
+Nüchternheit, Lebenshaltung
+
+Übergabe an Gottes Willen; Befreiung und Verwandlung
+
+[**Empfehlungen, Ausblick**]{style="color: yellow"}
+:::
+
+
+## Empfehlungen: Böhme
+
+* Der Weg zu Christo, 1624
+* Pushpak: <http://www.boehme.pushpak.de/>  
+  + Alle Werke in moderner Bearbeitung, gut verständlich
+  + kostenlos als PDF oder ePUB für E-Book-Reader
+* Film *Morgenröte im Aufgang*  
+  von R. Steckel, K. Weingärtner, M. Hopp, J. Korthäuer
+* Deutschlandfunk: *Liebe und Zorn - Lange Nacht über den Mystiker Jacob Böhme* von Ronald Steckel
+* Hörstück *Höre Du blinder Mensch* von Ronald Steckel  
+  nach Texten von Böhme
+
+
+::: notes
+Film Morgenröte im Aufgang, Trailer: https://youtu.be/gIenwcT6_pM?si=KKozmntkdFja_60j
+
+Der Weg zu Christo enthält:
+• Gespräch einer erleuchteten und unerleuchteten Seele
+• Vom übersinnlichen Leben
+• Von wahrer Buße
+• Von wahrer Gelassenheit
+• Von der neuen Wiedergeburt
+• Der Schlüssel zur Erkenntnis göttlicher Geheimnisse
+• Die hochteure Pforte von göttlicher Beschaulichkeit
+• Eine Trostschrift für die vier Komplexionen
+• Vom Heiligen Gebet
+:::
+
+
+## Empfehlungen: Böhme
+
+:::: columns
+::: {.column style="font-size: 2rem"}
+
+* Romane:
+  + *Das Ewige Bildnis* <br>von Edith Mikeleitis (1955)
+  + *Das mystische Leben des Jakob Böhme* von Franz Spunda (1961);  
+    zeigt vielfach Bezüge zwischen **Rosenkreuz** und **Böhme**
+  + Unterhaltsamer, weniger tief:  
+    *Jacob Böhme: Auf der Suche nach seiner Weltformel* von Wolfgang Bauernfeind (2019)
+* Bücher von Gerhard Wehr
+:::
+
+::: {.column style="font-size: 1.5rem"}
+
+```{r}
+#| out-width: 60%
+#| out-height: 60%
+#| fig-align: "center"
+#| fig-cap: "Quelle: Gesamtausgabe 1682 / Wikimedia Commons"
+
+include_graphics("libs/_Images/Böhme-Grabkreuz-1682-Wikimedia.jpg")
+```
+:::
+::::
+
+
+## Empfehlungen: Dylan - Filme
+
+:::: columns
+::: {.column width="60%" style="font-size: 1.6rem"}
+* Filme über Bob Dylan
+  + *Don't Look Back* (1965) von D. A. Pennebaker
+  + *No Direction Home* (2005) <br>von **Martin Scorsese**
+  + *I'm Not There* (2007) von Todd Haynes
+  + *Rolling Thunder Revue* (2019) <br>von **Martin Scorsese**, spielt 1975
+  + *A Complete Unknown* (2024) <br>von James Mangold
+* Filme mit Bob Dylan
+  + *Pat Garret Jagt Billy The Kid* (1973)
+  + *Masked and Anonymous* (2003)
+:::
+
+::: column
+```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
+include_graphics("libs/_Images/ImNotThere-Film.jpg")
+```
+:::
+::::
+
+::: notes
+* Cate Blanchett: 2x Oscar: Beste Hauptdarstellerin 2014 *Blue Jasmine*, Beste Nebendarstellerin 2005 *Aviator*
+* Christian Bale: Oscar Bester Nebendarsteller 2011, *The Fighter*
+* Heath Ledger: Oscar Bester Nebendarsteller 2009 (posthum), *The Dark Knight*
+* Richard Gere: Golden Globe 2003, *Chicago*
+* Ben Wishaw: Golden Globe 2019, Bester Nebendarsteller *A Very English Scandal*; Emmy 2009 als Bester Fernsehdarsteller für *Criminal Justice*
+* 2024: Timothée Chalamet spielt Bob Dylan
+:::
+
+
+## Empfehlungen: Dylan - Bücher
+
+:::: columns
+::: {.column style="font-size: 1.8rem"}
+* Bücher über Bob Dylan
+  + *Bob Dylan - The Essential Interviews*, 2006, herausgegeben von **Jonathan Cott**
+  + *Bob Dylan - A Spiritual Life*, 2017, von **Scott M. Marshall**
+
+* Bücher von Bob Dylan
+  + *Chronicles, Vol. 1*, 2004: Autobiografie
+  + *The Philosophy of Modern Song* /  
+    *Die Philosophie des Modernen Songs*, 2022
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/philosophy-of-modern-song.jpg")
+```
+:::
+::::
+
+
+## Empfehlungen: Dylan
+
+::: {style="font-size: 2rem"}
+* Spirituelle Liebeslieder u. a.:  
+  Love Minus Zero / No Limit; Is Your Love in Vain; <br>Abandoned Love; Isis
+* Einweihung, Verwandlung (nicht ganz einfach zugänglich):  
+  Changing of the Guards; Senor (Tales of Yankee Power); <br>Lily, Rosemary and the Jack of Hearts
+* Einige Anregungen zum spirituellen Zugang:
+  + Blog: Spiritualität Dresden 
+    <https://spiritualitaet-dresden.de/>
+  + Blog (englisch): spirit-rockmusic  
+    <https://spirit-rockmusic.eu/>
+  + Youtube: spirit-rockmusic  
+    <https://www.youtube.com/@spirit-rockmusic6651>
+
+:::
+
+
+## Vielen Dank!
+
+::: {.incremental style="font-size: 1.9rem"}
+* Böhme wie Dylan laden zu einer spirituellen Reise ins eigene Innere ein.
+* Auf dieser Reise kann man nicht bleiben, wer man ist.
+* Wenn das Unsterbliche in uns erwacht,  
+  können sich die Werke von Böhme und Dylan tiefer erschließen.
+:::
+
+:::: columns
+::: column
+```{r}
+#| out.width: "83%"
+#| out.height: "83%"
+
+include_graphics("libs/_Images/Böhme-Pushpak.png")
+```
+[Quelle: Joseph Mulder nach Jan Luyken, 1686]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/Dylan-gif3.webp")
+```
+[Quelle: giphy.com]{style="font-size: 1.5rem"}
+:::
+::::
+
+
+::: notes
+
+**Ergänzungen**
+
+Trailer I'm not There  
+{{< video https://youtu.be/iEnishf8eJY?si=1k2nn-7Jswnknmbg width="900" height="506" >}}
+
+Trailer Rolling Thunder Review  
+{{< video https://youtu.be/jV3eyaZajLg?si=2kjiG7BivI-4HpqX width="900" height="506">}}
+
+Glaube
+
+Dylan: I believe in you, Slow Train Coming, 1979
+
+Don’t let me change my heart  
+Keep me set apart  
+From all the plans they do pursue  
+And I, I don’t mind the pain  
+Don’t mind the driving rain  
+I know I will sustain  
+’Cause I believe in you  
+:::
+
+
+## Gold: Böhme
+
+Aber das Silber und Gold   
+in der toten Begreiflichkeit   
+ist nur ein finsterer Stein   
+im Vergleich zur Wurzel der himmlischen Gebärung.
+
+[Aurora, 22.85]{style="font-size: 1.5rem"}
+
+::: notes
+
+Du solltest mich allerdings für keinen Alchimisten halten, denn ich schreibe allein in der Erkenntnis des Geistes und nicht durch Erfahrung. Obwohl ich zwar hier noch etwas mehr erklären könnte, in wieviel Tagen und in welchen Stunden solche Dinge präpariert werden müssen. Denn das Gold kann man nicht an einem Tag ma-chen, sondern es gehört ein ganzer Mond (Monat) dazu.
+
+Es ist aber nicht mein Vorhaben, mich daran zu versuchen, zumal ich nicht weiß, wie man mit dem Feuer umgeht.
+
+[Aurora, 22.105, 22.106]{style="font-size: 1.5rem"}
+:::
+
+
+## Gold: Dylan
+
+Ich geb auf das Spiel, ich muss hier fort  
+Der Topf aus ird’schem Gold ist nur ein leeres Wort  
+Der wahre Schatz bleibt unauffindbar wenn  
+Die Götter tot sind und die Königinnen in die Kirche geh’n  
+
+[Abandoned Love, aufgenommen 1975, veröffentlicht 1985 auf *Biograph*]{style="font-size: 1.5rem"}
+
+
+::: notes
+
+I’ve given up the game, I’ve got to leave  
+The pot of gold is only make-believe  
+The treasure can’t be found by men who search  
+Whose gods are dead and whose queens are in the church  
+
+**Full text:**
+
+My heart is telling me I love ya still.
+
+I can see the turning of the key  
+I've been deceived by the clown inside of me.  
+I thought that he was righteous but he's vain  
+Oh, something's telling me I wear a ball and chain.
+
+My patron saint is fighting with a ghost  
+He's always off somewhere when I need him most.  
+The Spanish moon is rising on the hill  
+But my heart is telling me I love ya still.
+
+I come back to the town from the flaming moon  
+I see you in the street, I begin to swoon.  
+I love to see you dress before the mirror  
+Won't you let me in your room one time before I finally disappear?
+
+Everybody's wearing a disguise  
+To hide what they've got left behind their eyes.  
+But me, I can't cover what I am  
+Wherever the children go I'll follow them.
+
+I march in the parade of liberty  
+But as long as I love you I'm not free.  
+How long must I suffer such abuse  
+Won't you let me see you smile before I cut you loose?  
+
+I've given up the game, I've got to leave  
+The pot of gold is only make-believe  
+The treasure can't be found by men who search  
+Whose gods are dead and whose queens are in the church.
+
+We sat in an empty theatre and we kissed  
+I asked you please to cross me off your list  
+My head tells me it's time to make a change  
+But my heart is telling me I love ya but you're strange.
+
+So one more time, at midnight near the wall,  
+take off your heavy make-up, and your shawl.  
+Won't you descend from the throne, from where you sit?  
+Let me feel your love one more time before I abandon it.
+
+
+**Ganzer Text deutsch:**
+
+Mein Herz sagt mir ich lieb‘ dich immer noch
+
+Ich seh‘ der Schlüssel dreht sich in der Tür  
+Wurde betrogen von dem Clown der lebt in mir  
+Ich dachte er wär ehrlich – doch vorbei  
+Etwas in mir weiß, so bin ich nicht frei
+
+Mein Schutzpatron kämpft mal wieder mit ‘nem Geist  
+Wenn ich ihn brauche ist er fort – so ist das meist  
+Über dem Hügel steigt auf der spanische Mond  
+Mein Herz sagt dass noch immer Liebe zu Dir darin wohnt  
+
+Vom flammenden Mond komm ich zurück in die Stadt  
+Seh‘ ich dich auf der Straße fühl ich mich matt  
+Mach noch mal für mich eine Modenschau  
+Lass mich noch mal zu dir bevor ich für immer abhau
+
+Jeder den ich treffe ist maskiert  
+Keiner will zeigen was hinter den Augen noch passiert  
+Doch ich kann nicht verbergen was ich bin  
+Wohin die Kinder gehn da will ich hin
+
+Ich such die Freiheit wie die Motte das Licht  
+Doch so lange ich dich liebe find ich sie nicht  
+Wie lang dauert dieser Missbrauch bloß  
+Einmal lächle noch für mich, dann reiß ich mich los
+
+Ich geb auf das Spiel, ich muss hier fort  
+Der Topf aus ird’schem Gold ist nur ein leeres Wort  
+Der wahre Schatz bleibt unauffindbar wenn  
+Die Götter tot sind und die Königinnen in die Kirche geh’n  
+
+Es war in einem leeren Theater wo ich dich küsste  
+Dann bat ich dich: Streich mich von deiner Liste  
+Mein Kopf sagt dieses alte Spiel ist Mist  
+Mein Herz sagt mir es liebt dich, obwohl du komisch bist
+
+Einmal noch um Mitternacht an der Wand  
+Schmink dich jetzt ab ich hab dich voll erkannt  
+Herunter von dem Thron jetzt mit Verlaub  
+Drück‘ mich einmal noch, dann mach ich mich aus dem Staub  
+
+<!-- ## Verstand: Böhme -->
+
+Mein lieber Leser, wenn du die hohen Geheimnisse verstehen willst, dann mußt du nicht erst eine Akademie vor deine Nase setzen und eine Brille brauchen, um die Bücher vieler Meister zu lesen, denn sie sind nicht allein in den hohen Schulen zu suchen, zu finden und zu ergründen. Das ist alles ein Land ohne göttliche Vernunft, was der Verstand in der Kunst dieser Welt sucht. Denn sie finden nicht mehr als diese Welt, und das auch nur halb, und gehen immer nur im Suchen, und finden schließlich den überheblichen Stolz und die Heuchelei, indem sie weltliche Weisheit finden.
+
+[Vom dreifachen Leben des Menschen, 3.29]{style="font-size: 1.5rem"}
+
+
+<!-- ## Verstand: Dylan -->
+
+Loneliness, tenderness, high society, notoriety  
+You fight for the throne and you travel alone  
+Unknown as you slowly sink  
+And there’s no time to think
+
+:::
+
+
+## Wiedergeburt: Böhme
+
+Und das lasst euch, ihr Sucher der metallischen Tinktur, offenbart sein: Wollt ihr den Stein der Weisen finden, dann schickt euch zur neuen Wiedergeburt in Christus, sonst wird er euch schwerlich zu erkennen sein.
+
+[Von der Menschwerdung Jesu Christi, 4.10]{style="font-size: 1.5rem"}
+
+
+::: notes
+4.19 Lasst euch gesagt sein, ihr Schulzänker: Ihr geht im Kreis und nicht hinein, wie eine Katze um den heißen Brei, welche die Hitze fürchtet. So fürchtet und schämt ihr euch vor Gottes Feuer. Und so wenig die Katze den heißen Brei genießt, wenn sie nur um den Rand geht, um zu riechen, so wenig genießt auch der Mensch die Paradiesfrucht, es sei denn, er geht aus dem Pelz Adams heraus, den der Teufel besudelt hat, und tritt in Christi Wiedergeburt ein. Er muss in den Kreis hineingehen und den Verstandespelz abwerfen, dann bekommt er menschliche Weisheit mit göttlicher Erkenntnis. 
+
+Das schafft kein Lernen, sondern ein Geborenwerden.
+:::
+
+
+## Vereinigung mit Gott: Dylan
+
+Es wird eine Zeit kommen, so höre ich,   
+in der alles gut sein wird,   
+in der Gott und Mensch versöhnt sein werden.   
+Aber bis die Menschen ihre Ketten verlieren   
+und Gerechtigkeit regiert,   
+Herr, beschütze mein Kind.
+
+[Lord Protect My Child, Album *The Bootleg Series, Vol 1-3: Rare & Unreleased 1961-1991 (1991)*]{style="font-size: 1.5rem"}
+
+::: notes
+There'll be a time I hear tell  
+When all will be well  
+When God and man will be reconciled  
+But until men lose their chains  
+And righteousness reigns  
+Lord, protect my child
+:::
+
+
+## Nüchternheit: Böhme
+
+*Nun spricht die Vernunft:* Wie kommts denn, weil ich Christi Glied und Gottes Kind bin, dass ich ihn nicht fühle noch empfinde?
+
+::: fragment
+
+*Antwort:* Ja, allhie stecket es, liebes besudeltes Hölzlein; riech in deinem Busen, wonach stinkest du, nach teuflischer Sucht als nach zeitlicher Wollust, nach Geiz, Ehren und Macht. Höre, das ist des Teufels Kleid. Zieh diesen Pelz aus und wirf ihn weg. Setze deine Begierde in Christi ... so wirst du ... Christus werden ... und wirst in Christo neugeboren werden.
+:::
+
+[Von der Menschwerdung Jesu Christi, Teil 1, Kap. 12: Von der reinen Jungfrauschaft]{style="font-size: 1.5rem"}
+
+::: notes
+Antwort: Ja, allhie stecket es, liebes besudeltes Hölzlein; riech in deinem Busen, wonach stinkest du, nach teuflischer Sucht als nach zeitlicher Wollust, nach Geiz, Ehren und Macht. Höre, das ist des Teufels Kleid. Zieh diesen Pelz aus und wirf ihn weg. Setze deine Begierde in Christi Leben, Geist, Fleisch und Blut, imaginiere darein, als du hast in die irdische Sucht imaginieret, so wirst du Christus in deinem Leibe, in deinem Fleisch und Blut anziehen. Du wirst Christus werden; seine Menschwerdung wird sich zuhand [alsbald] in dir erregen, und wirst in Christo neugeboren werden.
+:::
+
+
+## Nüchternheit: Dylan
+
+:::: columns
+::: column
+
+Gott ist in seinem Himmel  
+Und wir alle wollen, was ihm gehört    
+Aber Macht und Gier und der Samen der Vergänglichkeit  
+Scheint alles zu sein, was es gibt
+:::
+
+::: column
+```{r}
+#| out-width: "100%"
+#| out-height: "100%"
+
+include_graphics("libs/_Images/Infidels.png")
+```
+
+:::
+::::
+
+[Blind Willie McTell, aufgenommen 1983 für *Infidels*, veröffentlicht erst 1991 auf <br>*The Bootleg Series Volumes 1–3 (Rare & Unreleased) 1961–1991*]{style="font-size: 1.5rem"}
+
+::: notes
+God is in his heaven  
+And we all want what’s his  
+But power and greed and corruptible seed  
+Seem to be all that there is
+:::
+
+
+## Merkur und Schicksal: Böhme {.smaller}
+
+373. So schlief Adam in der göttlichen Welt ein und wachte in der äußeren Welt auf. Und mit dem irdischen Essen vom Baum der Versuchung, der gut und böse war, wachte die Eitelkeit im Wesen des Fleisches vollends auf, denn damit begannen die Eigenschaften des Übels im Zentrum der Natur zu qualifizieren, wie ein Sieden, und jetzt waren Hitze und Kälte, dazu Bitter, Süß und Sauer und alles, was im Regiment der **Sterne und Elemente** offenbar ist, auch in ihm offenbar. Sulphur und **Mercurius** wurden in der Eitelkeit des Giftlebens rege und offenbar. Dessen schämte sich nun der Seelengeist in Adam und Eva, weil sie sahen, daß sie in ihrer Ichheit in solchem Elend standen und Hitze und Kälte auf sie drang.
+
+[Quelle: Vom Irrtum der Sekten von Esaia Stiefel und Ezechiel Meth (1622), in: Schutz- und Verteidigungsschriften (Apologien), Pushpak 2022, S. 183]{style="font-size: 1.5rem"}
+
+
+::: notes
+Von seinem Regiment
+73. Gleichwie das Licht (des Bewußtseins) das Regiment in allem Leben ist, und dieses Lebenslicht aus dem (Lampen-) Öl von Sulphur, Mercurius und Salz der Kräfte brennt und scheint, welches kein Verständiger leugnen wird, so brannte im inneren Menschen, welcher aus dem zweiten Prinzip als aus dem reinen Element geschaffen war, der reine paradiesische Sulphur und Mercurius, und in diesem reinen und ganz makellosen Feuerbrennen oder Leben schien Gottes wahres Licht.
+
+75. Versteht es recht! Das reine Element im heiligen Sulphur durchdrang den äußeren Menschen und nahm die vier Elemente in seine Gewalt. So waren Hitze und Kälte im Fleisch nicht offenbar. Sie waren wohl im Sulphur, Mercurius und Salz des Leibes, aber weil Gottes Licht darin schien, waren sie in der Ausgeglichenheit, so daß keines vor dem anderen offenbar werden konnte.
+
+76. Denn alle Begierden im Mercurius, als im kalten und hitzigen Feuerrad, standen im Licht und waren ganz durchleuchtet, und ihre Begierde war ein Paradies des Freu-denreichs, denn in ihnen war keine Feindschaft der Natur offenbar. Gleichwie Gott der Vater ein grimmig-eifriger Gott und verzehrendes Feuer genannt wird und in diesen Eigenschaften auch ist, aber in seinem Licht in der Liebebegierde als in seinem Erstgeborenen seit Ewigkeit, welcher sein Liebesherz ist, wird davon keines offenbar.
+
+79. Denn im giftigen Mercurius nach des Vaters Zorneigenschaft war das sterbende Leben, welches zuvor nicht offenbar war, aber durch des Teufels Imagination erregt und in die Begierde der Gleichheit eingeführt wurde.
+
+80. So wißt, denn es ist wahr, wie wir hoch erkannt haben, daß der Baum der Versuchung durch diese Gewalt des Hungers nach der Erkenntnis, um Böses und Gutes zu wissen, gewachsen ist. Obwohl man auch nicht sagen kann, daß er ein anderes Ge-wächs gewesen sei, wie die anderen Bäume, nur die irdische Qualität im Bösen und Guten war in ihm offenbar.
+
+81. In den anderen Bäumen und Gewächsen drang der heilige 
+paradiesische Mercurius durch alle, und so waren die Eigenschaften in der Ausgeglichenheit, und das Böse von Hitze und Kälte war nicht offenbar.
+
+82. Aber in diesem Baum waren die Eigenschaften von Hitze und Kälte im giftigen irdischen Mercurius offenbar, welches der Hunger der Seele verursachte.
+
+101. Nun sind aber dreierlei Pfeifer in uns, die mit der Pfeife pfeifen, nämlich die dreierlei Eigenschaften des Geistes des Lebens aus allen drei Prinzipien. Wann wird die Pfeife nun wissen, wenn Gottes Liebe-Wille pfeifen will, oder wenn sein Zorn-Wille pfeifen will? Muß sie nicht als eine Pfeife den Mercurius zum Guten und Bösen geben? Sie empfindet es wohl, wenn Gottes Liebe-Wille pfeift, aber vorher weiß sie das nicht.
+
+116. Was nun gemacht wird, das nimmt seinen Anfang in diesem Machen wohl aus dem Ewigen, denn die Seele hat sich in die Zeit durch die Selbheit (bzw. Ichheit) hineingeführt. Aber Christus, der aus der Ewigkeit aus „Jesus“ in menschlicher Eigen-schaft geboren war, der führte sie in sich wieder aus der Zeit in die Ewigkeit, nämlich aus der verdorbenen Qual-Qualität des Mercurius heraus.
+
+381. Das ist gleichsam nicht anders zu verstehen, als wenn ich Blei ansehe, welches zuvor Gold gewesen war, und hätte sich durch den Mercurius in Blei verwandelt, darin nun der giftige Mercurius offenbar wäre, der vorher im Gold in großer Schönheit und Vollkommenheit stand. Wie nun im Blei noch eine Möglichkeit zum Gold läge, aber im Mercurius nicht offenbar wäre, denn der Mercurius könnte sich nicht wieder ins Gold verwandeln, es sei denn, der Künstler zerbräche das Blei ganz und verwan-delte es in die erste Materie, daraus es geschaffen war. Dann könnte aus dieser Materie wieder ein schönes Gold werden, wie es zuerst war. Oder es bewegte sich die Sonnen-kraft in diesem Mercurius des Bleis (welches doch eine Saturn-Kraft ist, aber die Ver-dichtung als den ersten Grund zum Gold in sich hat) und gebäre in seiner Kraft wieder ein Gold im Blei, so daß ich Blei und Gold in Einem Wesen sähe, und es wäre doch nicht offenbar, sondern das Blei hielte das Gold wie halb verschlungen und verdeckt. (Weil das Blei ähnlich weich und schwer wie Gold ist, vermutete man in der mittelalterlichen Alchemie, daß im Blei das Gold verborgen ist und daraus wieder gewinnbar wäre. Heute wäre diese Umwandlung von Blei zu Gold durch nukleare Transmutation möglich, aber überaus aufwendig.)
+
+[Quelle: Vom Irrtum der Sekten von Esaia Stiefel und Ezechiel Meth (1622), in: Schutz- und Verteidigungsschriften (Apologien), Pushpak 2022, S. 183]{style="font-size: 1.5rem"}
+:::
+
+
+## Merkur und Schicksal: Dylan
+
+Merkur beherrscht dich  
+und das Schicksal führt dich an der Nase herum  
+
+*Mercury rules you*  
+*and destiny fooles you*
+
+[No Time to Think, Album *Street Legal*, 1978]{style="font-size: 1.5rem"}
