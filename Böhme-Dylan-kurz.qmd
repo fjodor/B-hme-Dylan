@@ -818,13 +818,10 @@ Dylan: Beten. - Außerdem würde ich gern eine Zeitschrift für Kochrezepte grü
 Wie kann ich zu dem übersinnlichen Leben kommen, so daß ich Gott sehe und sprechen höre?  
 
 *Der Meister sprach:*  
-Wenn du dich nur einen Augenblick dahin schwingen kannst, wo keine Kreatur wohnt, dann hörst du, was Gott spricht.
 
-::: fragment
+...
 
-Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. Dein eigenes Hören, Wollen und Sehen verhindert, daß du Gott siehst oder hörst.
-:::
-:::
+Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. :::
 
 [Vom Übersinnlichen Leben; aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
@@ -846,12 +843,14 @@ aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
 ## Quellen der Inspiration: Dylan
 
-Du musst diese Gedanken ausfiltern, denn sie bedeuten nichts, sie treiben dich nur vor sich her. Es ist wichtig, alle diese Gedanken loszuwerden.  Dann kannst du etwas tun aus der **reinen Beobachtung** der Situation. Du hast einen Ort, an dem du wahrnehmen kannst, ohne dass es dich beeinflusst. Wo du etwas bringen kannst, ohne nur ans Nehmen zu denken.
+Es ist wichtig, alle diese Gedanken loszuwerden. Dann kannst du etwas tun aus der **reinen Beobachtung** der Situation. 
 
 [Bob Dylan 1991, Song Talk Interview mit Paul Zollo]{style="font-size: 1.5rem"}
 
 ::: notes
-*Fortsetzung:*  
+*Fortsetzung:*
+Du hast einen Ort, an dem du wahrnehmen kannst, ohne dass es dich beeinflusst. Wo du etwas bringen kannst, ohne nur ans Nehmen zu denken.
+
 Viele Lebenssituationen sind heutzutage so: nehmen, nehmen, nehmen, das ist alles. Was ist für mich drin? Dieses Syndrom begann mit dem "Ich-Jahrzehnt", wann auch immer das war. Wir sind immer noch mittendrin. Es geschieht weiterhin.
 
 Es gibt genug Songs. Es sei denn, jemand kommt mit reinem Herzen und hat etwas zu sagen. Das ist etwas ganz anderes.
@@ -909,7 +908,7 @@ Die ewige Kunst hätte ihre Funktionen; da die Dichter Staatsbürger sind. Die D
 
 ## Der Inspiration treu bleiben: Böhme
 
-Aber der Wille der Seele muss sich ohne Unterlass auch in diesem feurigen Trieb (des Seelenfeuers) ins Nichts versenken, nämlich in die höchste Demut vor Gott. **Wenn sie nur mit kleinstem Anteil in eigenem Forschen gehen will, dann erreicht sie der Teufel im Zentrum der Lebensgestaltung und versucht sie, so dass sie in die Ichheit eingeht.**
+> Wenn sie [die Seele] nur mit kleinstem Anteil in eigenem Forschen gehen will, dann erreicht sie der Teufel im Zentrum der Lebensgestaltung und versucht sie, so dass sie in die Ichheit eingeht.
 
 
 [Von wahrer Gelassenheit, 1.30, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
@@ -1181,7 +1180,9 @@ Like every sparrow falling, like every grain of sand
 
 ## Wem willst Du dienen? Böhme
 
-So mußt du in einem Amt entweder Gott oder dem Teufel dienen, denn zwei Herren kannst du nicht zugleich dienen. Denn Eigenheit und Gelassenheit sind zwei. Wer Gott dient, der ist in Gott gelassen, und sieht in allen Dingen auf die Wahrheit und Gerechtigkeit, und diese will er fördern. Wer aber der Eigenheit dient, der sieht auf Gunst und der Welt Hoheit, damit alles ihm zustatten komme. Dieser ist im Dienst des bösartigen Adams, in dem der Teufel seinen Sitz hat, und hilft ihm rechtsprechen.
+So mußt du in einem Amt entweder Gott oder dem Teufel dienen, denn zwei Herren kannst du nicht zugleich dienen.
+
+... Wer aber der Eigenheit dient, der ... ist im Dienst des bösartigen Adams, in dem der Teufel seinen Sitz hat, und hilft ihm rechtsprechen.
 
 [Mysterium Magnum, 66.59]{style="font-size: 1.5rem"}
 
