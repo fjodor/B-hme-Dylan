@@ -1639,17 +1639,10 @@ Empfehlungen, Ausblick
 
 ## Nüchternheit: Böhme
 
-::: {style="font-size: 2rem"}
+Ach holdseliges Lieb, gib mir doch deine Perle, dass ich ewig möchte in solcher Freude stehen.
 
-[Ach holdseliges Lieb, gib mir doch deine Perle, dass ich ewig möchte in solcher Freude stehen.]{style="color: yellow"}
-
-::: incremental
-* Du bittest jetzt ein Schweres von mir, das ich nicht gerne mit dir wage.
-* Du möchtest in deiner großen Freude wiederum Irdigkeit in meine Schöne einführen und mein Perllein verdunkeln.
-* Auch möchtest du stolz werden wie Luzifer ward ...
+::: fragment
 * In dein irdisch Fleisch vermähle ich mich nicht, denn ich bin eine Königin der Himmeln ...
-* Jedoch will ich dein äußer Leben ... ofte mit meinen Liebesstrahlen heimsuchen.
-:::
 :::
 
 [Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
@@ -1679,12 +1672,13 @@ So müsste ich hernach ewig meines Buhlen beraubt sein.
 ## Nüchternheit: Dylan
 
 :::: columns
-::: {.column style="font-size: 2rem"}
+::: column
 
-* **Isis** kann als Einweihungslied gelesen werden
-* Erzähler heiratet Isis, doch die Verbindung geht schnell auseinander
-* Der niedere Anteil des Erzählers stirbt an den Pyramiden
-* Er verbindet sich erneut mit Isis, der himmlischen Seele
+**Isis** als Einweihungslied:
+
+* Verbindung mit der unsterblichen Seele
+* Geht schnell wieder verloren
+* Nach langer Läuterung: erneute, diesmal bleibende Verbindung
 
 :::
 
@@ -1754,13 +1748,8 @@ You can give but you cannot receive
 ## Lebenshaltung: Böhme
 
 :::: columns
-::: {.column style="font-size: 2rem"}
-* Hatte die Angriffe vorausgesehen, nahm sie an
-* Schrieb den größten Teil seiner Werke während des 30jährigen Krieges (ab 1618)
-* Zeitweise wohnten Soldaten im Haus
-* Die Nahrung wurde knapp
-* 4 Kinder lärmten ...
-* Keine Ambitionen, Schriften zu veröffentlichen
+::: column
+Schrieb den größten Teil seiner Werke während des 30jährigen Krieges (ab 1618)
 :::
 
 ::: column
@@ -1779,50 +1768,12 @@ Von Böhme wird berichtet, dass er, schwerkrank am Ende seines Lebens, von einer
 :::
 
 
-## Lebenshaltung: Böhme
-
-::: {style="font-size: 2.1rem"}
-Ich weiß auch gar wohl,  
-dass die Kinder des Fleisches werden meiner spotten und sagen,  
-ich sollte meines Berufs warten und um diese Dinge mich unbekümmert lassen und mich lieber um das fleißiger annehmen, das da mir und den meinigen den Bauch füllt, und
-die lassen philosophieren, die es studiert haben, und dazu berufen sind.  
-Dass ich mich oft entschieden habe, dieses zu unterlassen,  
-**aber mein Schweigen ist mir zu schwer geworden.**  
-Denn **wenn ich** dem Bauch gefolgt und **mich entschlossen habe, mein Vorhaben zu unterlassen, so sind mir die Pforten des Himmels in meiner Erkenntnis verschlossen worden.**  
-Alsdann hat sich meine Seele geängstigt, als sollte der Leib zu Grunde gehen.
-:::
-
-
-[Aurora 25, 5-7]{style="font-size: 1.5rem"}
-
-
-## Lebenshaltung: Dylan
-
-Litt sehr unter öffentlichem Druck nach frühem Ruhm
-
-> Legende, Ikone, Rätsel (Buddha in europäischen Kleidern war mein Favorit) - so in der Art, das war ok. Diese Bezeichnungen waren friedlich und harmlos, verschlissen, damit konnte ich leicht umgehen.
-
-> Prophet, Messias, Erlöser - das waren die schwierigen.
-
-[Chronicles, 2004, Kapitel 3, über die Zeit um Woodstock 1969]{style="font-size: 1.5rem"}
-
-Viele erstklassige Songs gar nicht oder erst spät veröffentlicht
-
-
-::: notes
-* *Blind Willie McTell*, 1983 aufgenommen, nicht auf *Infidels* veröffentlicht, erst 1991 auf *Bootleg Series Volume 1-3 (Rare & Unreleased) 1961-1991* erschienen
-* *Abandoned Love*, 1975 aufgenommen, für *Desire* 1976 nicht berücksichtigt, erst 1985 auf Kompilation *Biograph* veröffentlicht
-:::
-
-
 ## Lebenshaltung: Dylan
 
 :::: columns
-::: {.column style="font-size: 2rem"}
-* Massive Anfeindungen nach Veröffentlichung seiner "christlichen Alben"  
+::: column
+Massive Anfeindungen nach Veröffentlichung seiner "christlichen Alben"  
   *Slow Train Coming*, 1979; *Saved*, 1980; *Shot of Love*, 1981
-* Spielte 1979 zwei Wochen lang am gleichen Ort (Warfield Theatre, San Francisco) nur seine neuen christlichen Songs
-* Hielt massivem Druck von Fans und Veranstaltern stand, erhielt Morddrohungen
 :::
 
 ::: {.column style="font-size: 1.5rem"}
@@ -1835,26 +1786,17 @@ include_graphics("libs/_Images/Dylan-Warfield-1979.jpeg")
 ::::
 
 
-## Lebenshaltung: Dylan
-
-::: {style="font-size: 2rem"}
+::: notes
 Hör auf zu sprechen, wenn er Dir auf der Straße begegnet  
 Hoffe, dass er hinfällt, oh, wäre das nicht toll  
 Denn er kann nicht mehr von Aberglauben ausgebeutet werden  
 Denn er kann nicht mehr bestochen oder von den Dingen gekauft werden, die du liebst
 
-::: fragment
 Er gehört Jesus  
 Hasse ihn bis ins Mark  
 Du hast was Besseres  
 Du hast ein Herz aus Stein
-:::
-:::
 
-[Property of Jesus, Album *Shot of Love*, 1981]{style="font-size: 1.5rem"}
-
-
-::: notes
 Du kannst über Erlösung lachen, du kannst Olympische Spiele spielen  
 Du denkst, wenn du endlich zur Ruhe kommst,  
 gehst du dorthin zurück, wo du hergekommen bist  
@@ -1960,11 +1902,6 @@ Empfehlungen, Ausblick
 Der Wille muss mit Gott vereint sein,  
 damit Gott, der Wille und der Geist des Menschen  
 immer ein und dasselbe sind.  
-Denn was eins ist, kann nicht in Missklang  
-oder Feindschaft miteinander stehen,  
-da es ja einen einzigen Willen besitzt.  
-Wo immer es hingeht, was es auch tut,   
-bleibt es eins mit sich.
 
 
 [Sechs mystische Punkte, 3.12, 3.13]{style="font-size: 1.5rem"}
@@ -1972,7 +1909,9 @@ bleibt es eins mit sich.
 
 ## Übergabe an Gottes Willen: Dylan
 
-Christentum ist nicht Christus und Christus ist nicht Christentum. Christentum bedeutet, Christus zum Herrn Deines Lebens zu machen. Es geht um Dein Leben, jetzt, es geht nicht nur um einen Teil Deines Lebens, um eine bestimmte Stunde jeden Tag. Es geht darum, Christus zum Herrn und Meister Deines Lebens zu machen, zum König Deines Lebens. IHN durch DICH.
+Es geht darum, Christus zum Herrn und Meister Deines Lebens zu machen,  
+zum König Deines Lebens.  
+IHN durch DICH.
 
 [Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
 
@@ -1982,23 +1921,16 @@ Christianity is not Christ and Christ is not Christianity. Christianity is makin
 Any preacher who is a real preacher will tell you that: ‘Don’t follow me, follow Christ.’
 
 You ask me about myself, but I’m becoming less and less defined as Christ becomes more and more defined.
-:::
-
-
-## Übergabe an Gottes Willen: Dylan
 
 Jeder Prediger, der ein echter Prediger ist, wird Dir das sagen:  
 "Folge nicht mir, folge Christus."
 
-::: fragment
 Sie haben mir persönliche Fragen gestellt,  
 aber ich bin immer weniger klar definiert,  
 während Christus sich immer deutlicher in mir ausprägt.
-:::
 
 [Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
 
-::: notes
 Any preacher who is a real preacher will tell you that: ‘Don’t follow me, follow Christ.’
 
 You ask me about myself, but I’m becoming less and less defined as Christ becomes more and more defined.
