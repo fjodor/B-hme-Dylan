@@ -2263,6 +2263,35 @@ I know I will sustain
 :::
 
 
+## Vielen Dank!
+
+::: {.incremental style="font-size: 1.9rem"}
+* Böhme wie Dylan laden zu einer spirituellen Reise ins eigene Innere ein.
+* Auf dieser Reise kann man nicht bleiben, wer man ist.
+* Wenn das Unsterbliche in uns erwacht,  
+  können sich die Werke von Böhme und Dylan tiefer erschließen.
+:::
+
+:::: columns
+::: column
+```{r}
+#| out.width: "83%"
+#| out.height: "83%"
+
+include_graphics("libs/_Images/Böhme-Pushpak.png")
+```
+[Quelle: Joseph Mulder nach Jan Luyken, 1686]{style="font-size: 1.5rem"}
+:::
+
+::: column
+```{r}
+include_graphics("libs/_Images/Dylan.webp")
+```
+[Quelle: giphy.com]{style="font-size: 1.5rem"}
+:::
+::::
+
+
 ## Gold: Böhme
 
 Aber das Silber und Gold   
