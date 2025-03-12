@@ -200,13 +200,17 @@ Leopold Ziegler (1881 - 1958)
 ## Bob Dylan: Relikt der 1960er?
 
 * Wurde ab 1962 als Folk- und Protestsänger bekannt
-* Einige Songs aus dieser Zeit:  
+* Einige Songs aus dieser Zeit:
+
+::: fragment
+
   + *Blowin' in the Wind*
   + *The Times They Are A'Changin'*
   + *With God On Our Side*
   + *Desolation Row*
   + *Like a Rolling Stone*
 
+:::
 
 ::: notes
 * *Like a Rolling Stone* hat viele Musiker, Bruce Springsteen ("The Boss") und Wolfgang Niedecken (BAP) stark beeinflusst. Das *Rolling Stone*-Musikmagazin platzierte den Song 2004 auf Platz 1 der 500 Besten Songs aller Zeiten, 2010 erneut. 2021 in der überarbeiteten Rangliste landete er noch auf Rang 4.
