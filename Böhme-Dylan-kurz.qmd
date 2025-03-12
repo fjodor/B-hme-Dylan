@@ -117,7 +117,7 @@ Empfehlungen, Ausblick
 ## Thesen zu Dylan
 
 ::: incremental
-* Bob Dylan ist ein Relikt der 1960er Jahre: früh berühmt geworden als Protestsänger, und dann eben nicht so früh gestorben wie etwa der "Klub 27"
+* Bob Dylan ist ein Relikt der 1960er Jahre
 * Bob Dylan konvertierte zum Christentum mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich vom Christentum abgewandt
 :::
 
@@ -130,10 +130,7 @@ Empfehlungen, Ausblick
 
 ## Jakob Böhme: Anerkennung
 
-> Im Wasser lebt der Fisch, die Pflanze in der Erden,  
-Der Vogel in der Luft, die Sonn im Firmament,  
-Der Salamander muß im Feuer erhalten werden,  
-Und Gottes Herz ist Jakob Böhmes Element.
+> ... Und Gottes Herz ist Jakob Böhmes Element.
 
 Angelus Silesius (1624 - 1677)
 
@@ -436,7 +433,7 @@ Der Weg zu Christo enthält:
 * 17 Alben der Bootleg Series
 * Jeden Tag ein Konzert - dann wären das über 10 Jahre!
 
-* Seit 1988 *Never Ending Tour*, rund 100 Konzerte pro Jahr
+* Seit 1988 fast durchgängig auf Tour, rund 100 Konzerte pro Jahr
 :::
 
 
@@ -825,7 +822,8 @@ Wie kann ich zu dem übersinnlichen Leben kommen, so daß ich Gott sehe und spre
 
 ...
 
-Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. :::
+Wenn du von Sinnen und Wollen deiner Ichheit stillstehst, dann wird in dir das ewige Hören, Sehen und Sprechen offenbar, und es hört und sieht Gott durch dich. 
+:::
 
 [Vom Übersinnlichen Leben; aus: Der Weg zu Christo, 1622]{style="font-size: 1.5rem"}
 
@@ -938,7 +936,7 @@ Deshalb muss sie in der gelassenen Demut bleiben, gleichwie ein Quell an seinem 
 
 *Paul Zollo:* Beim Schreiben?
 
-*Dylan:* Ja. [...] Sie waren besser, bevor daran herumgebastelt wurde. Natürlich war ich es, der an ihnen herumgebastelt hat. Ja, das hätte ein guter Song sein können.
+*Dylan:* Ja. [...] Sie waren besser, bevor daran herumgebastelt wurde. [...] <br>Ja, das hätte ein guter Song sein können.
 
 
 [Song Talk Interview 1991 mit Paul Zollo]{style="font-size: 1.5rem"}
@@ -1046,7 +1044,7 @@ Wikipedia:
 (Luk. 11.9)
 
 ::: fragment
-18 Ein jedes Gebet, das da nicht findet und empfängt, das ist kalt und lau und steckt in einer Behinderung zeitlicher und irdischer Dinge. Das heißt, die Seele naht sich nicht auf wahrhafte Weise Gott. Sie will sich Gott nicht ganz und gar ergeben, sondern hängt noch an irdischer Liebe, die sie gefangenhält, sodass sie die Stätte Gottes nicht erreichen kann.
+18 Ein jedes Gebet, das da nicht findet und empfängt, das ist kalt und lau und steckt in einer Behinderung zeitlicher und irdischer Dinge.
 :::
 
 [Der Weg zu Christo, "Vom Heiligen Gebet"; Vorrede an den Gottliebenden Leser]{style="font-size: 1.5rem"}
@@ -1055,15 +1053,18 @@ Wikipedia:
 ## Vom Beten: Jakob Böhme
 
 39 […] Oh großer Gott, stärke doch meinen schwachen Glauben in mir,  
-zerschelle doch mein (eigenwilliges) Herz,  
-sodass es die vielfältigen Sünden erkenne und bereue,  
-und erwecke doch mit deiner Kraft meine arme Seele,  
-sodass sie sich erkenne, wie sie von dir abgewandt steht.
+zerschelle doch mein (eigenwilliges) Herz, ...  
 
 [Der Weg zu Christo, "Vom Heiligen Gebet"<br>Eine Beichte und wahrhafte Buß-Wirkung vor Gottes Angesicht]{style="font-size: 1.5rem"}
 
 
 ::: notes
+39 […] Oh großer Gott, stärke doch meinen schwachen Glauben in mir,  
+zerschelle doch mein (eigenwilliges) Herz,  
+sodass es die vielfältigen Sünden erkenne und bereue,  
+und erwecke doch mit deiner Kraft meine arme Seele,  
+sodass sie sich erkenne, wie sie von dir abgewandt steht.
+
 […] Oh Herr, was soll ich in meiner Eitelkeit von dir erbitten? Ich erbitte von dir nichts als nur das Sterben meines Heilands Jesus Christus, dass du mich in seinem Tod tötest und in seiner Auferstehung in Ihm lebendig machst, damit ich nicht mehr nach meines Geistes Willen in ihm wandle, sondern in Ihm, sodass ich sein Tempel und Wohnhaus sein kann, damit Er mich leite und führe, und dass ich ohne Ihn nichts wollen oder tun könne. Verbinde mich mit Ihm, auf dass ich eine gute Rebe an seinem Weinstock sei und in seiner Kraft gute Früchte trage. In deine Zusage versinke ich ganz und gar, und mir geschehe nach deinem Wort und Willen. Amen.
 :::
 
@@ -1492,7 +1493,7 @@ Ohne Ideale oder Gewalt
 Sie muss nicht sagen, dass sie treu ist,  
 Doch ist sie wahr, wie Eis, wie Feuer  
 Menschen versuchen es mit Rosen  
-Und indem Sie Versprechen geben  
+Und indem sie Versprechen geben  
 Meine Liebe lacht wie die Blumen  
 Kaufen lässt sie sich nicht
 
@@ -1646,7 +1647,7 @@ Empfehlungen, Ausblick
 Ach holdseliges Lieb, gib mir doch deine Perle, dass ich ewig möchte in solcher Freude stehen.
 
 ::: fragment
-* In dein irdisch Fleisch vermähle ich mich nicht, denn ich bin eine Königin der Himmeln ...
+In dein irdisch Fleisch vermähle ich mich nicht, denn ich bin eine Königin der Himmeln ...
 :::
 
 [Von wahrer Buße, Kapitel *Die Pforte des paradeisischen Rosengartens*, Begegnung der Seele mit Sophia, in: Der Weg zu Christo]{style="font-size: 1.5rem"}
@@ -1689,35 +1690,6 @@ So müsste ich hernach ewig meines Buhlen beraubt sein.
 ::: column
 ```{r}
 include_graphics("libs/_Images/pexels-pixabay-262786.jpg")
-```
-:::
-::::
-
-[Isis, Album *Desire*, 1976]{style="font-size: 1.5rem"}
-
-## Nüchternheit: Dylan
-
-So vollzieht sich die glorienvolle Wieder-Verbindung:
-
-:::: columns
-::: {.column .incremental width="60%" style="font-size: 1.9rem"}
-* [Seele: Wo warst Du?]{style="color: yellow"}
-* Mensch: An keinem besonderen Ort
-* [Seele: Du sieht anders aus]{style="color: yellow"}
-* Mensch: Ja, kann schon sein
-* [Seele: Du warst weg]{style="color: yellow"}
-* Mensch: Ist doch normal
-* [Seele: Wirst Du diesmal bleiben?]{style="color: yellow"}
-* Mensch: Ja, vielleicht …
-
-:::
-
-::: column
-```{r}
-#| out-width: "90%"
-#| out-height: "90%"
-
-include_graphics("libs/_Images/Desire.jpg")
 ```
 :::
 ::::
@@ -2265,7 +2237,7 @@ I know I will sustain
 
 ## Vielen Dank!
 
-::: {.incremental style="font-size: 1.9rem"}
+::: {style="font-size: 1.9rem"}
 * Böhme wie Dylan laden zu einer spirituellen Reise ins eigene Innere ein.
 * Auf dieser Reise kann man nicht bleiben, wer man ist.
 * Wenn das Unsterbliche in uns erwacht,  
@@ -2280,14 +2252,14 @@ I know I will sustain
 
 include_graphics("libs/_Images/Böhme-Pushpak.png")
 ```
-[Quelle: Joseph Mulder nach Jan Luyken, 1686]{style="font-size: 1.5rem"}
+
 :::
 
 ::: column
 ```{r}
 include_graphics("libs/_Images/Dylan.webp")
 ```
-[Quelle: giphy.com]{style="font-size: 1.5rem"}
+
 :::
 ::::
 
