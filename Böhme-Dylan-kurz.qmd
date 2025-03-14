@@ -366,17 +366,9 @@ Dylan wurde ausgebuht, verließ mit Band die Bühne, Peter Yarrow bat ihn, zurü
 
 ## Jakob Böhme: Produktivität
 
-* Geistige Schau 1600, mit 25 Jahren
-* Erst 1612 *Aurora oder Morgenröte im Aufgang*
-* Handschriftlich, für sich selbst geschrieben, Freunde fertigten ohne sein Wissen Abschriften
-* Görlitzer Pfarrer Gregor Richter erwirkte 1613 beim Stadtrat Schreibverbot
-* Erst 1619 schrieb Böhme wieder, ihm blieben nur noch fünf Jahre
+::: {style="font-size: 1.7rem"}
 
-
-## Jakob Böhme: Produktivität
-
-::: {style="font-size: 1.8rem"}
-
+* 1612: Aurora oder Morgenröte im Aufgang
 * 1619: Die drei Prinzipien göttlichen Wesens
 * 1620: Vom dreifachen Leben des Menschen
 * 1620: Von der Menschwerdung Jesu Christi
@@ -460,11 +452,9 @@ Empfehlungen, Ausblick
 
 ## Von der Kunst, Böhme zu lesen
 
-::: {style="font-size: 2.1rem"}
 Jakob Böhme ist nicht nur schwer zu lesen, so wie etwa Kant in vielen Kapiteln schwer zu lesen ist. Er ist überhaupt nicht zu lesen, wenn die Einstellung fehlt.  
 
 Seine Lektüre erfordert, könnte man sagen, gerade dieselben Vorbedingungen wie das mystische Erleben selber – sie fordert ein vorübergehendes „Leerwerden“, eine völlig freie Aufmerksamkeit und Seelenstille.  
-:::
 
 [Hermann Hesse, Gesammelte Werke, Band 12, S. 95]{style="font-size: 1.5rem"}
 
@@ -519,14 +509,12 @@ Adam war ein Mensch und ein Bild Gottes,
 ein Gleichnis von Gott.
 
 Das Licht schien in ihm.  
-Er stand in großer Schönheit, Freude und Lust,  
-mit einem kindlichen Gemüte.
+
+Er hatte Fleisch und Blut, aber himmlisch,  
+sein Wesen ("Essentien") war heilig. 
 
 
-[Von dem Dreyfachen Leben des Menschen, 7, 25<br>Mysterium Magnum, 18, 12]{style="font-size: 1.5rem"}
-
-
-[Dieser und die folgenden Auszüge wurden von **Ronald Steckel** zusammengestellt und sind dem Transkript des Films ***Morgenröte im Aufgang*** entnommen. Großer Dank an **Steckel, Klaus Weingarten, Jan Korthäuer, Max Hopp** und das **nootheater** und die **Organisation zur Umwandlung des Kinos** für die Veröffentlichung.<br>]{style="font-size: 1.5rem; line-height: 80%"}
+[Zitate von **Ronald Steckel** zusammengestellt und dem Transkript des Films ***Morgenröte im Aufgang*** entnommen. Großer Dank an **Steckel, Klaus Weingarten, Jan Korthäuer, Max Hopp** und das **nootheater** und die **Organisation zur Umwandlung des Kinos** für die Veröffentlichung.<br>]{style="font-size: 1.5rem; line-height: 80%"}
 
 :::notes
 Vor den Zeiten der Welt ist das Modell des Menschen  
@@ -559,11 +547,6 @@ sein Wesen ("Essentien") war heilig.
 
 [Von dem Dreyfachen Leben des Menschen, 7, 25]{style="font-size: 1.5rem"}
 
-:::
-
-
-## Göttlicher Ursprung des Menschen: Böhme
-
 Sein Kleid war die Klarheit in der Kraft Gottes,  
 sein Sehen war Tag und Nacht  
 mit geöffneten Augen ohne Wimpern,  
@@ -574,6 +557,8 @@ und er war ganz und vollkommen.
 
 
 [Beschreibung der Drey Principien Göttliches Wesens, 10, 18]{style="font-size: 1.5rem"}
+
+:::
 
 
 ## Göttlicher Ursprung des Menschen: Dylan
@@ -587,6 +572,8 @@ Doch wenn Du so weit von der Wahrheit entfernt bist
 Was nützt es Dir?
 
 [Jokerman, Album *Infidels*, 1983]{style="font-size: 1.5rem"}
+
+[dazu Klappentext "Die Ägyptische Urgnosis" Band 1, Jan van Rijckenborgh]{style="font-size: 1.5rem"}
 :::
 
 ::: {.column width="35%"}
@@ -1907,9 +1894,6 @@ während Christus sich immer deutlicher in mir ausprägt.
 
 [Interview mit Karen Hughes, 1980]{style="font-size: 1.5rem"}
 
-Any preacher who is a real preacher will tell you that: ‘Don’t follow me, follow Christ.’
-
-You ask me about myself, but I’m becoming less and less defined as Christ becomes more and more defined.
 :::
 
 
@@ -1958,7 +1942,7 @@ Quelle auch hier: Aurora, Kapitel 19 https://www.deutschlandfunk.de/der-himmel-i
 
 Und der Tod erstirbt in der Liebe und wird in der Liebe zum Leben des göttlichen Freudenreichs, denn es ist kein Sterben, sondern ein freies Ergeben seiner Kraft, Macht und des Willens, eine Verwandlung. Das Blut der Jungfrau verwandelt das Menschliche, an Gott Gestorbene, in ein Himmlisches.
 
-[De Signatura Rerum, 11.37]{style="font-size: 1.5rem"}
+[De Signatura Rerum, 11.37 (Von der Geburt und Bezeichnung aller Wesen)]{style="font-size: 1.5rem"}
 
 Ausführlicher:
 
