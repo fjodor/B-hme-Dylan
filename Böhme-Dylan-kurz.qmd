@@ -119,6 +119,7 @@ Empfehlungen, Ausblick
 ::: incremental
 * Bob Dylan ist ein Relikt der 1960er Jahre
 * Bob Dylan konvertierte zum Christentum mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich vom Christentum abgewandt
+* Beide Annahmen aus meiner Sicht nicht haltbar!
 :::
 
 ::: notes
@@ -2036,6 +2037,8 @@ Nüchternheit, Lebenshaltung
 
 ## Empfehlungen: Böhme
 
+::: {style="font-size: 2.1rem"}
+
 * Der Weg zu Christo, 1624
 * Pushpak: <http://www.boehme.pushpak.de/>  
   + Alle Werke in moderner Bearbeitung, gut verständlich
@@ -2046,6 +2049,7 @@ Nüchternheit, Lebenshaltung
 * Hörstück *Höre Du blinder Mensch* von Ronald Steckel  
   nach Texten von Böhme
 
+:::
 
 ::: notes
 Film Morgenröte im Aufgang, Trailer: https://youtu.be/gIenwcT6_pM?si=KKozmntkdFja_60j
@@ -2131,17 +2135,21 @@ include_graphics("libs/_Images/ImNotThere-Film.jpg")
 :::: columns
 ::: {.column style="font-size: 1.8rem"}
 * Bücher über Bob Dylan
-  + *Bob Dylan - The Essential Interviews*, 2006, herausgegeben von **Jonathan Cott**
+  + *Bob Dylan - The Essential Interviews*, 2006, herausgegeben von <br>**Jonathan Cott**
   + *Bob Dylan - A Spiritual Life*, 2017, von **Scott M. Marshall**
 
 * Bücher von Bob Dylan
   + *Chronicles, Vol. 1*, 2004: Autobiografie
   + *The Philosophy of Modern Song* /  
     *Die Philosophie des Modernen Songs*, 2022
+    
 :::
 
 ::: column
 ```{r}
+#| out-width: "75%"
+#| out-height: "75%"
+
 include_graphics("libs/_Images/philosophy-of-modern-song.jpg")
 ```
 :::
