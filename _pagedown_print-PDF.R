@@ -13,12 +13,9 @@ pagedown::chrome_print("Böhme-Dylan-kurz.html",
                        output = "Böhme-Dylan-kurz.pdf")
 
 
-# Leere Folie 27 löschen
-# Folie 42 (HTML Widgets) ersetzen
-
 qpdf::pdf_subset(input = "Böhme-Dylan-kurz.pdf",
-           pages = c(1:2, 4:27, 29:66),
-           output = "Böhme-Dylan-kurz.pdf")
+           pages = c(1:2, 4:27, 29:71, 74:80, 82, 83),
+           output = "Böhme-Dylan-kurz2.pdf")
 
 
 # qpdf::pdf_combine(input = c(
