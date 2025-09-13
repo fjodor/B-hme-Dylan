@@ -112,13 +112,12 @@ Empfehlungen, Ausblick
 
 ::: notes
 
-## Thesen zu Dylan
+Thesen zu Dylan
 
-::: incremental
+(incremental)
 * Bob Dylan ist ein Relikt der 1960er Jahre
 * Bob Dylan konvertierte zum Christentum mit den Alben der "Christlichen Trilogie" 1979 - 1981; danach hat er sich vom Christentum abgewandt
 * Beide Annahmen aus meiner Sicht nicht haltbar!
-:::
 
 * Jakob Böhme genießt in spirituellen Kreisen einen weitaus besseren Ruf als Dylan. In Böhmes Fall zurecht - über Dylan reden wir ...
 * Klub 27:  Jim Morrison, Brian Jones, Janis Joplin, Jimi Hendrix (alle 1969 - 1971); Kurt Cobain (1994); Amy Winehouse (2011)
@@ -599,6 +598,15 @@ But with the truth so far off, what good will it do?
 
 So steigt er empor von Herrlichkeit zu Herrlichkeit, vereint mit dem Geist, und lässt das Totengebein, die vielen missglückten Versuche, in der Wüste der dialektischen Vergangenheit zurück.
 :::
+
+
+## Göttlicher Ursprung des Menschen: Dylan
+
+```{r}
+#| fig.align: "center"
+
+include_graphics("libs/_Images/Johfra-Sohn-der-Schlangen.jpg")
+```
 
 
 ## Welterkenntnis: Böhme
@@ -1734,7 +1742,10 @@ Von Böhme wird berichtet, dass er, schwerkrank am Ende seines Lebens, von einer
 :::: columns
 ::: column
 Massive Anfeindungen nach Veröffentlichung seiner "christlichen Alben"  
-  *Slow Train Coming*, 1979; *Saved*, 1980; *Shot of Love*, 1981
+
+- *Slow Train Coming*, 1979
+- *Saved*, 1980
+- *Shot of Love*, 1981
 :::
 
 ::: {.column style="font-size: 1.5rem"}
